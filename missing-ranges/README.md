@@ -1,4 +1,4 @@
-<h2>unknown-problem</h2><h3>Easy</h3><hr><div><p>You are given an inclusive range <code>[lower, upper]</code> and a <strong>sorted unique</strong> integer array <code>nums</code>, where all elements are in the inclusive range.</p>
+<h2>163. Missing Ranges</h2><h3>Easy</h3><hr><div><p>You are given an inclusive range <code>[lower, upper]</code> and a <strong>sorted unique</strong> integer array <code>nums</code>, where all elements are in the inclusive range.</p>
 
 <p>A number <code>x</code> is considered <strong>missing</strong> if <code>x</code> is in the range <code>[lower, upper]</code> and <code>x</code> is not in <code>nums</code>.</p>
 
