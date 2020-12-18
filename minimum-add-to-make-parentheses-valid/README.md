@@ -1,4 +1,4 @@
-<h2>unknown-problem</h2><h3>Medium</h3><hr><div><p>Given a string&nbsp;<code>S</code> of <code>'('</code> and <code>')'</code> parentheses, we add the minimum number of parentheses ( <code>'('</code> or <code>')'</code>, and in any positions ) so that the resulting parentheses string is valid.</p>
+<h2>921. Minimum Add to Make Parentheses Valid</h2><h3>Medium</h3><hr><div><p>Given a string&nbsp;<code>S</code> of <code>'('</code> and <code>')'</code> parentheses, we add the minimum number of parentheses ( <code>'('</code> or <code>')'</code>, and in any positions ) so that the resulting parentheses string is valid.</p>
 
 <p>Formally, a parentheses string is valid if and only if:</p>
 
