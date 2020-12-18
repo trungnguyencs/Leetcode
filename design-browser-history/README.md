@@ -1,4 +1,4 @@
-<h2>unknown-problem</h2><h3>Medium</h3><hr><div><p>You have a <strong>browser</strong> of one tab where you start on the <code>homepage</code> and you can visit another <code>url</code>, get back in the history number of <code>steps</code> or move forward in the history number of <code>steps</code>.</p>
+<h2>1472. Design Browser History</h2><h3>Medium</h3><hr><div><p>You have a <strong>browser</strong> of one tab where you start on the <code>homepage</code> and you can visit another <code>url</code>, get back in the history number of <code>steps</code> or move forward in the history number of <code>steps</code>.</p>
 
 <p>Implement the <code>BrowserHistory</code> class:</p>
 
