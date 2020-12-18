@@ -1,4 +1,3 @@
-[Discussion Post (created on 17/11/2020 at 15:14)](https://leetcode.com/problems/4sum/submissions/)  
 <h2>18. 4Sum</h2><h3>Medium</h3><hr><div><p>Given an array <code>nums</code> of <em>n</em> integers and an integer <code>target</code>, are there elements <em>a</em>, <em>b</em>, <em>c</em>, and <em>d</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> + <em>d</em> = <code>target</code>? Find all unique quadruplets in the array which gives the sum of <code>target</code>.</p>
 
 <p><strong>Notice</strong>&nbsp;that&nbsp;the solution set must not contain duplicate quadruplets.</p>
