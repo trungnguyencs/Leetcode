@@ -23,7 +23,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[344. Reverse String](../main/reverse-string/README.md)|[Solution](../main/reverse-string/reverse-string.py)|||
 |[342. Power of Four](../main/power-of-four/README.md)|[Solution](../main/power-of-four/power-of-four.py)|||
 |[326. Power of Three](../main/power-of-three/README.md)|[Solution](../main/power-of-three/power-of-three.py)|||
-|[303. Range Sum Query - Immutable](../main/range-sum-queryimmutable/README.md)|[Solution](../main/range-sum-queryimmutable/range-sum-queryimmutable.py)|||
+|[303. Range Sum Query - Immutable](../main/range-sum-query-immutable/README.md)|[Solution](../main/range-sum-query-immutable/range-sum-query-immutable.py)|||
 |[290. Word Pattern](../main/word-pattern/README.md)|[Solution](../main/word-pattern/word-pattern.py)|||
 |[283. Move Zeroes](../main/move-zeroes/README.md)|[Solution](../main/move-zeroes/move-zeroes.py)|||
 |[278. First Bad Version](../main/first-bad-version/README.md)|[Solution](../main/first-bad-version/first-bad-version.py)|||
@@ -57,10 +57,10 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[190. Reverse Bits](../main/reverse-bits/README.md)|[Solution](../main/reverse-bits/reverse-bits.py)|||
 |[172. Factorial Trailing Zeroes](../main/factorial-trailing-zeroes/README.md)|[Solution](../main/factorial-trailing-zeroes/factorial-trailing-zeroes.py)|||
 |[171. Excel Sheet Column Number](../main/excel-sheet-column-number/README.md)|[Solution](../main/excel-sheet-column-number/excel-sheet-column-number.py)|||
-|[170. Two Sum III - Data structure design](../main/two-sum-iiidata-structure-design/README.md)|[Solution](../main/two-sum-iiidata-structure-design/two-sum-iiidata-structure-design.py)|||
+|[170. Two Sum III - Data structure design](../main/two-sum-iii-data-structure-design/README.md)|[Solution](../main/two-sum-iii-data-structure-design/two-sum-iii-data-structure-design.py)|||
 |[169. Majority Element](../main/majority-element/README.md)|[Solution](../main/majority-element/majority-element.py)|||
 |[168. Excel Sheet Column Title](../main/excel-sheet-column-title/README.md)|[Solution](../main/excel-sheet-column-title/excel-sheet-column-title.py)|||
-|[167. Two Sum II - Input array is sorted](../main/two-sum-iiinput-array-is-sorted/README.md)|[Solution](../main/two-sum-iiinput-array-is-sorted/two-sum-iiinput-array-is-sorted.py)|||
+|[167. Two Sum II - Input array is sorted](../main/two-sum-ii-input-array-is-sorted/README.md)|[Solution](../main/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.py)|||
 |[163. Missing Ranges](../main/missing-ranges/README.md)|[Solution](../main/missing-ranges/missing-ranges.py)|||
 |[160. Intersection of Two Linked Lists](../main/intersection-of-two-linked-lists/README.md)|[Solution](../main/intersection-of-two-linked-lists/intersection-of-two-linked-lists.py)|||
 |[157. Read N Characters Given Read4](../main/read-n-characters-given-read4/README.md)|[Solution](../main/read-n-characters-given-read4/read-n-characters-given-read4.py)|||
