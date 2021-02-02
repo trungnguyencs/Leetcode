@@ -9,6 +9,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/fizz-buzz/fizz-buzz.py/)|
 |[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindrome/longest-palindrome.py/)|
 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/sum-of-left-leaves/sum-of-left-leaves.py/)|
+|[401. Binary Watch](https://leetcode.com/problems/binary-watch/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/binary-watch/binary-watch.py/)|
 |[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/is-subsequence/is-subsequence.py/)|
 |[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/find-the-difference/find-the-difference.py/)|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/first-unique-character-in-a-string/first-unique-character-in-a-string.py/)|
@@ -70,8 +71,8 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/valid-palindrome/valid-palindrome.py/)|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py/)|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py/)|
-|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle-ii/pascals-triangle-ii.py/)|
-|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle/pascals-triangle.py/)|
+|[119. Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle-ii/pascals-triangle-ii.py/)|
+|[118. Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle/pascals-triangle.py/)|
 |[112. Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/path-sum/path-sum.py/)|
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py/)|
 |[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/balanced-binary-tree/balanced-binary-tree.py/)|
@@ -83,14 +84,14 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/merge-sorted-array/merge-sorted-array.py/)|
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py/)|
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/climbing-stairs/climbing-stairs.py/)|
-|[69. Sqrtx](https://leetcode.com/problems/sqrtx/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/sqrtx/sqrtx.py/)|
+|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/sqrtx/sqrtx.py/)|
 |[67. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/add-binary/add-binary.py/)|
 |[66. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/plus-one/plus-one.py/)|
 |[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/length-of-last-word/length-of-last-word.py/)|
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/maximum-subarray/maximum-subarray.py/)|
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/count-and-say/count-and-say.py/)|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/search-insert-position/search-insert-position.py/)|
-|[28. Implement strStr](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/implement-strstr/implement-strstr.py/)|
+|[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/implement-strstr/implement-strstr.py/)|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/remove-element/remove-element.py/)|
 |[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py/)|
 |[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/merge-two-sorted-lists/merge-two-sorted-lists.py/)|
