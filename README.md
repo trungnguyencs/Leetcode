@@ -74,7 +74,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[118. Pascal's Triangle](../main//README.md)|[Solution](../main//.py)||
 |[112. Path Sum](../main//README.md)|[Solution](../main//.py)||
 |[111. Minimum Depth of Binary Tree](../main//README.md)|[Solution](../main//.py)||
-|[110. Balanced Binary Tree](../main//)|[Solution](../main//README.md)|[Solution](../main//.py)||
+|[110. Balanced Binary Tree](../main//README.md)|[Solution](../main//.py)||
 |[108. Convert Sorted Array to Binary Search Tree](../main//README.md)|[Solution](../main//.py)||
 |[107. Binary Tree Level Order Traversal II](../main//README.md)|[Solution](../main//.py)||
 |[104. Maximum Depth of Binary Tree](../main//README.md)|[Solution](../main//.py)||
