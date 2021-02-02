@@ -71,8 +71,8 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/valid-palindrome/valid-palindrome.py/)|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py/)|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py/)|
-|[119. Pascals Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle-ii/pascals-triangle-ii.py/)|
-|[118. Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle/pascals-triangle.py/)|
+|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle-ii/pascals-triangle-ii.py/)|
+|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/pascals-triangle/pascals-triangle.py/)|
 |[112. Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/path-sum/path-sum.py/)|
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py/)|
 |[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/balanced-binary-tree/balanced-binary-tree.py/)|
