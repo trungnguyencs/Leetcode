@@ -2,7 +2,8 @@
 Solutions to Data Structures & Algorithms coding problems, updated daily.
 
 ## Easy
-Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
+|      Title     |    Solution   |     Topic     |      Note     |
+|----------------|---------------|---------------|---------------|
 |[415. Add Strings](../main/add-strings/README.md)|[Solution](../main/add-strings/add-strings.py)|||
 |[414. Third Maximum Number](../main/third-maximum-number/README.md)|[Solution](../main/third-maximum-number/third-maximum-number.py)|||
 |[412. Fizz Buzz](../main/fizz-buzz/README.md)|[Solution](../main/fizz-buzz/fizz-buzz.py)|||
