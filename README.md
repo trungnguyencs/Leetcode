@@ -1,6 +1,11 @@
 # Leetcode
 Solutions to Data Structures & Algorithms coding problems, updated daily.
 
+## Medium
+|      Title     |    Solution   |
+|----------------|---------------|
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/add-two-numbers/add-two-numbers.py/)|
+
 ## Easy
 |      Title     |    Solution   |
 |----------------|---------------|
