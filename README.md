@@ -4,10 +4,16 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 ## Easy
 |      Title     |    Solution   |
 |----------------|---------------|
+|[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.py/)|
+|[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py/)|
+|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/arranging-coins/arranging-coins.py/)|
+|[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/number-of-segments-in-a-string/number-of-segments-in-a-string.py/)|
+|[422. Valid Word Square](https://leetcode.com/problems/valid-word-square/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/valid-word-square/valid-word-square.py/)|
 |[415. Add Strings](https://leetcode.com/problems/add-strings/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/add-strings/add-strings.py/)|
 |[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/third-maximum-number/third-maximum-number.py/)|
 |[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/fizz-buzz/fizz-buzz.py/)|
 |[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindrome/longest-palindrome.py/)|
+|[408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/valid-word-abbreviation/valid-word-abbreviation.py/)|
 |[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/sum-of-left-leaves/sum-of-left-leaves.py/)|
 |[401. Binary Watch](https://leetcode.com/problems/binary-watch/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/binary-watch/binary-watch.py/)|
 |[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/is-subsequence/is-subsequence.py/)|
