@@ -4,6 +4,8 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 ## Medium
 |      Title     |    Solution   |
 |----------------|---------------|
+|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindromic-substring/longest-palindromic-substring.py/)|
+|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py/)|
 |[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](https://github.com/trungnguyencs/Leetcode/blob/main/add-two-numbers/add-two-numbers.py/)|
 
 ## Easy
