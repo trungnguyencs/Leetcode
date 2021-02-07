@@ -69,7 +69,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[merge-intervals.py](https://github.com/trungnguyencs/Leetcode/blob/main/merge-intervals/merge-intervals.py/)|
 |[55. Jump Game](https://leetcode.com/problems/jump-game/)|[jump-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/jump-game/jump-game.py/)|
 |[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[spiral-matrix.py](https://github.com/trungnguyencs/Leetcode/blob/main/spiral-matrix/spiral-matrix.py/)|
-|[50. Pow(x, n)](https://leetcode.com/problems/powx,-n/)|[powx,-n.py](https://github.com/trungnguyencs/Leetcode/blob/main/powx,-n/powx,-n.py/)|
+|[50. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[powx-n.py](https://github.com/trungnguyencs/Leetcode/blob/main/powx-n/powx-n.py/)|
 |[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[group-anagrams.py](https://github.com/trungnguyencs/Leetcode/blob/main/group-anagrams/group-anagrams.py/)|
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[rotate-image.py](https://github.com/trungnguyencs/Leetcode/blob/main/rotate-image/rotate-image.py/)|
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii/)|[permutations-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/permutations-ii/permutations-ii.py/)|
