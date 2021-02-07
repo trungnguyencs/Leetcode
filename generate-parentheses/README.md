@@ -1,4 +1,3 @@
-[Discussion Post (created on 6/1/2021 at 16:55)](https://leetcode.com/problems/generate-parentheses/submissions/)  
 <h2>22. Generate Parentheses</h2><h3>Medium</h3><hr><div><p>Given <code>n</code> pairs of parentheses, write a function to <em>generate all combinations of well-formed parentheses</em>.</p>
 
 <p>&nbsp;</p>
