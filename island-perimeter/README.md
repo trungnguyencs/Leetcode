@@ -1,3 +1,4 @@
+[Discussion Post (created on 7/1/2021 at 17:17)](https://leetcode.com/problems/island-perimeter/discuss/?currentPage=1&orderBy=most_votes&query=)  
 <h2>463. Island Perimeter</h2><h3>Easy</h3><hr><div><p>You are given <code>row x col</code> <code>grid</code> representing a map where <code>grid[i][j] = 1</code> represents&nbsp;land and <code>grid[i][j] = 0</code> represents water.</p>
 
 <p>Grid cells are connected <strong>horizontally/vertically</strong> (not diagonally). The <code>grid</code> is completely surrounded by water, and there is exactly one island (i.e., one or more connected land cells).</p>
