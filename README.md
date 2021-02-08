@@ -100,6 +100,14 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 ## Easy
 |      Title     |    Solution   |
 |----------------|---------------|
+|[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[next-greater-element-i.py](https://github.com/trungnguyencs/Leetcode/blob/main/next-greater-element-i/next-greater-element-i.py/)|
+|[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[construct-the-rectangle.py](https://github.com/trungnguyencs/Leetcode/blob/main/construct-the-rectangle/construct-the-rectangle.py/)|
+|[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[max-consecutive-ones.py](https://github.com/trungnguyencs/Leetcode/blob/main/max-consecutive-ones/max-consecutive-ones.py/)|
+|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[license-key-formatting.py](https://github.com/trungnguyencs/Leetcode/blob/main/license-key-formatting/license-key-formatting.py/)|
+|[476. Number Complement](https://leetcode.com/problems/number-complement/)|[number-complement.py](https://github.com/trungnguyencs/Leetcode/blob/main/number-complement/number-complement.py/)|
+|[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[island-perimeter.py](https://github.com/trungnguyencs/Leetcode/blob/main/island-perimeter/island-perimeter.py/)|
+|[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[hamming-distance.py](https://github.com/trungnguyencs/Leetcode/blob/main/hamming-distance/hamming-distance.py/)|
+|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[repeated-substring-pattern.py](https://github.com/trungnguyencs/Leetcode/blob/main/repeated-substring-pattern/repeated-substring-pattern.py/)|
 |[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[minimum-moves-to-equal-array-elements.py](https://github.com/trungnguyencs/Leetcode/blob/main/minimum-moves-to-equal-array-elements/minimum-moves-to-equal-array-elements.py/)|
 |[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[find-all-numbers-disappeared-in-an-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py/)|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[arranging-coins.py](https://github.com/trungnguyencs/Leetcode/blob/main/arranging-coins/arranging-coins.py/)|
