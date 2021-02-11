@@ -1,6 +1,11 @@
 # Leetcode
 Solutions to Data Structures & Algorithms coding problems, updated daily.
 
+## Hard
+|      Title     |    Solution   |
+|----------------|---------------|
+|[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[merge-k-sorted-lists.py](https://github.com/trungnguyencs/Leetcode/blob/main/merge-k-sorted-lists/merge-k-sorted-lists.py/)|
+
 ## Medium
 |      Title     |    Solution   |
 |----------------|---------------|
