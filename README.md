@@ -4,6 +4,11 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 ## Hard
 |      Title     |    Solution   |
 |----------------|---------------|
+|[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[find-median-from-data-stream.py](https://github.com/trungnguyencs/Leetcode/blob/main/find-median-from-data-stream/find-median-from-data-stream.py/)|
+|[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[word-ladder.py](https://github.com/trungnguyencs/Leetcode/blob/main/word-ladder/word-ladder.py/)|
+|[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[binary-tree-maximum-path-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/binary-tree-maximum-path-sum/binary-tree-maximum-path-sum.py/)|
+|[72. Edit Distance](https://leetcode.com/problems/edit-distance/)|[edit-distance.py](https://github.com/trungnguyencs/Leetcode/blob/main/edit-distance/edit-distance.py/)|
+|[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[reverse-nodes-in-k-group.py](https://github.com/trungnguyencs/Leetcode/blob/main/reverse-nodes-in-k-group/reverse-nodes-in-k-group.py/)|
 |[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[merge-k-sorted-lists.py](https://github.com/trungnguyencs/Leetcode/blob/main/merge-k-sorted-lists/merge-k-sorted-lists.py/)|
 
 ## Medium
