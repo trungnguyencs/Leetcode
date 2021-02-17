@@ -84,7 +84,6 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[rotate-image.py](https://github.com/trungnguyencs/Leetcode/blob/main/rotate-image/rotate-image.py/)|
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii/)|[permutations-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/permutations-ii/permutations-ii.py/)|
 |[46. Permutations](https://leetcode.com/problems/permutations/)|[permutations.py](https://github.com/trungnguyencs/Leetcode/blob/main/permutations/permutations.py/)|
-|[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiply-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/multiply-strings/multiply-strings.py/)|
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[combination-sum-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/combination-sum-ii/combination-sum-ii.py/)|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[combination-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/combination-sum/combination-sum.py/)|
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[count-and-say.py](https://github.com/trungnguyencs/Leetcode/blob/main/count-and-say/count-and-say.py/)|
@@ -103,7 +102,6 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[integer-to-roman.py](https://github.com/trungnguyencs/Leetcode/blob/main/integer-to-roman/integer-to-roman.py/)|
 |[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[container-with-most-water.py](https://github.com/trungnguyencs/Leetcode/blob/main/container-with-most-water/container-with-most-water.py/)|
 |[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[string-to-integer-atoi.py](https://github.com/trungnguyencs/Leetcode/blob/main/string-to-integer-atoi/string-to-integer-atoi.py/)|
-|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[zigzag-conversion.py](https://github.com/trungnguyencs/Leetcode/blob/main/zigzag-conversion/zigzag-conversion.py/)|
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[longest-palindromic-substring.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindromic-substring/longest-palindromic-substring.py/)|
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[longest-substring-without-repeating-characters.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py/)|
 |[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[add-two-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/add-two-numbers/add-two-numbers.py/)|
