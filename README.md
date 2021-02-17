@@ -87,6 +87,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiply-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/multiply-strings/multiply-strings.py/)|
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[combination-sum-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/combination-sum-ii/combination-sum-ii.py/)|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[combination-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/combination-sum/combination-sum.py/)|
+|[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[count-and-say.py](https://github.com/trungnguyencs/Leetcode/blob/main/count-and-say/count-and-say.py/)|
 |[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[valid-sudoku.py](https://github.com/trungnguyencs/Leetcode/blob/main/valid-sudoku/valid-sudoku.py/)|
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py/)|
 |[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[search-in-rotated-sorted-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/search-in-rotated-sorted-array/search-in-rotated-sorted-array.py/)|
@@ -209,7 +210,6 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[66. Plus One](https://leetcode.com/problems/plus-one/)|[plus-one.py](https://github.com/trungnguyencs/Leetcode/blob/main/plus-one/plus-one.py/)|
 |[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[length-of-last-word.py](https://github.com/trungnguyencs/Leetcode/blob/main/length-of-last-word/length-of-last-word.py/)|
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximum-subarray.py](https://github.com/trungnguyencs/Leetcode/blob/main/maximum-subarray/maximum-subarray.py/)|
-|[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[count-and-say.py](https://github.com/trungnguyencs/Leetcode/blob/main/count-and-say/count-and-say.py/)|
 |[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[search-insert-position.py](https://github.com/trungnguyencs/Leetcode/blob/main/search-insert-position/search-insert-position.py/)|
 |[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[implement-strstr.py](https://github.com/trungnguyencs/Leetcode/blob/main/implement-strstr/implement-strstr.py/)|
 |[27. Remove Element](https://leetcode.com/problems/remove-element/)|[remove-element.py](https://github.com/trungnguyencs/Leetcode/blob/main/remove-element/remove-element.py/)|
