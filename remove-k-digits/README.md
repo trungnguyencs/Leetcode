@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/1/2021 at 0:13)](https://leetcode.com/problems/remove-k-digits/submissions/)  
 <h2>402. Remove K Digits</h2><h3>Medium</h3><hr><div><p>Given a non-negative integer <i>num</i> represented as a string, remove <i>k</i> digits from the number so that the new number is the smallest possible.
 </p>
 
