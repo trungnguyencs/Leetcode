@@ -1,3 +1,4 @@
+[Discussion Post (created on 27/1/2021 at 20:22)](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/discuss/1085900/Easy-Python-Greedy-solution)  
 <h2>1775. Equal Sum Arrays With Minimum Number of Operations</h2><h3>Medium</h3><hr><div><p>You are given two arrays of integers <code>nums1</code> and <code><font face="monospace">nums2</font></code>, possibly of different lengths. The values in the arrays are between <code>1</code> and <code>6</code>, inclusive.</p>
 
 <p>In one operation, you can change any integer's value in <strong>any </strong>of the arrays to <strong>any</strong> value between <code>1</code> and <code>6</code>, inclusive.</p>
