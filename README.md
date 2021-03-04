@@ -84,6 +84,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[48. Rotate Image](https://leetcode.com/problems/rotate-image/)|[rotate-image.py](https://github.com/trungnguyencs/Leetcode/blob/main/rotate-image/rotate-image.py/)|
 |[47. Permutations II](https://leetcode.com/problems/permutations-ii/)|[permutations-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/permutations-ii/permutations-ii.py/)|
 |[46. Permutations](https://leetcode.com/problems/permutations/)|[permutations.py](https://github.com/trungnguyencs/Leetcode/blob/main/permutations/permutations.py/)|
+|[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiply-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/multiply-strings/multiply-strings.py/)|
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[combination-sum-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/combination-sum-ii/combination-sum-ii.py/)|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[combination-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/combination-sum/combination-sum.py/)|
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|[count-and-say.py](https://github.com/trungnguyencs/Leetcode/blob/main/count-and-say/count-and-say.py/)|
@@ -91,6 +92,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[find-first-and-last-position-of-element-in-sorted-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py/)|
 |[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[search-in-rotated-sorted-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/search-in-rotated-sorted-array/search-in-rotated-sorted-array.py/)|
 |[31. Next Permutation](https://leetcode.com/problems/next-permutation/)|[next-permutation.py](https://github.com/trungnguyencs/Leetcode/blob/main/next-permutation/next-permutation.py/)|
+|[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[divide-two-integers.py](https://github.com/trungnguyencs/Leetcode/blob/main/divide-two-integers/divide-two-integers.py/)|
 |[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[swap-nodes-in-pairs.py](https://github.com/trungnguyencs/Leetcode/blob/main/swap-nodes-in-pairs/swap-nodes-in-pairs.py/)|
 |[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[generate-parentheses.py](https://github.com/trungnguyencs/Leetcode/blob/main/generate-parentheses/generate-parentheses.py/)|
 |[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[remove-nth-node-from-end-of-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py/)|
