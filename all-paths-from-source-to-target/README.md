@@ -1,3 +1,4 @@
+[Discussion Post (created on 8/2/2021 at 17:12)](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/)  
 <h2>797. All Paths From Source to Target</h2><h3>Medium</h3><hr><div><p>Given a directed&nbsp;acyclic graph (<strong>DAG</strong>) of <code>n</code> nodes labeled from 0 to n - 1,&nbsp;find all possible paths from node <code>0</code> to node <code>n - 1</code>, and return them in any order.</p>
 
 <p>The graph is given as follows:&nbsp;<code>graph[i]</code> is a list of all nodes you can visit from node <code>i</code>&nbsp;(i.e., there is a directed edge from node <code>i</code> to node <code>graph[i][j]</code>).</p>
