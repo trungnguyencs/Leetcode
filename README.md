@@ -14,6 +14,8 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 ## Medium
 |      Title     |    Solution   |
 |----------------|---------------|
+|[186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|[reverse-words-in-a-string-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/reverse-words-in-a-string-ii/reverse-words-in-a-string-ii.py/)|
+|[179. Largest Number](https://leetcode.com/problems/largest-number/)|[largest-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/largest-number/largest-number.py/)|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[binary-search-tree-iterator.py](https://github.com/trungnguyencs/Leetcode/blob/main/binary-search-tree-iterator/binary-search-tree-iterator.py/)|
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[fraction-to-recurring-decimal.py](https://github.com/trungnguyencs/Leetcode/blob/main/fraction-to-recurring-decimal/fraction-to-recurring-decimal.py/)|
 |[165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compare-version-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/compare-version-numbers/compare-version-numbers.py/)|
@@ -53,6 +55,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[reverse-linked-list-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/reverse-linked-list-ii/reverse-linked-list-ii.py/)|
 |[91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[decode-ways.py](https://github.com/trungnguyencs/Leetcode/blob/main/decode-ways/decode-ways.py/)|
 |[90. Subsets II](https://leetcode.com/problems/subsets-ii/)|[subsets-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/subsets-ii/subsets-ii.py/)|
+|[89. Gray Code](https://leetcode.com/problems/gray-code/)|[gray-code.py](https://github.com/trungnguyencs/Leetcode/blob/main/gray-code/gray-code.py/)|
 |[86. Partition List](https://leetcode.com/problems/partition-list/)|[partition-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/partition-list/partition-list.py/)|
 |[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[remove-duplicates-from-sorted-list-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.py/)|
 |[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[remove-duplicates-from-sorted-array-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.py/)|
@@ -98,7 +101,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[string-to-integer-atoi.py](https://github.com/trungnguyencs/Leetcode/blob/main/string-to-integer-atoi/string-to-integer-atoi.py/)|
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[longest-palindromic-substring.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindromic-substring/longest-palindromic-substring.py/)|
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[longest-substring-without-repeating-characters.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py/)|
-|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[add-two-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/add-two-numbers/add-two-numbers.py/)|
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[add-two-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/add-two-numbers/add-two-numbers.py/)||
 
 ## Easy
 |      Title     |    Solution   |
