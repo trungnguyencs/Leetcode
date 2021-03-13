@@ -52,6 +52,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[validate-binary-search-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/validate-binary-search-tree/validate-binary-search-tree.py/)|
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[unique-binary-search-trees.py](https://github.com/trungnguyencs/Leetcode/blob/main/unique-binary-search-trees/unique-binary-search-trees.py/)|
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binary-tree-inorder-traversal.py](https://github.com/trungnguyencs/Leetcode/blob/main/binary-tree-inorder-traversal/binary-tree-inorder-traversal.py/)|
+|[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[restore-ip-addresses.py](https://github.com/trungnguyencs/Leetcode/blob/main/restore-ip-addresses/restore-ip-addresses.py/)|
 |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[reverse-linked-list-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/reverse-linked-list-ii/reverse-linked-list-ii.py/)|
 |[91. Decode Ways](https://leetcode.com/problems/decode-ways/)|[decode-ways.py](https://github.com/trungnguyencs/Leetcode/blob/main/decode-ways/decode-ways.py/)|
 |[90. Subsets II](https://leetcode.com/problems/subsets-ii/)|[subsets-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/subsets-ii/subsets-ii.py/)|
