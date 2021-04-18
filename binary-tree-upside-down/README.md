@@ -1,3 +1,4 @@
+[Discussion Post (created on 18/3/2021 at 13:46)](https://leetcode.com/problems/binary-tree-upside-down/submissions/)  
 <h2>156. Binary Tree Upside Down</h2><h3>Medium</h3><hr><div><p>Given the <code>root</code> of a binary tree, turn the tree upside down and return <em>the new root</em>.</p>
 
 <p>You can turn a binary tree upside down with the following steps:</p>
