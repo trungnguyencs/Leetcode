@@ -14,6 +14,20 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 ## Medium
 |      Title     |    Solution   |
 |----------------|---------------|
+|[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[combination-sum-iii.py](https://github.com/trungnguyencs/Leetcode/blob/main/combination-sum-iii/combination-sum-iii.py/)|
+|[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[kth-largest-element-in-an-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/kth-largest-element-in-an-array/kth-largest-element-in-an-array.py/)|
+|[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|[house-robber-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/house-robber-ii/house-robber-ii.py/)|
+|[211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[design-add-and-search-words-data-structure.py](https://github.com/trungnguyencs/Leetcode/blob/main/design-add-and-search-words-data-structure/design-add-and-search-words-data-structure.py/)|
+|[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[course-schedule-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/course-schedule-ii/course-schedule-ii.py/)|
+|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[minimum-size-subarray-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/minimum-size-subarray-sum/minimum-size-subarray-sum.py/)|
+|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[implement-trie-prefix-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/implement-trie-prefix-tree/implement-trie-prefix-tree.py/)|
+|[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[course-schedule.py](https://github.com/trungnguyencs/Leetcode/blob/main/course-schedule/course-schedule.py/)|
+|[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[bitwise-and-of-numbers-range.py](https://github.com/trungnguyencs/Leetcode/blob/main/bitwise-and-of-numbers-range/bitwise-and-of-numbers-range.py/)|
+|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[number-of-islands.py](https://github.com/trungnguyencs/Leetcode/blob/main/number-of-islands/number-of-islands.py/)|
+|[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[binary-tree-right-side-view.py](https://github.com/trungnguyencs/Leetcode/blob/main/binary-tree-right-side-view/binary-tree-right-side-view.py/)|
+|[198. House Robber](https://leetcode.com/problems/house-robber/)|[house-robber.py](https://github.com/trungnguyencs/Leetcode/blob/main/house-robber/house-robber.py/)|
+|[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotate-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/rotate-array/rotate-array.py/)|
+|[187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[repeated-dna-sequences.py](https://github.com/trungnguyencs/Leetcode/blob/main/repeated-dna-sequences/repeated-dna-sequences.py/)|
 |[186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|[reverse-words-in-a-string-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/reverse-words-in-a-string-ii/reverse-words-in-a-string-ii.py/)|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[largest-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/largest-number/largest-number.py/)|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[binary-search-tree-iterator.py](https://github.com/trungnguyencs/Leetcode/blob/main/binary-search-tree-iterator/binary-search-tree-iterator.py/)|
