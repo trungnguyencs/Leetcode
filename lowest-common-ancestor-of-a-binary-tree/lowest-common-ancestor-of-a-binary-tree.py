@@ -10,6 +10,5 @@ class Solution:
         if not root: return None
         left = self.lowestCommonAncestor(root.left, p, q)
         right = self.lowestCommonAncestor(root.right, p, q)
-        if (left and right) or (root in [p, q] and (left or right)): return root
-        if root in [p, q]: return root
+        if (left and right) or root in [p, q]: return root
         return left or right
