@@ -1,13 +1,12 @@
 class Solution:
-    def maximalSquare(self, matrix: List[List[str]]) -> int:
-        if not matrix or not matrix[0]: return 0
-        ans = 0
-        for r in range(len(matrix)):
-            for c in range(len(matrix[0])):
-                upper = int(matrix[r-1][c]) if r > 0 else 0
-                left = int(matrix[r][c-1]) if c > 0 else 0
-                upperleft = int(matrix[r-1][c-1]) if r > 0 and c > 0 else 0
-                if matrix[r][c] == "1":
-                    matrix[r][c] = 1 + min(upper, left, upperleft)
-                    ans = max(ans, matrix[r][c])
-        return ans**2
+    def maximalSquare(self, matrix: List[List[str]]) -> int:
+        for r in range(len(matrix)):
+            for c in range(len(matrix[0])):
+                matrix[r][c] = int(matrix[r][c])
+        maxSquare = 1 if any(matrix[0]) or any([matrix[r][0] for r in range(1, len(matrix))]) else 0
+        for r in range(1, len(matrix)):
+            for c in range(1, len(matrix[0])):
+                if not matrix[r][c]: continue
+                matrix[r][c] = 1 + min(matrix[r-1][c], matrix[r][c-1], matrix[r-1][c-1])
+                maxSquare = max(maxSquare, matrix[r][c]**2)
+        return maxSquare
