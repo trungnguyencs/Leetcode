@@ -32,6 +32,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[meeting-rooms-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/meeting-rooms-ii/meeting-rooms-ii.py/)|
 |[251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[flatten-2d-vector.py](https://github.com/trungnguyencs/Leetcode/blob/main/flatten-2d-vector/flatten-2d-vector.py/)|
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[group-shifted-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/group-shifted-strings/group-shifted-strings.py/)|
+|[247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[strobogrammatic-number-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/strobogrammatic-number-ii/strobogrammatic-number-ii.py/)|
 |[245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|[shortest-word-distance-iii.py](https://github.com/trungnguyencs/Leetcode/blob/main/shortest-word-distance-iii/shortest-word-distance-iii.py/)|
 |[244. Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)|[shortest-word-distance-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/shortest-word-distance-ii/shortest-word-distance-ii.py/)|
 |[241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[different-ways-to-add-parentheses.py](https://github.com/trungnguyencs/Leetcode/blob/main/different-ways-to-add-parentheses/different-ways-to-add-parentheses.py/)|
@@ -147,7 +148,6 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[string-to-integer-atoi.py](https://github.com/trungnguyencs/Leetcode/blob/main/string-to-integer-atoi/string-to-integer-atoi.py/)|
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[longest-palindromic-substring.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindromic-substring/longest-palindromic-substring.py/)|
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[longest-substring-without-repeating-characters.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py/)|
-|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[add-two-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/add-two-numbers/add-two-numbers.py/)|
 
 ## Easy
 |      Title     |    Solution   |
