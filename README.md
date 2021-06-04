@@ -148,6 +148,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[string-to-integer-atoi.py](https://github.com/trungnguyencs/Leetcode/blob/main/string-to-integer-atoi/string-to-integer-atoi.py/)|
 |[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[longest-palindromic-substring.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindromic-substring/longest-palindromic-substring.py/)|
 |[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[longest-substring-without-repeating-characters.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.py/)|
+|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[add-two-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/add-two-numbers/add-two-numbers.py/)|
 
 ## Easy
 |      Title     |    Solution   |
