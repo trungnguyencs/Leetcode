@@ -31,6 +31,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[254. Factor Combinations](https://leetcode.com/problems/factor-combinations/)|[factor-combinations.py](https://github.com/trungnguyencs/Leetcode/blob/main/factor-combinations/factor-combinations.py/)|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[meeting-rooms-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/meeting-rooms-ii/meeting-rooms-ii.py/)|
 |[251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[flatten-2d-vector.py](https://github.com/trungnguyencs/Leetcode/blob/main/flatten-2d-vector/flatten-2d-vector.py/)|
+|[250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[count-univalue-subtrees.py](https://github.com/trungnguyencs/Leetcode/blob/main/count-univalue-subtrees/count-univalue-subtrees.py/)|
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[group-shifted-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/group-shifted-strings/group-shifted-strings.py/)|
 |[247. Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/)|[strobogrammatic-number-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/strobogrammatic-number-ii/strobogrammatic-number-ii.py/)|
 |[245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|[shortest-word-distance-iii.py](https://github.com/trungnguyencs/Leetcode/blob/main/shortest-word-distance-iii/shortest-word-distance-iii.py/)|
