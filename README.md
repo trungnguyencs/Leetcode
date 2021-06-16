@@ -28,6 +28,7 @@ Solutions to Data Structures & Algorithms coding problems, updated daily.
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[find-the-celebrity.py](https://github.com/trungnguyencs/Leetcode/blob/main/find-the-celebrity/find-the-celebrity.py/)|
 |[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[3sum-smaller.py](https://github.com/trungnguyencs/Leetcode/blob/main/3sum-smaller/3sum-smaller.py/)|
 |[256. Paint House](https://leetcode.com/problems/paint-house/)|[paint-house.py](https://github.com/trungnguyencs/Leetcode/blob/main/paint-house/paint-house.py/)|
+|[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|[verify-preorder-sequence-in-binary-search-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/verify-preorder-sequence-in-binary-search-tree/verify-preorder-sequence-in-binary-search-tree.py/)|
 |[254. Factor Combinations](https://leetcode.com/problems/factor-combinations/)|[factor-combinations.py](https://github.com/trungnguyencs/Leetcode/blob/main/factor-combinations/factor-combinations.py/)|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[meeting-rooms-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/meeting-rooms-ii/meeting-rooms-ii.py/)|
 |[251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[flatten-2d-vector.py](https://github.com/trungnguyencs/Leetcode/blob/main/flatten-2d-vector/flatten-2d-vector.py/)|
