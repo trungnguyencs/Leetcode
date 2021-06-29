@@ -1,21 +1,22 @@
 class Solution:
-    def canFinish(self, numCourses: int, reqs: List[List[int]]) -> bool:
-        G, indegree = self.buildGraph(reqs)
-        q = deque([x for x in range(numCourses) if indegree[x] == 0])
-        path = []
-        while q:
-            cur = q.popleft()
-            path.append(cur)
-            for parent in G[cur]:
-                indegree[parent] -= 1
-                if indegree[parent] == 0:
-                    q.append(parent)
-        return len(path) == numCourses
+    def canFinish(self, numCourses: int, prereqs: List[List[int]]) -> bool:
+        visited = defaultdict(int)
+        G = self.buildGraph(prereqs)
+        for i in range(numCourses):
+            if not self.dfs(i, G, visited): return False
+        return True
         
-    def buildGraph(self, reqs):
+    def dfs(self, cur, G, visited):
+        if visited[cur] == -1: return False
+        if visited[cur] == 1: return True
+        visited[cur] = -1
+        for neigh in G[cur]:
+            if not self.dfs(neigh, G, visited): return False
+        visited[cur] = 1
+        return True
+        
+    def buildGraph(self, prereqs):
         G = defaultdict(list)
-        indegree = defaultdict(int)
-        for s, e in reqs:
-            indegree[s] += 1
-            G[e].append(s)
-        return G, indegree
+        for s, e in prereqs:
+            G[s].append(e)
+        return G
