@@ -6,7 +6,6 @@ class PhoneDirectory:
         @param maxNumbers - The maximum numbers that can be stored in the phone directory.
         """
         self.avail = set([x for x in range(maxNumbers)])
-        self.taken = set()
 
     def get(self) -> int:
         """
@@ -14,9 +13,7 @@ class PhoneDirectory:
         @return - Return an available number. Return -1 if none is available.
         """
         if not self.avail: return -1
-        num = self.avail.pop()
-        self.taken.add(num)
-        return num
+        return self.avail.pop()
 
     def check(self, number: int) -> bool:
         """
@@ -28,8 +25,8 @@ class PhoneDirectory:
         """
         Recycle or release a number.
         """
-        self.taken.discard(number)
         self.avail.add(number)
+        
 
 
 # Your PhoneDirectory object will be instantiated and called as such:
