@@ -6,18 +6,6 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 ## Problems
 |     Title     |   Difficulty  |    Premium    |    Solution   |
 |---------------|---------------|---------------|---------------|
-
-    self.markdown = self.getMarkdown(id, originTitle, title, difficulty, premium)
-    
-  def getMarkdown(self, id, originTitle, title, difficulty, premium):
-    leetcodeUrl = "|[{id}. {originTitle}](https://leetcode.com/problems/{title}/)".format(id=id, originTitle=originTitle, title=title)
-    githubUrl = "[{title}.py](https://github.com/trungnguyencs/Leetcode/blob/main/{title}/{title}.py/)|".format(title=title)
-    return '|'.join([leetcodeUrl, difficulty, premium, githubUrl])
-
-def convertTitle(originTitle):
-  title = originTitle.lower()
-  for ch in '(),\'':
-
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy||[next-greater-element-i.py](https://github.com/trungnguyencs/Leetcode/blob/main/next-greater-element-i/next-greater-element-i.py/)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|Easy||[construct-the-rectangle.py](https://github.com/trungnguyencs/Leetcode/blob/main/construct-the-rectangle/construct-the-rectangle.py/)|
 |[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|Easy||[max-consecutive-ones.py](https://github.com/trungnguyencs/Leetcode/blob/main/max-consecutive-ones/max-consecutive-ones.py/)|
