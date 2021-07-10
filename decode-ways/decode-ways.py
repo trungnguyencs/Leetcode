@@ -1,22 +1,9 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
-        # if s[0] == '0': return 0
-        # dp = [0]*(len(s)+1)
-        # dp[0], dp[1] = 1, 1
-        # for i in range(1, len(s)):
-        #     if s[i-1] not in '12': return 0
-        #     dp_idx = i + 1
-        #     if 10 <= int(s[i-1:i+1]) <= 26: dp[dp_idx] += dp[dp_idx-2]
-        #     if 1 <= int(s[i]) <= 9: dp[dp_idx] += dp[dp_idx-1]
-        # return dp[-1]
-        
-        # O(1) space
-        if s[0] == '0': return 0
-        prev, cur = 1, 1
+        dic = defaultdict(int)
+        dic.update({str(one): 1 for one in range (1, 10)})
+        dic.update({str(two): 1 for two in range(10, 27)})
+        dp = 1, dic[s[:1]]
         for i in range(1, len(s)):
-            if s[i] == '0' and s[i-1] not in '12': return 0
-            nxt = 0
-            if 1 <= int(s[i]) <= 9: nxt += cur
-            if 10 <= int(s[i-1:i+1]) <= 26: nxt += prev
-            prev, cur = cur, nxt
-        return cur
+            dp = dp[1], dp[1]*dic[s[i]] + dp[0]*dic[s[i-1:i+1]]
+        return dp[1]
