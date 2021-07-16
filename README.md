@@ -7,6 +7,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |     Title     |   Difficulty  |    Premium    |    Solution   |
 |---------------|---------------|---------------|---------------|
 |[1429. First Unique Number](https://leetcode.com/problems/first-unique-number/)|Medium|Premium|[first-unique-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/first-unique-number/first-unique-number.py/)|
+|[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|Medium||[custom-sort-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/custom-sort-string/custom-sort-string.py/)|
 |[510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|Medium|Premium|[inorder-successor-in-bst-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/inorder-successor-in-bst-ii/inorder-successor-in-bst-ii.py/)|
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy||[next-greater-element-i.py](https://github.com/trungnguyencs/Leetcode/blob/main/next-greater-element-i/next-greater-element-i.py/)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|Easy||[construct-the-rectangle.py](https://github.com/trungnguyencs/Leetcode/blob/main/construct-the-rectangle/construct-the-rectangle.py/)|
@@ -65,8 +66,10 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[298. Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|Medium|Premium|[binary-tree-longest-consecutive-sequence.py](https://github.com/trungnguyencs/Leetcode/blob/main/binary-tree-longest-consecutive-sequence/binary-tree-longest-consecutive-sequence.py/)|
 |[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Hard||[find-median-from-data-stream.py](https://github.com/trungnguyencs/Leetcode/blob/main/find-median-from-data-stream/find-median-from-data-stream.py/)|
 |[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy||[word-pattern.py](https://github.com/trungnguyencs/Leetcode/blob/main/word-pattern/word-pattern.py/)|
+|[289. Game of Life](https://leetcode.com/problems/game-of-life/)|Medium||[game-of-life.py](https://github.com/trungnguyencs/Leetcode/blob/main/game-of-life/game-of-life.py/)|
 |[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium|Premium|[walls-and-gates.py](https://github.com/trungnguyencs/Leetcode/blob/main/walls-and-gates/walls-and-gates.py/)|
 |[285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Medium|Premium|[inorder-successor-in-bst.py](https://github.com/trungnguyencs/Leetcode/blob/main/inorder-successor-in-bst/inorder-successor-in-bst.py/)|
+|[284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|Medium||[peeking-iterator.py](https://github.com/trungnguyencs/Leetcode/blob/main/peeking-iterator/peeking-iterator.py/)|
 |[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy||[move-zeroes.py](https://github.com/trungnguyencs/Leetcode/blob/main/move-zeroes/move-zeroes.py/)|
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|Medium|Premium|[wiggle-sort.py](https://github.com/trungnguyencs/Leetcode/blob/main/wiggle-sort/wiggle-sort.py/)|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Medium||[perfect-squares.py](https://github.com/trungnguyencs/Leetcode/blob/main/perfect-squares/perfect-squares.py/)|
