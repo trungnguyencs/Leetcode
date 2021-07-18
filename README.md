@@ -6,6 +6,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 ## Problems
 |     Title     |   Difficulty  |    Premium    |    Solution   |
 |---------------|---------------|---------------|---------------|
+
+[ ]
+premiums = set(['1924', '1919', '1918', '1917', '1908', '1907', '1902', '1892', '1891', '1890', '1885', '1875', '1874', '1873', '1868', '1867', '1858', '1853', '1852', '1843', '1842', '1841', '1836', '1831', '1826', '1821', '1820', '1811', '1810', '1809', '1804', '1795', '1794', '1789', '1788', '1783', '1778', '1777', '1772', '1767', '1762', '1757', '1756', '1747', '1746', '1741', '1740', '1731', '1730', '1729', '1724', '1715', '1714', '1709', '1708', '1699', '1698', '1693', '1692', '1683', '168
 |[1429. First Unique Number](https://leetcode.com/problems/first-unique-number/)|Medium|Premium|[first-unique-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/first-unique-number/first-unique-number.py/)|
 |[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|Medium||[custom-sort-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/custom-sort-string/custom-sort-string.py/)|
 |[510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|Medium|Premium|[inorder-successor-in-bst-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/inorder-successor-in-bst-ii/inorder-successor-in-bst-ii.py/)|
