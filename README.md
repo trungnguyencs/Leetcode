@@ -7,7 +7,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |     Title     |   Difficulty  |    Premium    |    Solution   |
 |---------------|---------------|---------------|---------------|
 |[1429. First Unique Number](https://leetcode.com/problems/first-unique-number/)|Medium|Premium|[first-unique-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/first-unique-number/first-unique-number.py/)|
+|[895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|Hard||[maximum-frequency-stack.py](https://github.com/trungnguyencs/Leetcode/blob/main/maximum-frequency-stack/maximum-frequency-stack.py/)|
 |[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|Medium||[custom-sort-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/custom-sort-string/custom-sort-string.py/)|
+|[767. Reorganize String](https://leetcode.com/problems/reorganize-string/)|Medium||[reorganize-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/reorganize-string/reorganize-string.py/)|
 |[510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|Medium|Premium|[inorder-successor-in-bst-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/inorder-successor-in-bst-ii/inorder-successor-in-bst-ii.py/)|
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy||[next-greater-element-i.py](https://github.com/trungnguyencs/Leetcode/blob/main/next-greater-element-i/next-greater-element-i.py/)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|Easy||[construct-the-rectangle.py](https://github.com/trungnguyencs/Leetcode/blob/main/construct-the-rectangle/construct-the-rectangle.py/)|
@@ -81,6 +83,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[276. Paint Fence](https://leetcode.com/problems/paint-fence/)|Medium|Premium|[paint-fence.py](https://github.com/trungnguyencs/Leetcode/blob/main/paint-fence/paint-fence.py/)|
 |[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|Premium|[encode-and-decode-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/encode-and-decode-strings/encode-and-decode-strings.py/)|
 |[270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|Easy|Premium|[closest-binary-search-tree-value.py](https://github.com/trungnguyencs/Leetcode/blob/main/closest-binary-search-tree-value/closest-binary-search-tree-value.py/)|
+|[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Hard|Premium|[alien-dictionary.py](https://github.com/trungnguyencs/Leetcode/blob/main/alien-dictionary/alien-dictionary.py/)|
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)|Easy||[missing-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/missing-number/missing-number.py/)|
 |[267. Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|Medium|Premium|[palindrome-permutation-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/palindrome-permutation-ii/palindrome-permutation-ii.py/)|
 |[266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|Easy|Premium|[palindrome-permutation.py](https://github.com/trungnguyencs/Leetcode/blob/main/palindrome-permutation/palindrome-permutation.py/)|
