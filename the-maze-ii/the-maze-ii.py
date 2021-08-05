@@ -13,6 +13,7 @@ class Solution:
                     nc += dc
                     nd += 1
                 if [nr, nc] == destination: minDistance = min(minDistance, nd)
+                if nd > minDistance: continue
                 if (nr, nc) not in visited or visited[(nr, nc)] > nd:
                     visited[(nr, nc)] = nd
                     q.append((nr, nc))
