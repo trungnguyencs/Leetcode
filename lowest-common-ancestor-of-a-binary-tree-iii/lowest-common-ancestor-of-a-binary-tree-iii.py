@@ -10,9 +10,11 @@ class Node:
 
 class Solution:
     def lowestCommonAncestor(self, p: 'Node', q: 'Node') -> 'Node':
-        # similar to find interestion of 2 linked lists
-        curP, curQ = p, q
-        while curP != curQ:
-            curP = curP.parent if curP else q
-            curQ = curQ.parent if curQ else p
-        return curP
+        # O(n) space:
+        pParents = set()
+        while p:
+            pParents.add(p)
+            p = p.parent
+        while q not in pParents:
+            q = q.parent
+        return q  
