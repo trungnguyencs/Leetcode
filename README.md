@@ -7,6 +7,8 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |     Title     |   Difficulty  |    Premium    |    Solution   |
 |---------------|---------------|---------------|---------------|
 |[1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)|Medium|Premium|[buildings-with-an-ocean-view.py](https://github.com/trungnguyencs/Leetcode/blob/main/buildings-with-an-ocean-view/buildings-with-an-ocean-view.py/)|
+|[1522. Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/)|Medium|Premium|[diameter-of-n-ary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/diameter-of-n-ary-tree/diameter-of-n-ary-tree.py/)|
+|[1490. Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/)|Medium|Premium|[clone-n-ary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/clone-n-ary-tree/clone-n-ary-tree.py/)|
 |[1429. First Unique Number](https://leetcode.com/problems/first-unique-number/)|Medium|Premium|[first-unique-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/first-unique-number/first-unique-number.py/)|
 |[1428. Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|Medium|Premium|[leftmost-column-with-at-least-a-one.py](https://github.com/trungnguyencs/Leetcode/blob/main/leftmost-column-with-at-least-a-one/leftmost-column-with-at-least-a-one.py/)|
 |[1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|Medium|Premium|[meeting-scheduler.py](https://github.com/trungnguyencs/Leetcode/blob/main/meeting-scheduler/meeting-scheduler.py/)|
@@ -16,8 +18,10 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|Hard||[maximum-frequency-stack.py](https://github.com/trungnguyencs/Leetcode/blob/main/maximum-frequency-stack/maximum-frequency-stack.py/)|
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|Medium||[stone-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/stone-game/stone-game.py/)|
 |[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|Medium||[custom-sort-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/custom-sort-string/custom-sort-string.py/)|
+|[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|Medium||[is-graph-bipartite.py](https://github.com/trungnguyencs/Leetcode/blob/main/is-graph-bipartite/is-graph-bipartite.py/)|
 |[767. Reorganize String](https://leetcode.com/problems/reorganize-string/)|Medium||[reorganize-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/reorganize-string/reorganize-string.py/)|
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time/)|Hard|Premium|[employee-free-time.py](https://github.com/trungnguyencs/Leetcode/blob/main/employee-free-time/employee-free-time.py/)|
+|[694. Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|Medium|Premium|[number-of-distinct-islands.py](https://github.com/trungnguyencs/Leetcode/blob/main/number-of-distinct-islands/number-of-distinct-islands.py/)|
 |[582. Kill Process](https://leetcode.com/problems/kill-process/)|Medium|Premium|[kill-process.py](https://github.com/trungnguyencs/Leetcode/blob/main/kill-process/kill-process.py/)|
 |[545. Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|Medium|Premium|[boundary-of-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/boundary-of-binary-tree/boundary-of-binary-tree.py/)|
 |[510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|Medium|Premium|[inorder-successor-in-bst-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/inorder-successor-in-bst-ii/inorder-successor-in-bst-ii.py/)|
