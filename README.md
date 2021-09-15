@@ -6,6 +6,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 ## Problems
 |     Title     |   Difficulty  |    Premium    |    Solution   |
 |---------------|---------------|---------------|---------------|
+|[1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|Easy||[replace-all-digits-with-characters.py](https://github.com/trungnguyencs/Leetcode/blob/main/replace-all-digits-with-characters/replace-all-digits-with-characters.py/)|
 |[1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)|Medium|Premium|[buildings-with-an-ocean-view.py](https://github.com/trungnguyencs/Leetcode/blob/main/buildings-with-an-ocean-view/buildings-with-an-ocean-view.py/)|
 |[1522. Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/)|Medium|Premium|[diameter-of-n-ary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/diameter-of-n-ary-tree/diameter-of-n-ary-tree.py/)|
 |[1490. Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/)|Medium|Premium|[clone-n-ary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/clone-n-ary-tree/clone-n-ary-tree.py/)|
@@ -14,8 +15,10 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1428. Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/)|Medium|Premium|[leftmost-column-with-at-least-a-one.py](https://github.com/trungnguyencs/Leetcode/blob/main/leftmost-column-with-at-least-a-one/leftmost-column-with-at-least-a-one.py/)|
 |[1229. Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|Medium|Premium|[meeting-scheduler.py](https://github.com/trungnguyencs/Leetcode/blob/main/meeting-scheduler/meeting-scheduler.py/)|
 |[1197. Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)|Medium|Premium|[minimum-knight-moves.py](https://github.com/trungnguyencs/Leetcode/blob/main/minimum-knight-moves/minimum-knight-moves.py/)|
+|[1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Easy||[maximum-number-of-balloons.py](https://github.com/trungnguyencs/Leetcode/blob/main/maximum-number-of-balloons/maximum-number-of-balloons.py/)|
 |[1167. Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|Medium|Premium|[minimum-cost-to-connect-sticks.py](https://github.com/trungnguyencs/Leetcode/blob/main/minimum-cost-to-connect-sticks/minimum-cost-to-connect-sticks.py/)|
 |[1086. High Five](https://leetcode.com/problems/high-five/)|Easy|Premium|[high-five.py](https://github.com/trungnguyencs/Leetcode/blob/main/high-five/high-five.py/)|
+|[1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|Medium||[coloring-a-border.py](https://github.com/trungnguyencs/Leetcode/blob/main/coloring-a-border/coloring-a-border.py/)|
 |[895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|Hard||[maximum-frequency-stack.py](https://github.com/trungnguyencs/Leetcode/blob/main/maximum-frequency-stack/maximum-frequency-stack.py/)|
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|Medium||[stone-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/stone-game/stone-game.py/)|
 |[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|Medium||[custom-sort-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/custom-sort-string/custom-sort-string.py/)|
@@ -29,6 +32,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[545. Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|Medium|Premium|[boundary-of-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/boundary-of-binary-tree/boundary-of-binary-tree.py/)|
 |[510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|Medium|Premium|[inorder-successor-in-bst-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/inorder-successor-in-bst-ii/inorder-successor-in-bst-ii.py/)|
 |[505. The Maze II](https://leetcode.com/problems/the-maze-ii/)|Medium|Premium|[the-maze-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/the-maze-ii/the-maze-ii.py/)|
+|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|Easy||[keyboard-row.py](https://github.com/trungnguyencs/Leetcode/blob/main/keyboard-row/keyboard-row.py/)|
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy||[next-greater-element-i.py](https://github.com/trungnguyencs/Leetcode/blob/main/next-greater-element-i/next-greater-element-i.py/)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|Easy||[construct-the-rectangle.py](https://github.com/trungnguyencs/Leetcode/blob/main/construct-the-rectangle/construct-the-rectangle.py/)|
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|Medium|Premium|[the-maze.py](https://github.com/trungnguyencs/Leetcode/blob/main/the-maze/the-maze.py/)|
@@ -49,6 +53,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[422. Valid Word Square](https://leetcode.com/problems/valid-word-square/)|Easy|Premium|[valid-word-square.py](https://github.com/trungnguyencs/Leetcode/blob/main/valid-word-square/valid-word-square.py/)|
 |[415. Add Strings](https://leetcode.com/problems/add-strings/)|Easy||[add-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/add-strings/add-strings.py/)|
 |[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|Easy||[third-maximum-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/third-maximum-number/third-maximum-number.py/)|
+|[413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|Medium||[arithmetic-slices.py](https://github.com/trungnguyencs/Leetcode/blob/main/arithmetic-slices/arithmetic-slices.py/)|
 |[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|Easy||[fizz-buzz.py](https://github.com/trungnguyencs/Leetcode/blob/main/fizz-buzz/fizz-buzz.py/)|
 |[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|Easy||[longest-palindrome.py](https://github.com/trungnguyencs/Leetcode/blob/main/longest-palindrome/longest-palindrome.py/)|
 |[408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)|Easy|Premium|[valid-word-abbreviation.py](https://github.com/trungnguyencs/Leetcode/blob/main/valid-word-abbreviation/valid-word-abbreviation.py/)|
@@ -87,6 +92,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|Premium|[number-of-connected-components-in-an-undirected-graph.py](https://github.com/trungnguyencs/Leetcode/blob/main/number-of-connected-components-in-an-undirected-graph/number-of-connected-components-in-an-undirected-graph.py/)|
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|Medium||[coin-change.py](https://github.com/trungnguyencs/Leetcode/blob/main/coin-change/coin-change.py/)|
 |[320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|Medium|Premium|[generalized-abbreviation.py](https://github.com/trungnguyencs/Leetcode/blob/main/generalized-abbreviation/generalized-abbreviation.py/)|
+|[319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium||[bulb-switcher.py](https://github.com/trungnguyencs/Leetcode/blob/main/bulb-switcher/bulb-switcher.py/)|
 |[318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|Medium||[maximum-product-of-word-lengths.py](https://github.com/trungnguyencs/Leetcode/blob/main/maximum-product-of-word-lengths/maximum-product-of-word-lengths.py/)|
 |[317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|Hard|Premium|[shortest-distance-from-all-buildings.py](https://github.com/trungnguyencs/Leetcode/blob/main/shortest-distance-from-all-buildings/shortest-distance-from-all-buildings.py/)|
 |[314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|Medium|Premium|[binary-tree-vertical-order-traversal.py](https://github.com/trungnguyencs/Leetcode/blob/main/binary-tree-vertical-order-traversal/binary-tree-vertical-order-traversal.py/)|
