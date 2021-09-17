@@ -32,6 +32,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[545. Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|Medium|Premium|[boundary-of-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/boundary-of-binary-tree/boundary-of-binary-tree.py/)|
 |[510. Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|Medium|Premium|[inorder-successor-in-bst-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/inorder-successor-in-bst-ii/inorder-successor-in-bst-ii.py/)|
 |[505. The Maze II](https://leetcode.com/problems/the-maze-ii/)|Medium|Premium|[the-maze-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/the-maze-ii/the-maze-ii.py/)|
+|[504. Base 7](https://leetcode.com/problems/base-7/)|Easy||[base-7.py](https://github.com/trungnguyencs/Leetcode/blob/main/base-7/base-7.py/)|
 |[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|Easy||[keyboard-row.py](https://github.com/trungnguyencs/Leetcode/blob/main/keyboard-row/keyboard-row.py/)|
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy||[next-greater-element-i.py](https://github.com/trungnguyencs/Leetcode/blob/main/next-greater-element-i/next-greater-element-i.py/)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|Easy||[construct-the-rectangle.py](https://github.com/trungnguyencs/Leetcode/blob/main/construct-the-rectangle/construct-the-rectangle.py/)|
