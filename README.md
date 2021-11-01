@@ -433,7 +433,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|Medium|||
 |[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|Easy||9 months ago|[number-of-segments-in-a-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/number-of-segments-in-a-string/number-of-segments-in-a-string.py/)|
 |[433. Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Medium|||
-|[432. All O`one Data Structure](https://leetcode.com/problems/all-o`one-data-structure/)|Hard|||
+|[432. All O-one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)|Hard|||
 |[431. Encode N-ary Tree to Binary Tree](https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/)|Hard|Premium||
 |[430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|Medium||18 minutes ago|[flatten-a-multilevel-doubly-linked-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.py/)|
 |[429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Medium|||
