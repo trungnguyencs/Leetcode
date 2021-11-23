@@ -2,47 +2,45 @@ class FirstUnique:
 
     def __init__(self, nums: List[int]):
         self.dic = {}
-        self.dl = DL()
+        self.DL = DL()
         for num in nums:
             self.add(num)
 
     def showFirstUnique(self) -> int:
-        return self.dl.head.next.val
+        return self.DL.head.next.val
 
     def add(self, val: int) -> None:
-        if val not in self.dic:
-            node = Node(val)
-            self.dic[val] = node
-            self.dl.addBack(node)
-        elif self.dic[val]:
-            self.dl.remove(self.dic[val])
-            self.dic[val] = None
-            
-class Node:
-    
-    def __init__(self, val, prev=None, next=None):
-        self.val = val
-        self.prev = prev
-        self.next = next
-
+        if val in self.dic:
+            if self.dic[val]:
+                self.DL.remove(self.dic[val])
+                self.dic[val] = None
+        else:
+            self.dic[val] = self.DL.addback(val)
+        
 class DL:
-    
     def __init__(self):
         self.head = Node(-1)
-        self.tail = Node(-1, prev=self.head)
+        self.tail = Node(-1)
         self.head.next = self.tail
-        
-    def addBack(self, node):
-        node.next = self.tail
-        node.prev = self.tail.prev
-        self.tail.prev.next = node
-        self.tail.prev = node
+        self.tail.prev = self.head
         
     def remove(self, node):
         node.prev.next = node.next
         node.next.prev = node.prev
         
+    def addback(self, val):
+        node = Node(val, self.tail, self.tail.prev)
+        self.tail.prev.next = node
+        self.tail.prev = node
+        return node
         
+class Node:
+    def __init__(self, val, next=None, prev=None):
+        self.val = val
+        self.next = next
+        self.prev = prev
+        
+
 # Your FirstUnique object will be instantiated and called as such:
 # obj = FirstUnique(nums)
 # param_1 = obj.showFirstUnique()
