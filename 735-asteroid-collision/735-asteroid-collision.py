@@ -9,7 +9,6 @@ class Solution:
                 stack.pop()
             if stack and stack[-1] == -num:
                 stack.pop()
-                continue
-            if not stack or stack[-1] < 0:
+            elif not stack or stack[-1] < 0:
                 stack.append(num)
         return stack
