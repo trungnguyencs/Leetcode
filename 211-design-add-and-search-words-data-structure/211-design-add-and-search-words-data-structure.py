@@ -18,11 +18,10 @@ class WordDictionary:
             return node.isWord
         if word[i] in node.children:
             return self.dfs(word, i + 1, node.children[word[i]])
-        if word[i] != '.':
-            return False
-        for ch in node.children:
-            if self.dfs(word, i + 1, node.children[ch]):
-                return True
+        if word[i] == '.':
+            for ch in node.children:
+                if self.dfs(word, i + 1, node.children[ch]):
+                    return True
         return False
         
 class Node:
