@@ -20,4 +20,4 @@ class Solution:
                 if cur.right:
                     q.append(cur.right)
             ans.append(level)
-        return ans
+        return ans    
