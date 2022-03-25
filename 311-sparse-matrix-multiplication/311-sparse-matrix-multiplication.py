@@ -17,7 +17,8 @@ class SparseMatrix:
         dic = defaultdict(int)
         for r in range(len(mat)):
             for c in range(len(mat[0])):
-                dic[(r, c)] = mat[r][c]
+                if mat[r][c] != 0:
+                    dic[(r, c)] = mat[r][c]
         return cls(len(mat), len(mat[0]), dic)
     
     def toDense(self):
