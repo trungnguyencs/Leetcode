@@ -11,10 +11,10 @@ class BSTIterator:
         self.addLeft(root)
 
     def next(self) -> int:
-        ret = self.stack.pop()
-        if ret.right:
-            self.addLeft(ret.right)
-        return ret.val
+        node = self.stack.pop()
+        if node.right:
+            self.addLeft(node.right)
+        return node.val
 
     def hasNext(self) -> bool:
         return len(self.stack) > 0
