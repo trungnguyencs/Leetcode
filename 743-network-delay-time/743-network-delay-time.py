@@ -1,14 +1,11 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         G = self.buildGraph(times)
-        visited = {k: 0}
-        heap = [(w, neigh) for neigh, w in G[k]]
-        heapify(heap)
+        visited = {}
+        heap = [(0, k)]
         while heap:
             cost, node = heappop(heap)
-            if node in visited:
-                if cost < visited[node]: visited[node] = cost
-                continue
+            if node in visited: continue
             visited[node] = cost
             for neigh, w in G[node]:
                 heappush(heap, (cost + w, neigh))
