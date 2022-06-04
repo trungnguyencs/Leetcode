@@ -15,4 +15,4 @@ class Solution:
             cols.add(c); diag.add(r + c); codiag.add(r - c)
             self.backtrack(board, r + 1, cols, diag, codiag)
             board[r][c] = '.'
-            cols.remove(c); diag.remove(r + c); codiag.remove(r - c)         
+            cols.remove(c); diag.remove(r + c); codiag.remove(r - c)    
