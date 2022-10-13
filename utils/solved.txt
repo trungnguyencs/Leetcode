@@ -799,6 +799,9 @@ Medium
 977. Squares of a Sorted Array
 71.8%
 Easy
+976. Largest Perimeter Triangle
+54.8%
+Easy
 974. Subarray Sums Divisible by K
 53.4%
 Medium
