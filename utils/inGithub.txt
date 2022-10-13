@@ -1,0 +1,852 @@
+0001-two-sum
+pad zeros to file names
+14 hours ago
+0002-add-two-numbers
+pad zeros to file names
+14 hours ago
+0003-longest-substring-without-repeating-characters
+pad zeros to file names
+14 hours ago
+0005-longest-palindromic-substring
+pad zeros to file names
+14 hours ago
+0009-palindrome-number
+pad zeros to file names
+14 hours ago
+0011-container-with-most-water
+pad zeros to file names
+14 hours ago
+0013-roman-to-integer
+pad zeros to file names
+14 hours ago
+0014-longest-common-prefix
+pad zeros to folder numberings
+15 hours ago
+0017-letter-combinations-of-a-phone-number
+pad zeros to file names
+14 hours ago
+0019-remove-nth-node-from-end-of-list
+pad zeros to file names
+14 hours ago
+0020-valid-parentheses
+pad zeros to file names
+14 hours ago
+0021-merge-two-sorted-lists
+pad zeros to file names
+14 hours ago
+0022-generate-parentheses
+pad zeros to file names
+14 hours ago
+0023-merge-k-sorted-lists
+pad zeros to file names
+14 hours ago
+0024-swap-nodes-in-pairs
+pad zeros to file names
+14 hours ago
+0026-remove-duplicates-from-sorted-array
+pad zeros to file names
+14 hours ago
+0027-remove-element
+pad zeros to file names
+14 hours ago
+0028-implement-strstr
+pad zeros to file names
+14 hours ago
+0029-divide-two-integers
+pad zeros to file names
+14 hours ago
+0031-next-permutation
+pad zeros to file names
+14 hours ago
+0032-longest-valid-parentheses
+pad zeros to file names
+14 hours ago
+0039-combination-sum
+pad zeros to file names
+14 hours ago
+0042-trapping-rain-water
+pad zeros to file names
+14 hours ago
+0047-permutations-ii
+pad zeros to file names
+14 hours ago
+0048-rotate-image
+pad zeros to folder numberings
+15 hours ago
+0049-group-anagrams
+pad zeros to file names
+14 hours ago
+0050-powx-n
+pad zeros to file names
+14 hours ago
+0051-n-queens
+pad zeros to file names
+14 hours ago
+0052-n-queens-ii
+pad zeros to file names
+14 hours ago
+0059-spiral-matrix-ii
+pad zeros to file names
+14 hours ago
+0061-rotate-list
+pad zeros to file names
+14 hours ago
+0062-unique-paths
+pad zeros to file names
+14 hours ago
+0063-unique-paths-ii
+pad zeros to file names
+14 hours ago
+0070-climbing-stairs
+pad zeros to file names
+14 hours ago
+0071-simplify-path
+pad zeros to file names
+14 hours ago
+0074-search-a-2d-matrix
+pad zeros to file names
+14 hours ago
+0078-subsets
+pad zeros to file names
+14 hours ago
+0080-remove-duplicates-from-sorted-array-ii
+pad zeros to file names
+14 hours ago
+0081-search-in-rotated-sorted-array-ii
+pad zeros to file names
+14 hours ago
+0082-remove-duplicates-from-sorted-list-ii
+pad zeros to file names
+14 hours ago
+0086-partition-list
+pad zeros to file names
+14 hours ago
+0088-merge-sorted-array
+pad zeros to file names
+14 hours ago
+0092-reverse-linked-list-ii
+pad zeros to folder numberings
+15 hours ago
+0094-binary-tree-inorder-traversal
+pad zeros to file names
+14 hours ago
+0097-interleaving-string
+pad zeros to file names
+14 hours ago
+0098-validate-binary-search-tree
+pad zeros to file names
+14 hours ago
+0099-recover-binary-search-tree
+pad zeros to file names
+14 hours ago
+0100-same-tree
+pad zeros to file names
+14 hours ago
+0101-symmetric-tree
+pad zeros to file names
+14 hours ago
+0102-binary-tree-level-order-traversal
+pad zeros to file names
+14 hours ago
+0104-maximum-depth-of-binary-tree
+pad zeros to file names
+14 hours ago
+0108-convert-sorted-array-to-binary-search-tree
+pad zeros to file names
+14 hours ago
+0112-path-sum
+pad zeros to file names
+14 hours ago
+0113-path-sum-ii
+pad zeros to file names
+14 hours ago
+0114-flatten-binary-tree-to-linked-list
+pad zeros to file names
+14 hours ago
+0117-populating-next-right-pointers-in-each-node-ii
+pad zeros to file names
+14 hours ago
+0118-pascals-triangle
+pad zeros to file names
+14 hours ago
+0121-best-time-to-buy-and-sell-stock
+pad zeros to file names
+14 hours ago
+0127-word-ladder
+pad zeros to file names
+14 hours ago
+0128-longest-consecutive-sequence
+pad zeros to file names
+14 hours ago
+0131-palindrome-partitioning
+pad zeros to file names
+14 hours ago
+0133-clone-graph
+pad zeros to file names
+14 hours ago
+0136-single-number
+pad zeros to file names
+14 hours ago
+0138-copy-list-with-random-pointer
+pad zeros to file names
+14 hours ago
+0141-linked-list-cycle
+pad zeros to file names
+14 hours ago
+0145-binary-tree-postorder-traversal
+pad zeros to file names
+14 hours ago
+0148-sort-list
+pad zeros to file names
+14 hours ago
+0155-min-stack
+pad zeros to file names
+14 hours ago
+0159-longest-substring-with-at-most-two-distinct-characters
+pad zeros to file names
+14 hours ago
+0160-intersection-of-two-linked-lists
+pad zeros to file names
+14 hours ago
+0161-one-edit-distance
+pad zeros to file names
+14 hours ago
+0165-compare-version-numbers
+pad zeros to file names
+14 hours ago
+0167-two-sum-ii-input-array-is-sorted
+pad zeros to file names
+14 hours ago
+0169-majority-element
+pad zeros to file names
+14 hours ago
+0171-excel-sheet-column-number
+pad zeros to file names
+14 hours ago
+0173-binary-search-tree-iterator
+pad zeros to file names
+14 hours ago
+0189-rotate-array
+pad zeros to file names
+14 hours ago
+0191-number-of-1-bits
+pad zeros to file names
+14 hours ago
+0200-number-of-islands
+pad zeros to file names
+14 hours ago
+0203-remove-linked-list-elements
+pad zeros to file names
+14 hours ago
+0211-design-add-and-search-words-data-structure
+pad zeros to file names
+14 hours ago
+0215-kth-largest-element-in-an-array
+pad zeros to file names
+14 hours ago
+0216-combination-sum-iii
+pad zeros to file names
+14 hours ago
+0228-summary-ranges
+pad zeros to file names
+14 hours ago
+0231-power-of-two
+pad zeros to file names
+14 hours ago
+0235-lowest-common-ancestor-of-a-binary-search-tree
+pad zeros to file names
+14 hours ago
+0236-lowest-common-ancestor-of-a-binary-tree
+pad zeros to file names
+14 hours ago
+0237-delete-node-in-a-linked-list
+Time: 76 ms (41.13%), Space: 14.4 MB (15.04%) - LeetHub
+15 hours ago
+0242-valid-anagram
+pad zeros to file names
+14 hours ago
+0247-strobogrammatic-number-ii
+pad zeros to file names
+14 hours ago
+0249-group-shifted-strings
+pad zeros to file names
+14 hours ago
+0251-flatten-2d-vector
+pad zeros to file names
+14 hours ago
+0252-meeting-rooms
+pad zeros to file names
+14 hours ago
+0253-meeting-rooms-ii
+pad zeros to file names
+14 hours ago
+0256-paint-house
+pad zeros to file names
+14 hours ago
+0258-add-digits
+pad zeros to file names
+14 hours ago
+0268-missing-number
+pad zeros to file names
+14 hours ago
+0277-find-the-celebrity
+pad zeros to file names
+14 hours ago
+0287-find-the-duplicate-number
+pad zeros to file names
+14 hours ago
+0289-game-of-life
+pad zeros to file names
+14 hours ago
+0298-binary-tree-longest-consecutive-sequence
+pad zeros to file names
+14 hours ago
+0300-longest-increasing-subsequence
+pad zeros to file names
+14 hours ago
+0304-range-sum-query-2d-immutable
+pad zeros to file names
+14 hours ago
+0307-range-sum-query-mutable
+pad zeros to file names
+14 hours ago
+0311-sparse-matrix-multiplication
+pad zeros to file names
+14 hours ago
+0314-binary-tree-vertical-order-traversal
+pad zeros to file names
+14 hours ago
+0316-remove-duplicate-letters
+pad zeros to file names
+14 hours ago
+0318-maximum-product-of-word-lengths
+pad zeros to file names
+14 hours ago
+0322-coin-change
+pad zeros to file names
+14 hours ago
+0326-power-of-three
+pad zeros to file names
+14 hours ago
+0329-longest-increasing-path-in-a-matrix
+pad zeros to file names
+14 hours ago
+0334-increasing-triplet-subsequence
+Create README - LeetHub
+2 days ago
+0338-counting-bits
+pad zeros to file names
+14 hours ago
+0341-flatten-nested-list-iterator
+pad zeros to file names
+14 hours ago
+0342-power-of-four
+pad zeros to file names
+14 hours ago
+0344-reverse-string
+pad zeros to file names
+14 hours ago
+0345-reverse-vowels-of-a-string
+pad zeros to file names
+14 hours ago
+0347-top-k-frequent-elements
+pad zeros to file names
+14 hours ago
+0362-design-hit-counter
+pad zeros to file names
+14 hours ago
+0366-find-leaves-of-binary-tree
+pad zeros to file names
+14 hours ago
+0377-combination-sum-iv
+pad zeros to file names
+14 hours ago
+0382-linked-list-random-node
+pad zeros to file names
+14 hours ago
+0383-ransom-note
+pad zeros to file names
+14 hours ago
+0387-first-unique-character-in-a-string
+pad zeros to file names
+14 hours ago
+0389-find-the-difference
+pad zeros to file names
+14 hours ago
+0392-is-subsequence
+pad zeros to file names
+14 hours ago
+0399-evaluate-division
+pad zeros to file names
+14 hours ago
+0402-remove-k-digits
+pad zeros to file names
+14 hours ago
+0406-queue-reconstruction-by-height
+pad zeros to file names
+14 hours ago
+0410-split-array-largest-sum
+pad zeros to file names
+14 hours ago
+0412-fizz-buzz
+pad zeros to file names
+14 hours ago
+0413-arithmetic-slices
+pad zeros to file names
+14 hours ago
+0417-pacific-atlantic-water-flow
+pad zeros to file names
+14 hours ago
+0421-maximum-xor-of-two-numbers-in-an-array
+pad zeros to file names
+14 hours ago
+0431-encode-n-ary-tree-to-binary-tree
+pad zeros to file names
+14 hours ago
+0438-find-all-anagrams-in-a-string
+pad zeros to file names
+14 hours ago
+0452-minimum-number-of-arrows-to-burst-balloons
+pad zeros to file names
+14 hours ago
+0454-4sum-ii
+pad zeros to file names
+14 hours ago
+0462-minimum-moves-to-equal-array-elements-ii
+pad zeros to file names
+14 hours ago
+0484-find-permutation
+pad zeros to file names
+14 hours ago
+0505-the-maze-ii
+pad zeros to file names
+14 hours ago
+0509-fibonacci-number
+pad zeros to file names
+14 hours ago
+0510-inorder-successor-in-bst-ii
+pad zeros to file names
+14 hours ago
+0520-detect-capital
+pad zeros to file names
+14 hours ago
+0524-longest-word-in-dictionary-through-deleting
+pad zeros to file names
+14 hours ago
+0525-contiguous-array
+pad zeros to file names
+14 hours ago
+0526-beautiful-arrangement
+pad zeros to file names
+14 hours ago
+0532-k-diff-pairs-in-an-array
+pad zeros to file names
+14 hours ago
+0535-encode-and-decode-tinyurl
+pad zeros to file names
+14 hours ago
+0557-reverse-words-in-a-string-iii
+pad zeros to file names
+14 hours ago
+0560-subarray-sum-equals-k
+pad zeros to file names
+14 hours ago
+0567-permutation-in-string
+pad zeros to file names
+14 hours ago
+0582-kill-process
+pad zeros to file names
+14 hours ago
+0583-delete-operation-for-two-strings
+pad zeros to file names
+14 hours ago
+0605-can-place-flowers
+pad zeros to file names
+14 hours ago
+0606-construct-string-from-binary-tree
+pad zeros to file names
+14 hours ago
+0622-design-circular-queue
+pad zeros to file names
+14 hours ago
+0637-average-of-levels-in-binary-tree
+pad zeros to file names
+14 hours ago
+0647-palindromic-substrings
+pad zeros to file names
+14 hours ago
+0658-find-k-closest-elements
+pad zeros to file names
+14 hours ago
+0662-maximum-width-of-binary-tree
+pad zeros to file names
+14 hours ago
+0680-valid-palindrome-ii
+pad zeros to file names
+14 hours ago
+0682-baseball-game
+pad zeros to file names
+14 hours ago
+0694-number-of-distinct-islands
+pad zeros to file names
+14 hours ago
+0700-search-in-a-binary-search-tree
+pad zeros to file names
+14 hours ago
+0701-insert-into-a-binary-search-tree
+pad zeros to file names
+14 hours ago
+0703-kth-largest-element-in-a-stream
+pad zeros to file names
+14 hours ago
+0704-binary-search
+pad zeros to file names
+14 hours ago
+0705-design-hashset
+pad zeros to file names
+14 hours ago
+0706-design-hashmap
+pad zeros to file names
+14 hours ago
+0718-maximum-length-of-repeated-subarray
+pad zeros to file names
+14 hours ago
+0735-asteroid-collision
+pad zeros to file names
+14 hours ago
+0740-delete-and-earn
+pad zeros to file names
+14 hours ago
+0743-network-delay-time
+pad zeros to file names
+14 hours ago
+0746-min-cost-climbing-stairs
+pad zeros to file names
+14 hours ago
+0763-partition-labels
+pad zeros to file names
+14 hours ago
+0771-jewels-and-stones
+pad zeros to file names
+14 hours ago
+0785-is-graph-bipartite
+pad zeros to file names
+14 hours ago
+0792-number-of-matching-subsequences
+pad zeros to file names
+14 hours ago
+0799-champagne-tower
+pad zeros to file names
+14 hours ago
+0804-unique-morse-code-words
+pad zeros to file names
+14 hours ago
+0814-binary-tree-pruning
+pad zeros to file names
+14 hours ago
+0817-linked-list-components
+pad zeros to file names
+14 hours ago
+0820-short-encoding-of-words
+pad zeros to file names
+14 hours ago
+0827-making-a-large-island
+pad zeros to file names
+14 hours ago
+0844-backspace-string-compare
+pad zeros to file names
+14 hours ago
+0847-shortest-path-visiting-all-nodes
+pad zeros to file names
+14 hours ago
+0849-maximize-distance-to-closest-person
+pad zeros to file names
+14 hours ago
+0856-score-of-parentheses
+pad zeros to file names
+14 hours ago
+0867-transpose-matrix
+pad zeros to file names
+14 hours ago
+0869-reordered-power-of-2
+pad zeros to file names
+14 hours ago
+0875-koko-eating-bananas
+pad zeros to file names
+14 hours ago
+0881-boats-to-save-people
+pad zeros to file names
+14 hours ago
+0890-find-and-replace-pattern
+pad zeros to file names
+14 hours ago
+0895-maximum-frequency-stack
+pad zeros to file names
+14 hours ago
+0897-increasing-order-search-tree
+pad zeros to file names
+14 hours ago
+0905-sort-array-by-parity
+pad zeros to file names
+14 hours ago
+0916-word-subsets
+pad zeros to file names
+14 hours ago
+0917-reverse-only-letters
+pad zeros to file names
+14 hours ago
+0923-3sum-with-multiplicity
+pad zeros to file names
+14 hours ago
+0941-valid-mountain-array
+pad zeros to file names
+14 hours ago
+0946-validate-stack-sequences
+pad zeros to file names
+14 hours ago
+0948-bag-of-tokens
+pad zeros to file names
+14 hours ago
+0967-numbers-with-same-consecutive-differences
+pad zeros to file names
+14 hours ago
+0976-largest-perimeter-triangle
+Time: 481 ms (19.50%), Space: 15.4 MB (91.63%) - LeetHub
+2 days ago
+0985-sum-of-even-numbers-after-queries
+pad zeros to file names
+14 hours ago
+0986-interval-list-intersections
+pad zeros to file names
+14 hours ago
+0987-vertical-order-traversal-of-a-binary-tree
+pad zeros to file names
+14 hours ago
+0991-broken-calculator
+pad zeros to file names
+14 hours ago
+1007-minimum-domino-rotations-for-equal-row
+Time: 1944 ms (16.64%), Space: 15.3 MB (22.57%) - LeetHub
+7 months ago
+1009-complement-of-base-10-integer
+Time: 32 ms (53.94%), Space: 14.3 MB (38.43%) - LeetHub
+9 months ago
+1011-capacity-to-ship-packages-within-d-days
+Time: 863 ms (28.67%), Space: 16.8 MB (98.58%) - LeetHub
+6 months ago
+1022-sum-of-root-to-leaf-binary-numbers
+Time: 62 ms (14.09%), Space: 14.7 MB (39.83%) - LeetHub
+9 months ago
+1029-two-city-scheduling
+Time: 40 ms (93.40%), Space: 14 MB (45.30%) - LeetHub
+7 months ago
+1046-last-stone-weight
+Time: 64 ms (9.82%), Space: 13.8 MB (68.03%) - LeetHub
+6 months ago
+1047-remove-all-adjacent-duplicates-in-string
+Time: 84 ms (82.32%), Space: 14.8 MB (51.34%) - LeetHub
+7 months ago
+1048-longest-string-chain
+Time: 633 ms (22.88%), Space: 20 MB (5.76%) - LeetHub
+4 months ago
+1057-campus-bikes
+Time: 1340 ms (51.49%), Space: 168.4 MB (9.74%) - LeetHub
+7 months ago
+1064-fixed-point
+Time: 105 ms (27.21%), Space: 15.1 MB (90.46%) - LeetHub
+8 months ago
+1087-brace-expansion
+Time: 58 ms (44.87%), Space: 14.1 MB (68.50%) - LeetHub
+7 months ago
+1091-shortest-path-in-binary-matrix
+Time: 841 ms (49.97%), Space: 14.3 MB (79.31%) - LeetHub
+5 months ago
+1094-car-pooling
+Time: 123 ms (13.78%), Space: 14.6 MB (92.36%) - LeetHub
+9 months ago
+1100-find-k-length-substrings-with-no-repeated-characters
+Time: 56 ms (77.12%), Space: 13.9 MB (88.69%) - LeetHub
+8 months ago
+1101-the-earliest-moment-when-everyone-become-friends
+Time: 202 ms (20.62%), Space: 14.2 MB (99.11%) - LeetHub
+8 months ago
+1102-path-with-maximum-minimum-value
+Time: 1365 ms (85.67%), Space: 15.5 MB (85.03%) - LeetHub
+7 months ago
+1136-parallel-courses
+Time: 634 ms (5.27%), Space: 17 MB (46.69%) - LeetHub
+5 months ago
+1151-minimum-swaps-to-group-all-1s-together
+Time: 845 ms (82.44%), Space: 17.2 MB (86.82%) - LeetHub
+4 months ago
+1165-single-row-keyboard
+Time: 69 ms (45.26%), Space: 14.1 MB (9.66%) - LeetHub
+6 months ago
+1166-design-file-system
+Attach NOTES - LeetHub
+6 months ago
+1182-shortest-distance-to-target-color
+Time: 2674 ms (57.91%), Space: 36.9 MB (87.90%) - LeetHub
+3 months ago
+1197-minimum-knight-moves
+Time: 8443 ms (17.19%), Space: 59.2 MB (36.94%) - LeetHub
+4 months ago
+1209-remove-all-adjacent-duplicates-in-string-ii
+Time: 137 ms (67.04%), Space: 18.8 MB (39.82%) - LeetHub
+5 months ago
+1213-intersection-of-three-sorted-arrays
+Time: 84 ms (71.80%), Space: 14.7 MB (10.92%) - LeetHub
+9 months ago
+1229-meeting-scheduler
+Time: 908 ms (25.46%), Space: 21.5 MB (73.19%) - LeetHub
+4 months ago
+1232-check-if-it-is-a-straight-line
+Time: 103 ms (32.06%), Space: 14.3 MB (99.65%) - LeetHub
+8 months ago
+1249-minimum-remove-to-make-valid-parentheses
+Time: 88 ms (88.70%), Space: 15.8 MB (60.86%) - LeetHub
+9 months ago
+1260-shift-2d-grid
+Time: 281 ms (37.60%), Space: 14 MB (98.89%) - LeetHub
+6 months ago
+1268-search-suggestions-system
+Time: 198 ms (61.61%), Space: 21.2 MB (36.57%) - LeetHub
+4 months ago
+1272-remove-interval
+Time: 1068 ms (5.38%), Space: 21.6 MB (39.26%) - LeetHub
+21 days ago
+1274-number-of-ships-in-a-rectangle
+Time: 46 ms (84.03%), Space: 14 MB (50.45%) - LeetHub
+8 months ago
+1288-remove-covered-intervals
+Time: 194 ms (15.33%), Space: 14.3 MB (96.36%) - LeetHub
+8 months ago
+1291-sequential-digits
+Time: 48 ms (21.03%), Space: 13.9 MB (100.00%) - LeetHub
+9 months ago
+1293-shortest-path-in-a-grid-with-obstacles-elimination
+Time: 908 ms (33.59%), Space: 21.5 MB (35.59%) - LeetHub
+7 months ago
+1302-deepest-leaves-sum
+Time: 216 ms (90.32%), Space: 17.8 MB (66.46%) - LeetHub
+5 months ago
+1305-all-elements-in-two-binary-search-trees
+Time: 583 ms (19.98%), Space: 21.2 MB (69.45%) - LeetHub
+9 months ago
+1332-remove-palindromic-subsequences
+Time: 41 ms (48.07%), Space: 13.8 MB (53.87%) - LeetHub
+4 months ago
+1337-the-k-weakest-rows-in-a-matrix
+Time: 145 ms (60.39%), Space: 14.2 MB (55.07%) - LeetHub
+7 months ago
+1338-reduce-array-size-to-the-half
+Time: 831 ms (68.10%), Space: 32.3 MB (67.22%) - LeetHub
+2 months ago
+1342-number-of-steps-to-reduce-a-number-to-zero
+Time: 35 ms (74.85%), Space: 13.8 MB (53.50%) - LeetHub
+5 months ago
+1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
+Attach NOTES - LeetHub
+5 months ago
+1396-design-underground-system
+Time: 397 ms (22.37%), Space: 23.8 MB (89.48%) - LeetHub
+6 months ago
+1423-maximum-points-you-can-obtain-from-cards
+Time: 582 ms (66.73%), Space: 27.3 MB (54.44%) - LeetHub
+28 days ago
+1448-count-good-nodes-in-binary-tree
+Time: 329 ms (50.75%), Space: 32.7 MB (16.99%) - LeetHub
+5 months ago
+1457-pseudo-palindromic-paths-in-a-binary-tree
+Time: 2333 ms (5.92%), Space: 84.7 MB (86.60%) - LeetHub
+29 days ago
+1461-check-if-a-string-contains-all-binary-codes-of-size-k
+Time: 380 ms (84.51%), Space: 53.4 MB (5.31%) - LeetHub
+5 months ago
+1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+Time: 481 ms (43.16%), Space: 28.3 MB (31.88%) - LeetHub
+3 months ago
+1480-running-sum-of-1d-array
+Time: 67 ms (31.20%), Space: 14.1 MB (27.03%) - LeetHub
+5 months ago
+1485-clone-binary-tree-with-random-pointer
+Time: 237 ms (94.62%), Space: 19.1 MB (70.69%) - LeetHub
+6 months ago
+1490-clone-n-ary-tree
+Time: 68 ms (95.60%), Space: 18.3 MB (28.09%) - LeetHub
+8 months ago
+1491-average-salary-excluding-the-minimum-and-maximum-salary
+Time: 38 ms (66.58%), Space: 13.8 MB (59.03%) - LeetHub
+5 months ago
+1564-put-boxes-into-the-warehouse-i
+Time: 676 ms (79.75%), Space: 33.2 MB (35.44%) - LeetHub
+4 months ago
+1570-dot-product-of-two-sparse-vectors
+Time: 3138 ms (25.39%), Space: 18.3 MB (73.08%) - LeetHub
+2 months ago
+1578-minimum-time-to-make-rope-colorful
+Time: 3322 ms (6.18%), Space: 25.1 MB (26.96%) - LeetHub
+10 days ago
+1586-binary-search-tree-iterator-ii
+Time: 462 ms (68.52%), Space: 46.9 MB (9.18%) - LeetHub
+6 months ago
+1602-find-nearest-right-node-in-binary-tree
+Time: 638 ms (5.24%), Space: 52.2 MB (63.99%) - LeetHub
+9 months ago
+1642-furthest-building-you-can-reach
+Time: 871 ms (44.46%), Space: 28.4 MB (89.32%) - LeetHub
+4 months ago
+1647-minimum-deletions-to-make-character-frequencies-unique
+Time: 182 ms (72.51%), Space: 14.9 MB (17.36%) - LeetHub
+4 months ago
+1658-minimum-operations-to-reduce-x-to-zero
+Time: 1290 ms (81.14%), Space: 28.1 MB (62.03%) - LeetHub
+4 months ago
+1663-smallest-string-with-a-given-numeric-value
+Time: 45 ms (94.91%), Space: 14.8 MB (93.98%) - LeetHub
+7 months ago
+1672-richest-customer-wealth
+Time: 102 ms (9.77%), Space: 14 MB (91.95%) - LeetHub
+9 months ago
+1675-minimize-deviation-in-array
+Time: 1216 ms (66.02%), Space: 31.9 MB (25.24%) - LeetHub
+8 months ago
+1679-max-number-of-k-sum-pairs
+Time: 1229 ms (7.82%), Space: 27.2 MB (33.48%) - LeetHub
+5 months ago
+1680-concatenation-of-consecutive-binary-numbers
+Time: 4013 ms (17.32%), Space: 14 MB (62.20%) - LeetHub
+21 days ago
+1689-partitioning-into-minimum-number-of-deci-binary-numbers
+Time: 226 ms (39.18%), Space: 14.7 MB (50.25%) - LeetHub
+4 months ago
+1695-maximum-erasure-value
+Time: 1848 ms (47.71%), Space: 27.4 MB (68.93%) - LeetHub
+4 months ago
+1710-maximum-units-on-a-truck
+Time: 167 ms (88.89%), Space: 14.4 MB (83.07%) - LeetHub
+4 months ago
+1721-swapping-nodes-in-a-linked-list
+Time: 1536 ms (35.77%), Space: 48.5 MB (53.33%) - LeetHub
+6 months ago
+1762-buildings-with-an-ocean-view
+Time: 671 ms (98.44%), Space: 31 MB (91.37%) - LeetHub
+6 months ago
+1874-minimize-product-sum-of-two-arrays
+Time: 1152 ms (91.41%), Space: 19 MB (75.77%) - LeetHub
+6 months ago
+1996-the-number-of-weak-characters-in-the-game
+Time: 4819 ms (9.24%), Space: 67.1 MB (78.82%) - LeetHub
+last month
+2007-find-original-array-from-doubled-array
+Time: 2538 ms (37.49%), Space: 30.9 MB (86.38%) - LeetHub
+29 days ago
+2096-step-by-step-directions-from-a-binary-tree-node-to-another
+Time: 4781 ms (8.08%), Space: 169.5 MB (5.12%) - LeetHub
+22 days ago
+2227-encrypt-and-decrypt-strings
+Time: 5840 ms (6.25%), Space: 28.3 MB (12.50%) - LeetHub
+6 months ago
+2295-replace-elements-in-an-array
+Time: 2197 ms (20.00%), Space: 69.1 MB (40.00%) - LeetHub
+4 months ago
