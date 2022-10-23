@@ -1,3 +1,6 @@
+2446. Determine if Two Events Have Conflict
+47.1%
+Easy
 2419. Longest Subarray With Maximum Bitwise AND
 46.5%
 Medium
@@ -216,6 +219,9 @@ Medium
 Medium
 1844. Replace All Digits with Characters
 79.8%
+Easy
+1832. Check if the Sentence Is Pangram
+84.0%
 Easy
 1775. Equal Sum Arrays With Minimum Number of Operations
 52.3%
@@ -1213,6 +1219,9 @@ Easy
 647. Palindromic Substrings
 66.1%
 Medium
+645. Set Mismatch
+42.5%
+Easy
 643. Maximum Average Subarray I
 43.9%
 Easy
