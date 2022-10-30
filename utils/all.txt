@@ -1,3 +1,30 @@
+2458. Height of Binary Tree After Subtree Removal Queries
+23.3%
+Hard
+2457. Minimum Addition to Make Integer Beautiful
+32.2%
+Medium
+2456. Most Popular Video Creator
+35.0%
+Medium
+2455. Average Value of Even Numbers That Are Divisible by Three
+58.7%
+Easy
+2454. Next Greater Element IV
+32.7%
+Hard
+2453. Destroy Sequential Targets
+32.6%
+Medium
+2452. Words Within Two Edits of Dictionary
+58.7%
+Medium
+2451. Odd String Difference
+57.2%
+Easy
+2450. Number of Distinct Binary Strings After Applying Operations
+73.6%
+Medium
 2449. Minimum Number of Operations to Make Arrays Similar
 60.2%
 Hard

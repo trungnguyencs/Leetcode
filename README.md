@@ -5,7 +5,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|863|
+|[All-time](https://leetcode.com/trungnguyen276/)|866|
 |[2020 & 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
 |[2022](https://github.com/trungnguyencs/Leetcode)|293|
 
@@ -875,3 +875,6 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2418. Sort the People](https://leetcode.com/problems/sort-the-people/)|Easy|||
 |[2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)|Medium|||
 |[2446. Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)|Easy|||
+|[2455. Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|Easy|||
+|[2456. Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/)|Medium|||
+|[2457. Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/)|Medium|||
