@@ -271,6 +271,9 @@ Medium
 1710. Maximum Units on a Truck
 74.2%
 Easy
+1706. Where Will the Ball Fall
+67.1%
+Medium
 1704. Determine if String Halves Are Alike
 77.6%
 Easy
