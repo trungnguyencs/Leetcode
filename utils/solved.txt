@@ -130,6 +130,9 @@ Medium
 2200. Find All K-Distant Indices in an Array
 64.3%
 Easy
+2131. Longest Palindrome by Concatenating Two Letter Words
+48.1%
+Medium
 2096. Step-By-Step Directions From a Binary Tree Node to Another
 48.8%
 Medium
