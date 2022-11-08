@@ -376,6 +376,9 @@ Medium
 1550. Three Consecutive Odds
 63.8%
 Easy
+1544. Make The String Great
+60.1%
+Easy
 1539. Kth Missing Positive Number
 55.8%
 Easy
