@@ -1,3 +1,15 @@
+2471. Minimum Number of Operations to Sort a Binary Tree by Level
+60.8%
+Medium
+2469. Convert the Temperature
+92.4%
+Easy
+2466. Count Ways To Build Good Strings
+38.4%
+Medium
+2465. Number of Distinct Averages
+57.2%
+Easy
 2457. Minimum Addition to Make Integer Beautiful
 32.2%
 Medium

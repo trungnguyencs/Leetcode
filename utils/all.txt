@@ -1,3 +1,45 @@
+2472. Maximum Number of Non-overlapping Palindrome Substrings
+30.3%
+Hard
+2471. Minimum Number of Operations to Sort a Binary Tree by Level
+60.8%
+Medium
+2470. Number of Subarrays With LCM Equal to K
+35.3%
+Medium
+2469. Convert the Temperature
+92.4%
+Easy
+2468. Split Message Based on Limit
+43.4%
+Hard
+2467. Most Profitable Path in a Tree
+42.1%
+Medium
+2466. Count Ways To Build Good Strings
+38.4%
+Medium
+2465. Number of Distinct Averages
+57.2%
+Easy
+2464. Minimum Subarrays in a Valid Split
+59.8%
+Medium
+2463. Minimum Total Distance Traveled
+39.2%
+Hard
+2462. Total Cost to Hire K Workers
+37.2%
+Medium
+2461. Maximum Sum of Distinct Subarrays With Length K
+34.2%
+Medium
+2460. Apply Operations to an Array
+67.0%
+Easy
+2459. Sort Array by Moving Items to Empty Space
+54.6%
+Hard
 2458. Height of Binary Tree After Subtree Removal Queries
 23.3%
 Hard
