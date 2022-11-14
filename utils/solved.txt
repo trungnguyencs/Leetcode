@@ -1,6 +1,9 @@
 2471. Minimum Number of Operations to Sort a Binary Tree by Level
 60.8%
 Medium
+2470. Number of Subarrays With LCM Equal to K
+37.7%
+Medium
 2469. Convert the Temperature
 92.4%
 Easy
@@ -870,6 +873,9 @@ Medium
 Easy
 948. Bag of Tokens
 46.3%
+Medium
+947. Most Stones Removed with Same Row or Column
+57.5%
 Medium
 946. Validate Stack Sequences
 67.6%
