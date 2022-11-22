@@ -220,6 +220,9 @@ Medium
 1935. Maximum Number of Words You Can Type
 71.0%
 Easy
+1926. Nearest Exit from Entrance in Maze
+49.3%
+Medium
 1922. Count Good Numbers
 38.3%
 Medium
