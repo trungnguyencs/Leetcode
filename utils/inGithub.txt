@@ -1,687 +1,693 @@
 0001-two-sum
 pad zeros to file names
-last month
+2 months ago
 0002-add-two-numbers
 pad zeros to file names
-last month
+2 months ago
 0003-longest-substring-without-repeating-characters
 pad zeros to file names
-last month
+2 months ago
 0005-longest-palindromic-substring
 pad zeros to file names
-last month
+2 months ago
 0009-palindrome-number
 pad zeros to file names
-last month
+2 months ago
 0011-container-with-most-water
 pad zeros to file names
-last month
+2 months ago
 0012-integer-to-roman
 Time: 98 ms (47.07%), Space: 13.9 MB (80.12%) - LeetHub
 last month
 0013-roman-to-integer
 pad zeros to file names
-last month
+2 months ago
 0014-longest-common-prefix
 Time: 38 ms (90.69%), Space: 14 MB (11.79%) - LeetHub
 last month
 0017-letter-combinations-of-a-phone-number
 pad zeros to file names
-last month
+2 months ago
 0019-remove-nth-node-from-end-of-list
 pad zeros to file names
-last month
+2 months ago
 0020-valid-parentheses
 pad zeros to file names
-last month
+2 months ago
 0021-merge-two-sorted-lists
 pad zeros to file names
-last month
+2 months ago
 0022-generate-parentheses
 pad zeros to file names
-last month
+2 months ago
 0023-merge-k-sorted-lists
 pad zeros to file names
-last month
+2 months ago
 0024-swap-nodes-in-pairs
 pad zeros to file names
-last month
+2 months ago
 0026-remove-duplicates-from-sorted-array
 pad zeros to file names
-last month
+2 months ago
 0027-remove-element
 pad zeros to file names
-last month
+2 months ago
 0028-implement-strstr
 pad zeros to file names
-last month
+2 months ago
 0029-divide-two-integers
 pad zeros to file names
-last month
+2 months ago
 0031-next-permutation
 pad zeros to file names
-last month
+2 months ago
 0032-longest-valid-parentheses
 pad zeros to file names
-last month
+2 months ago
+0036-valid-sudoku
+Time: 261 ms (18.52%), Space: 13.9 MB (36.06%) - LeetHub
+5 days ago
 0038-count-and-say
 Time: 75 ms (66.14%), Space: 14.2 MB (16.16%) - LeetHub
 last month
 0039-combination-sum
 pad zeros to file names
-last month
+2 months ago
 0042-trapping-rain-water
 pad zeros to file names
-last month
+2 months ago
 0047-permutations-ii
 pad zeros to file names
-last month
+2 months ago
 0048-rotate-image
 Time: 78 ms (11.81%), Space: 13.9 MB (29.13%) - LeetHub
 last month
 0049-group-anagrams
 Attach NOTES - LeetHub
-25 days ago
+last month
 0050-powx-n
 pad zeros to file names
-last month
+2 months ago
 0051-n-queens
 pad zeros to file names
-last month
+2 months ago
 0052-n-queens-ii
 pad zeros to file names
-last month
+2 months ago
 0053-maximum-subarray
 Time: 1884 ms (22.86%), Space: 27.9 MB (77.78%) - LeetHub
 last month
 0059-spiral-matrix-ii
 pad zeros to file names
-last month
+2 months ago
 0061-rotate-list
 pad zeros to file names
-last month
+2 months ago
 0062-unique-paths
 pad zeros to file names
-last month
+2 months ago
 0063-unique-paths-ii
 pad zeros to file names
-last month
+2 months ago
 0070-climbing-stairs
 pad zeros to file names
-last month
+2 months ago
 0071-simplify-path
 pad zeros to file names
-last month
+2 months ago
 0074-search-a-2d-matrix
 pad zeros to file names
-last month
+2 months ago
 0076-minimum-window-substring
 Time: 582 ms (15.24%), Space: 14.8 MB (10.83%) - LeetHub
 last month
 0078-subsets
 pad zeros to file names
-last month
+2 months ago
+0079-word-search
+Time: 8727 ms (13.87%), Space: 13.9 MB (52.49%) - LeetHub
+4 days ago
 0080-remove-duplicates-from-sorted-array-ii
 pad zeros to file names
-last month
+2 months ago
 0081-search-in-rotated-sorted-array-ii
 pad zeros to file names
-last month
+2 months ago
 0082-remove-duplicates-from-sorted-list-ii
 pad zeros to file names
-last month
+2 months ago
 0086-partition-list
 pad zeros to file names
-last month
+2 months ago
 0088-merge-sorted-array
 pad zeros to file names
-last month
+2 months ago
 0092-reverse-linked-list-ii
 Time: 75 ms (5.35%), Space: 14 MB (86.10%) - LeetHub
 last month
 0094-binary-tree-inorder-traversal
 pad zeros to file names
-last month
+2 months ago
 0097-interleaving-string
 pad zeros to file names
-last month
+2 months ago
 0098-validate-binary-search-tree
 pad zeros to file names
-last month
+2 months ago
 0099-recover-binary-search-tree
 pad zeros to file names
-last month
+2 months ago
 0100-same-tree
 pad zeros to file names
-last month
+2 months ago
 0101-symmetric-tree
 pad zeros to file names
-last month
+2 months ago
 0102-binary-tree-level-order-traversal
 pad zeros to file names
-last month
+2 months ago
 0104-maximum-depth-of-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0108-convert-sorted-array-to-binary-search-tree
 pad zeros to file names
-last month
+2 months ago
 0112-path-sum
 pad zeros to file names
-last month
+2 months ago
 0113-path-sum-ii
 pad zeros to file names
-last month
+2 months ago
 0114-flatten-binary-tree-to-linked-list
 pad zeros to file names
-last month
+2 months ago
 0117-populating-next-right-pointers-in-each-node-ii
 pad zeros to file names
-last month
+2 months ago
 0118-pascals-triangle
 pad zeros to file names
-last month
+2 months ago
 0121-best-time-to-buy-and-sell-stock
 pad zeros to file names
-last month
+2 months ago
 0127-word-ladder
 pad zeros to file names
-last month
+2 months ago
 0128-longest-consecutive-sequence
 pad zeros to file names
-last month
+2 months ago
 0131-palindrome-partitioning
 pad zeros to file names
-last month
+2 months ago
 0133-clone-graph
 pad zeros to file names
-last month
+2 months ago
 0136-single-number
 pad zeros to file names
-last month
+2 months ago
 0138-copy-list-with-random-pointer
 pad zeros to file names
-last month
+2 months ago
 0141-linked-list-cycle
 pad zeros to file names
-last month
+2 months ago
 0145-binary-tree-postorder-traversal
 pad zeros to file names
-last month
+2 months ago
 0148-sort-list
 pad zeros to file names
-last month
+2 months ago
 0151-reverse-words-in-a-string
 Time: 95 ms (11.05%), Space: 14.1 MB (16.15%) - LeetHub
-9 days ago
+14 days ago
 0155-min-stack
 pad zeros to file names
-last month
+2 months ago
 0159-longest-substring-with-at-most-two-distinct-characters
 pad zeros to file names
-last month
+2 months ago
 0160-intersection-of-two-linked-lists
 pad zeros to file names
-last month
+2 months ago
 0161-one-edit-distance
 pad zeros to file names
-last month
+2 months ago
 0165-compare-version-numbers
 pad zeros to file names
-last month
+2 months ago
 0167-two-sum-ii-input-array-is-sorted
 pad zeros to file names
-last month
+2 months ago
 0169-majority-element
 pad zeros to file names
-last month
+2 months ago
 0171-excel-sheet-column-number
 pad zeros to file names
-last month
+2 months ago
 0173-binary-search-tree-iterator
 pad zeros to file names
-last month
+2 months ago
 0189-rotate-array
 pad zeros to file names
-last month
+2 months ago
 0191-number-of-1-bits
 pad zeros to file names
-last month
+2 months ago
 0200-number-of-islands
 pad zeros to file names
-last month
+2 months ago
 0203-remove-linked-list-elements
 pad zeros to file names
-last month
+2 months ago
 0211-design-add-and-search-words-data-structure
 pad zeros to file names
-last month
+2 months ago
 0215-kth-largest-element-in-an-array
 pad zeros to file names
-last month
+2 months ago
 0216-combination-sum-iii
 pad zeros to file names
-last month
+2 months ago
 0219-contains-duplicate-ii
 Time: 864 ms (74.19%), Space: 27.2 MB (75.93%) - LeetHub
 last month
 0223-rectangle-area
 Time: 60 ms (88.04%), Space: 14 MB (71.27%) - LeetHub
-5 days ago
+11 days ago
 0228-summary-ranges
 pad zeros to file names
-last month
+2 months ago
 0231-power-of-two
 pad zeros to file names
-last month
+2 months ago
 0235-lowest-common-ancestor-of-a-binary-search-tree
 pad zeros to file names
-last month
+2 months ago
 0236-lowest-common-ancestor-of-a-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0237-delete-node-in-a-linked-list
 Time: 76 ms (41.13%), Space: 14.4 MB (15.04%) - LeetHub
-last month
+2 months ago
 0242-valid-anagram
 pad zeros to file names
-last month
+2 months ago
 0246-strobogrammatic-number
 Time: 26 ms (97.98%), Space: 13.8 MB (96.86%) - LeetHub
-16 minutes ago
+6 days ago
 0247-strobogrammatic-number-ii
 pad zeros to file names
-last month
+2 months ago
 0249-group-shifted-strings
 pad zeros to file names
-last month
+2 months ago
 0251-flatten-2d-vector
 pad zeros to file names
-last month
+2 months ago
 0252-meeting-rooms
 pad zeros to file names
-last month
+2 months ago
 0253-meeting-rooms-ii
 pad zeros to file names
-last month
+2 months ago
 0256-paint-house
 pad zeros to file names
-last month
+2 months ago
 0258-add-digits
 pad zeros to file names
-last month
+2 months ago
 0263-ugly-number
 Time: 32 ms (95.18%), Space: 13.9 MB (60.08%) - LeetHub
-4 days ago
+10 days ago
 0268-missing-number
 pad zeros to file names
-last month
+2 months ago
 0277-find-the-celebrity
 pad zeros to file names
-last month
+2 months ago
 0279-perfect-squares
 Time: 7082 ms (7.56%), Space: 85.2 MB (5.21%) - LeetHub
-1 hour ago
+6 days ago
 0287-find-the-duplicate-number
 pad zeros to file names
-last month
+2 months ago
 0289-game-of-life
 pad zeros to file names
-last month
+2 months ago
 0295-find-median-from-data-stream
 Time: 1359 ms (47.55%), Space: 35.6 MB (91.75%) - LeetHub
-10 days ago
+16 days ago
 0298-binary-tree-longest-consecutive-sequence
 pad zeros to file names
-last month
+2 months ago
 0300-longest-increasing-subsequence
 pad zeros to file names
-last month
+2 months ago
 0304-range-sum-query-2d-immutable
 pad zeros to file names
-last month
+2 months ago
 0307-range-sum-query-mutable
 pad zeros to file names
-last month
+2 months ago
 0311-sparse-matrix-multiplication
 pad zeros to file names
-last month
+2 months ago
 0314-binary-tree-vertical-order-traversal
 pad zeros to file names
-last month
+2 months ago
 0316-remove-duplicate-letters
 pad zeros to file names
-last month
+2 months ago
 0318-maximum-product-of-word-lengths
 pad zeros to file names
-last month
+2 months ago
 0322-coin-change
 pad zeros to file names
-last month
+2 months ago
 0326-power-of-three
 pad zeros to file names
-last month
+2 months ago
 0329-longest-increasing-path-in-a-matrix
 pad zeros to file names
-last month
+2 months ago
 0334-increasing-triplet-subsequence
 Create README - LeetHub
-last month
+2 months ago
 0338-counting-bits
 pad zeros to file names
-last month
+2 months ago
 0341-flatten-nested-list-iterator
 pad zeros to file names
-last month
+2 months ago
 0342-power-of-four
 pad zeros to file names
-last month
+2 months ago
 0344-reverse-string
 pad zeros to file names
-last month
+2 months ago
 0345-reverse-vowels-of-a-string
 pad zeros to file names
-last month
+2 months ago
 0347-top-k-frequent-elements
 pad zeros to file names
-last month
+2 months ago
 0362-design-hit-counter
 pad zeros to file names
-last month
+2 months ago
 0366-find-leaves-of-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0374-guess-number-higher-or-lower
 Time: 28 ms (97.15%), Space: 13.9 MB (66.34%) - LeetHub
-6 days ago
+11 days ago
 0377-combination-sum-iv
 pad zeros to file names
-last month
+2 months ago
 0382-linked-list-random-node
 pad zeros to file names
-last month
+2 months ago
 0383-ransom-note
 pad zeros to file names
-last month
+2 months ago
 0387-first-unique-character-in-a-string
 pad zeros to file names
-last month
+2 months ago
 0389-find-the-difference
 pad zeros to file names
-last month
+2 months ago
 0392-is-subsequence
 pad zeros to file names
-last month
+2 months ago
 0399-evaluate-division
 pad zeros to file names
-last month
+2 months ago
 0402-remove-k-digits
 pad zeros to file names
-last month
+2 months ago
 0406-queue-reconstruction-by-height
 pad zeros to file names
-last month
+2 months ago
 0410-split-array-largest-sum
 pad zeros to file names
-last month
+2 months ago
 0412-fizz-buzz
 pad zeros to file names
-last month
+2 months ago
 0413-arithmetic-slices
 pad zeros to file names
-last month
+2 months ago
 0417-pacific-atlantic-water-flow
 pad zeros to file names
-last month
+2 months ago
 0421-maximum-xor-of-two-numbers-in-an-array
 pad zeros to file names
-last month
+2 months ago
 0431-encode-n-ary-tree-to-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0433-minimum-genetic-mutation
 Time: 63 ms (23.22%), Space: 13.9 MB (86.98%) - LeetHub
-20 days ago
+26 days ago
 0438-find-all-anagrams-in-a-string
 pad zeros to file names
-last month
+2 months ago
 0452-minimum-number-of-arrows-to-burst-balloons
 pad zeros to file names
-last month
+2 months ago
 0454-4sum-ii
 pad zeros to file names
-last month
+2 months ago
 0462-minimum-moves-to-equal-array-elements-ii
 pad zeros to file names
-last month
+2 months ago
 0484-find-permutation
 pad zeros to file names
-last month
+2 months ago
 0505-the-maze-ii
 pad zeros to file names
-last month
+2 months ago
 0509-fibonacci-number
 pad zeros to file names
-last month
+2 months ago
 0510-inorder-successor-in-bst-ii
 pad zeros to file names
-last month
+2 months ago
 0520-detect-capital
 pad zeros to file names
-last month
+2 months ago
 0523-continuous-subarray-sum
 Time: 2390 ms (41.78%), Space: 33.3 MB (39.21%) - LeetHub
-27 days ago
+last month
 0524-longest-word-in-dictionary-through-deleting
 pad zeros to file names
-last month
+2 months ago
 0525-contiguous-array
 pad zeros to file names
-last month
+2 months ago
 0526-beautiful-arrangement
 pad zeros to file names
-last month
+2 months ago
 0532-k-diff-pairs-in-an-array
 pad zeros to file names
-last month
+2 months ago
 0535-encode-and-decode-tinyurl
 pad zeros to file names
-last month
+2 months ago
 0557-reverse-words-in-a-string-iii
 pad zeros to file names
-last month
+2 months ago
 0560-subarray-sum-equals-k
 pad zeros to file names
-last month
+2 months ago
 0567-permutation-in-string
 pad zeros to file names
-last month
+2 months ago
 0582-kill-process
 pad zeros to file names
-last month
+2 months ago
 0583-delete-operation-for-two-strings
 pad zeros to file names
-last month
+2 months ago
 0605-can-place-flowers
 pad zeros to file names
-last month
+2 months ago
 0606-construct-string-from-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0622-design-circular-queue
 pad zeros to file names
-last month
+2 months ago
 0637-average-of-levels-in-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0645-set-mismatch
 Time: 433 ms (53.52%), Space: 15.3 MB (96.23%) - LeetHub
 last month
 0647-palindromic-substrings
 pad zeros to file names
-last month
+2 months ago
 0658-find-k-closest-elements
 pad zeros to file names
-last month
+2 months ago
 0662-maximum-width-of-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0680-valid-palindrome-ii
 pad zeros to file names
-last month
+2 months ago
 0682-baseball-game
 pad zeros to file names
-last month
+2 months ago
 0692-top-k-frequent-words
 Time: 139 ms (13.60%), Space: 14 MB (64.57%) - LeetHub
 last month
 0694-number-of-distinct-islands
 pad zeros to file names
-last month
+2 months ago
 0700-search-in-a-binary-search-tree
 pad zeros to file names
-last month
+2 months ago
 0701-insert-into-a-binary-search-tree
 pad zeros to file names
-last month
+2 months ago
 0703-kth-largest-element-in-a-stream
 pad zeros to file names
-last month
+2 months ago
 0704-binary-search
 pad zeros to file names
-last month
+2 months ago
 0705-design-hashset
 pad zeros to file names
-last month
+2 months ago
 0706-design-hashmap
 pad zeros to file names
-last month
+2 months ago
 0718-maximum-length-of-repeated-subarray
 pad zeros to file names
-last month
+2 months ago
 0735-asteroid-collision
 pad zeros to file names
-last month
+2 months ago
 0740-delete-and-earn
 pad zeros to file names
-last month
+2 months ago
 0743-network-delay-time
 pad zeros to file names
-last month
+2 months ago
 0746-min-cost-climbing-stairs
 pad zeros to file names
-last month
+2 months ago
 0763-partition-labels
 pad zeros to file names
-last month
+2 months ago
 0766-toeplitz-matrix
 Time: 182 ms (54.32%), Space: 13.9 MB (36.74%) - LeetHub
-22 days ago
+28 days ago
 0771-jewels-and-stones
 pad zeros to file names
-last month
+2 months ago
 0785-is-graph-bipartite
 pad zeros to file names
-last month
+2 months ago
 0792-number-of-matching-subsequences
 pad zeros to file names
-last month
+2 months ago
 0799-champagne-tower
 pad zeros to file names
-last month
+2 months ago
 0804-unique-morse-code-words
 pad zeros to file names
-last month
+2 months ago
 0814-binary-tree-pruning
 pad zeros to file names
-last month
+2 months ago
 0817-linked-list-components
 pad zeros to file names
-last month
+2 months ago
 0820-short-encoding-of-words
 pad zeros to file names
-last month
+2 months ago
 0827-making-a-large-island
 pad zeros to file names
-last month
+2 months ago
 0835-image-overlap
 Time: 714 ms (74.85%), Space: 14.8 MB (26.32%) - LeetHub
-25 days ago
+last month
 0844-backspace-string-compare
 pad zeros to file names
-last month
+2 months ago
 0847-shortest-path-visiting-all-nodes
 pad zeros to file names
-last month
+2 months ago
 0849-maximize-distance-to-closest-person
 pad zeros to file names
-last month
+2 months ago
 0856-score-of-parentheses
 pad zeros to file names
-last month
+2 months ago
 0867-transpose-matrix
 pad zeros to file names
-last month
+2 months ago
 0869-reordered-power-of-2
 pad zeros to file names
-last month
+2 months ago
 0875-koko-eating-bananas
 pad zeros to file names
-last month
+2 months ago
 0881-boats-to-save-people
 pad zeros to file names
-last month
+2 months ago
 0890-find-and-replace-pattern
 pad zeros to file names
-last month
+2 months ago
 0895-maximum-frequency-stack
 pad zeros to file names
-last month
+2 months ago
 0897-increasing-order-search-tree
 pad zeros to file names
-last month
+2 months ago
 0905-sort-array-by-parity
 pad zeros to file names
-last month
+2 months ago
 0916-word-subsets
 pad zeros to file names
-last month
+2 months ago
 0917-reverse-only-letters
 pad zeros to file names
-last month
+2 months ago
 0923-3sum-with-multiplicity
 pad zeros to file names
-last month
+2 months ago
 0941-valid-mountain-array
 pad zeros to file names
-last month
+2 months ago
 0946-validate-stack-sequences
 pad zeros to file names
-last month
+2 months ago
 0947-most-stones-removed-with-same-row-or-column
 Time: 375 ms (58.42%), Space: 15.3 MB (32.24%) - LeetHub
-8 days ago
+14 days ago
 0948-bag-of-tokens
 pad zeros to file names
-last month
+2 months ago
 0967-numbers-with-same-consecutive-differences
 pad zeros to file names
-last month
+2 months ago
 0976-largest-perimeter-triangle
 Time: 481 ms (19.50%), Space: 15.4 MB (91.63%) - LeetHub
-last month
+2 months ago
 0985-sum-of-even-numbers-after-queries
 pad zeros to file names
-last month
+2 months ago
 0986-interval-list-intersections
 pad zeros to file names
-last month
+2 months ago
 0987-vertical-order-traversal-of-a-binary-tree
 pad zeros to file names
-last month
+2 months ago
 0991-broken-calculator
 pad zeros to file names
-last month
+2 months ago
 1007-minimum-domino-rotations-for-equal-row
 Time: 1944 ms (16.64%), Space: 15.3 MB (22.57%) - LeetHub
 8 months ago
@@ -705,10 +711,10 @@ Time: 84 ms (82.32%), Space: 14.8 MB (51.34%) - LeetHub
 8 months ago
 1048-longest-string-chain
 Time: 633 ms (22.88%), Space: 20 MB (5.76%) - LeetHub
-5 months ago
+6 months ago
 1057-campus-bikes
 Time: 1340 ms (51.49%), Space: 168.4 MB (9.74%) - LeetHub
-8 months ago
+9 months ago
 1064-fixed-point
 Time: 105 ms (27.21%), Space: 15.1 MB (90.46%) - LeetHub
 9 months ago
@@ -717,7 +723,7 @@ Time: 58 ms (44.87%), Space: 14.1 MB (68.50%) - LeetHub
 8 months ago
 1091-shortest-path-in-binary-matrix
 Time: 841 ms (49.97%), Space: 14.3 MB (79.31%) - LeetHub
-6 months ago
+7 months ago
 1094-car-pooling
 Time: 123 ms (13.78%), Space: 14.6 MB (92.36%) - LeetHub
 11 months ago
@@ -762,7 +768,7 @@ Time: 103 ms (32.06%), Space: 14.3 MB (99.65%) - LeetHub
 9 months ago
 1239-maximum-length-of-a-concatenated-string-with-unique-characters
 Time: 1898 ms (8.05%), Space: 14 MB (64.77%) - LeetHub
-29 days ago
+last month
 1249-minimum-remove-to-make-valid-parentheses
 Time: 88 ms (88.70%), Space: 15.8 MB (60.86%) - LeetHub
 11 months ago
@@ -777,7 +783,7 @@ Time: 1068 ms (5.38%), Space: 21.6 MB (39.26%) - LeetHub
 2 months ago
 1274-number-of-ships-in-a-rectangle
 Time: 46 ms (84.03%), Space: 14 MB (50.45%) - LeetHub
-9 months ago
+10 months ago
 1288-remove-covered-intervals
 Time: 194 ms (15.33%), Space: 14.3 MB (96.36%) - LeetHub
 9 months ago
@@ -789,7 +795,7 @@ Time: 908 ms (33.59%), Space: 21.5 MB (35.59%) - LeetHub
 8 months ago
 1302-deepest-leaves-sum
 Time: 216 ms (90.32%), Space: 17.8 MB (66.46%) - LeetHub
-6 months ago
+7 months ago
 1305-all-elements-in-two-binary-search-trees
 Time: 583 ms (19.98%), Space: 21.2 MB (69.45%) - LeetHub
 10 months ago
@@ -807,7 +813,7 @@ Time: 35 ms (74.85%), Space: 13.8 MB (53.50%) - LeetHub
 6 months ago
 1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree
 Attach NOTES - LeetHub
-6 months ago
+7 months ago
 1396-design-underground-system
 Time: 397 ms (22.37%), Space: 23.8 MB (89.48%) - LeetHub
 7 months ago
@@ -831,7 +837,7 @@ Time: 67 ms (31.20%), Space: 14.1 MB (27.03%) - LeetHub
 6 months ago
 1485-clone-binary-tree-with-random-pointer
 Time: 237 ms (94.62%), Space: 19.1 MB (70.69%) - LeetHub
-7 months ago
+8 months ago
 1490-clone-n-ary-tree
 Time: 68 ms (95.60%), Space: 18.3 MB (28.09%) - LeetHub
 9 months ago
@@ -840,7 +846,7 @@ Time: 38 ms (66.58%), Space: 13.8 MB (59.03%) - LeetHub
 7 months ago
 1544-make-the-string-great
 Time: 39 ms (91.79%), Space: 13.9 MB (15.06%) - LeetHub
-14 days ago
+20 days ago
 1564-put-boxes-into-the-warehouse-i
 Time: 676 ms (79.75%), Space: 33.2 MB (35.44%) - LeetHub
 5 months ago
@@ -864,10 +870,10 @@ Time: 182 ms (72.51%), Space: 14.9 MB (17.36%) - LeetHub
 5 months ago
 1658-minimum-operations-to-reduce-x-to-zero
 Time: 1290 ms (81.14%), Space: 28.1 MB (62.03%) - LeetHub
-5 months ago
+6 months ago
 1662-check-if-two-string-arrays-are-equivalent
 Time: 51 ms (70.36%), Space: 13.9 MB (75.82%) - LeetHub
-28 days ago
+last month
 1663-smallest-string-with-a-given-numeric-value
 Time: 45 ms (94.91%), Space: 14.8 MB (93.98%) - LeetHub
 8 months ago
@@ -888,10 +894,10 @@ Time: 226 ms (39.18%), Space: 14.7 MB (50.25%) - LeetHub
 5 months ago
 1695-maximum-erasure-value
 Time: 1848 ms (47.71%), Space: 27.4 MB (68.93%) - LeetHub
-5 months ago
+6 months ago
 1706-where-will-the-ball-fall
 Time: 659 ms (5.97%), Space: 14.3 MB (84.52%) - LeetHub
-21 days ago
+27 days ago
 1710-maximum-units-on-a-truck
 Time: 167 ms (88.89%), Space: 14.4 MB (83.07%) - LeetHub
 5 months ago
@@ -900,7 +906,7 @@ Time: 1536 ms (35.77%), Space: 48.5 MB (53.33%) - LeetHub
 8 months ago
 1762-buildings-with-an-ocean-view
 Time: 671 ms (98.44%), Space: 31 MB (91.37%) - LeetHub
-7 months ago
+8 months ago
 1832-check-if-the-sentence-is-pangram
 Time: 65 ms (23.88%), Space: 13.9 MB (54.73%) - LeetHub
 last month
@@ -909,22 +915,22 @@ Time: 1152 ms (91.41%), Space: 19 MB (75.77%) - LeetHub
 8 months ago
 1926-nearest-exit-from-entrance-in-maze
 Attach NOTES - LeetHub
-20 hours ago
+7 days ago
 1996-the-number-of-weak-characters-in-the-game
 Time: 4819 ms (9.24%), Space: 67.1 MB (78.82%) - LeetHub
-2 months ago
+3 months ago
 2007-find-original-array-from-doubled-array
 Time: 2538 ms (37.49%), Space: 30.9 MB (86.38%) - LeetHub
 2 months ago
 2095-delete-the-middle-node-of-a-linked-list
 Time: 1915 ms (89.25%), Space: 60.6 MB (40.40%) - LeetHub
-last month
+2 months ago
 2096-step-by-step-directions-from-a-binary-tree-node-to-another
 Time: 4781 ms (8.08%), Space: 169.5 MB (5.12%) - LeetHub
 2 months ago
 2131-longest-palindrome-by-concatenating-two-letter-words
 Attach NOTES - LeetHub
-18 days ago
+24 days ago
 2227-encrypt-and-decrypt-strings
 Time: 5840 ms (6.25%), Space: 28.3 MB (12.50%) - LeetHub
 8 months ago
@@ -933,10 +939,10 @@ Time: 2197 ms (20.00%), Space: 69.1 MB (40.00%) - LeetHub
 6 months ago
 2469-convert-the-temperature
 Time: 60 ms (50.00%), Space: 13.8 MB (100.00%) - LeetHub
-9 days ago
+15 days ago
 2470-number-of-subarrays-with-lcm-equal-to-k
 Time: 650 ms (85.71%), Space: 14 MB (71.43%) - LeetHub
-8 days ago
+14 days ago
 2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level
 Time: 1843 ms (11.11%), Space: 54.4 MB (11.11%) - LeetHub
-9 days ago
+15 days ago

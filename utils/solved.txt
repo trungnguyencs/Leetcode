@@ -1,3 +1,12 @@
+2487. Remove Nodes From Linked List
+69.9%
+Medium
+2486. Append Characters to String to Make Subsequence
+61.2%
+Medium
+2485. Find the Pivot Integer
+79.2%
+Easy
 2471. Minimum Number of Operations to Sort a Binary Tree by Level
 60.8%
 Medium
