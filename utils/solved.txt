@@ -658,6 +658,9 @@ Easy
 1209. Remove All Adjacent Duplicates in String II
 56.0%
 Medium
+1207. Unique Number of Occurrences
+72.6%
+Easy
 1200. Minimum Absolute Difference
 69.8%
 Easy
