@@ -1,9 +1,4 @@
 class Solution:
-    def calculateTime(self, keyboard: str, word: str) -> int:
-        dic = {ch: i for i, ch in enumerate(keyboard)}
-        totalDistance = prev = 0
-        for ch in word:
-            cur = dic[ch]
-            totalDistance += abs(cur - prev)
-            prev = cur
-        return totalDistance
+    def calculateTime(self, keyboard: str, s: str) -> int:
+        d = {ch: i for i, ch in enumerate(keyboard)}
+        return d[s[0]] + sum(abs(d[s[i+1]] - d[s[i]]) for i in range(len(s) - 1))
