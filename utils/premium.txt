@@ -1,3 +1,18 @@
+2489. Number of Substrings With Fixed Ratio
+65.2%
+Medium
+2480. Form a Chemical Bond
+77.3%
+Easy
+2479. Maximum XOR of Two Non-Overlapping Subtrees
+49.4%
+Hard
+2474. Customers With Strictly Increasing Purchases
+65.0%
+Hard
+2473. Minimum Cost to Buy Apples
+67.2%
+Medium
 2464. Minimum Subarrays in a Valid Split
 59.8%
 Medium

@@ -1,3 +1,18 @@
+2493. Divide Nodes Into the Maximum Number of Groups
+30.1%
+Hard
+2492. Minimum Score of a Path Between Two Cities
+42.0%
+Medium
+2491. Divide Players Into Teams of Equal Skill
+57.4%
+Medium
+2490. Circular Sentence
+63.1%
+Easy
+2489. Number of Substrings With Fixed Ratio
+65.2%
+Medium
 2488. Count Subarrays With Median K
 36.4%
 Hard

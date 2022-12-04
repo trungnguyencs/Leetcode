@@ -5,7 +5,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|880|
+|[All-time](https://leetcode.com/trungnguyen276/)|883|
 |[2020 & 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
 |[2022](https://github.com/trungnguyencs/Leetcode)|319|
 
@@ -892,3 +892,6 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)|Easy|||
 |[2486. Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)|Medium|||
 |[2487. Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)|Medium|||
+|[2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/)|Easy|||
+|[2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)|Medium|||
+|[2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)|Medium|||
