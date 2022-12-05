@@ -124,6 +124,9 @@ Medium
 2269. Find the K-Beauty of a Number
 57.0%
 Easy
+2256. Minimum Average Difference
+43.4%
+Medium
 2245. Maximum Trailing Zeros in a Cornered Path
 35.1%
 Medium
