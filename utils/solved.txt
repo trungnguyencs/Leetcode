@@ -997,6 +997,9 @@ Easy
 875. Koko Eating Bananas
 52.8%
 Medium
+872. Leaf-Similar Trees
+66.7%
+Easy
 870. Advantage Shuffle
 51.5%
 Medium
