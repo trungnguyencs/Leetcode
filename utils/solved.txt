@@ -205,6 +205,9 @@ Medium
 1996. The Number of Weak Characters in the Game
 43.9%
 Medium
+1971. Find if Path Exists in Graph
+51.4%
+Easy
 1969. Minimum Non-Zero Product of the Array Elements
 33.4%
 Medium
