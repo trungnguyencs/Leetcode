@@ -766,6 +766,9 @@ Easy
 1071. Greatest Common Divisor of Strings
 51.0%
 Easy
+1066. Campus Bikes II
+54.8%
+Medium
 1064. Fixed Point
 63.6%
 Easy
