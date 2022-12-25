@@ -1,3 +1,66 @@
+2514. Count Anagrams
+26.8%
+Hard
+2513. Minimize the Maximum of Two Arrays
+15.5%
+Medium
+2512. Reward Top K Students
+41.3%
+Medium
+2511. Maximum Enemy Forts That Can Be Captured
+32.0%
+Easy
+2510. Check if There is a Path With Equal Number of 0's And 1's
+66.8%
+Medium
+2509. Cycle Length Queries in a Tree
+55.6%
+Hard
+2508. Add Edges to Make Degrees of All Nodes Even
+32.3%
+Hard
+2507. Smallest Value After Replacing With Sum of Prime Factors
+47.4%
+Medium
+2506. Count Pairs Of Similar Strings
+68.8%
+Easy
+2505. Bitwise OR of All Subsequence Sums
+64.1%
+Medium
+2504. Concatenate the Name and the Profession
+49.6%
+Easy
+2503. Maximum Number of Points From Grid Queries
+36.0%
+Hard
+2502. Design Memory Allocator
+51.2%
+Medium
+2501. Longest Square Streak in an Array
+39.6%
+Medium
+2500. Delete Greatest Value in Each Row
+83.2%
+Easy
+2499. Minimum Total Cost to Make Arrays Unequal
+43.0%
+Hard
+2498. Frog Jump II
+60.1%
+Medium
+2497. Maximum Star Sum of a Graph
+38.2%
+Medium
+2496. Maximum Value of a String in an Array
+71.3%
+Easy
+2495. Number of Subarrays Having Even Product
+69.5%
+Medium
+2494. Merge Overlapping Events in the Same Hall
+25.0%
+Hard
 2493. Divide Nodes Into the Maximum Number of Groups
 30.1%
 Hard

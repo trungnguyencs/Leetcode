@@ -1,3 +1,12 @@
+2514. Count Anagrams
+26.8%
+Hard
+2512. Reward Top K Students
+41.3%
+Medium
+2511. Maximum Enemy Forts That Can Be Captured
+32.0%
+Easy
 2492. Minimum Score of a Path Between Two Cities
 42.0%
 Medium
@@ -57,6 +66,9 @@ Medium
 Medium
 2404. Most Frequent Even Element
 50.2%
+Easy
+2389. Longest Subsequence With Limited Sum
+66.2%
 Easy
 2359. Find Closest Node to Given Two Nodes
 33.3%
@@ -1107,6 +1119,9 @@ Medium
 Medium
 791. Custom Sort String
 69.4%
+Medium
+790. Domino and Tromino Tiling
+53.0%
 Medium
 785. Is Graph Bipartite?
 52.4%
