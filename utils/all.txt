@@ -1,3 +1,15 @@
+2518. Number of Great Partitions
+28.9%
+Hard
+2517. Maximum Tastiness of Candy Basket
+58.3%
+Medium
+2516. Take K of Each Character From Left and Right
+26.5%
+Medium
+2515. Shortest Distance to Target String in a Circular Array
+45.7%
+Easy
 2514. Count Anagrams
 26.8%
 Hard

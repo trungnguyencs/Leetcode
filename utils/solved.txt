@@ -1,3 +1,9 @@
+2517. Maximum Tastiness of Candy Basket
+58.3%
+Medium
+2515. Shortest Distance to Target String in a Circular Array
+45.7%
+Easy
 2514. Count Anagrams
 26.8%
 Hard
