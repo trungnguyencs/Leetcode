@@ -124,6 +124,9 @@ Medium
 2283. Check if Number Has Equal Digit Count and Digit Value
 73.8%
 Easy
+2279. Maximum Bags With Full Capacity of Rocks
+62.7%
+Medium
 2275. Largest Combination With Bitwise AND Greater Than Zero
 72.3%
 Medium
