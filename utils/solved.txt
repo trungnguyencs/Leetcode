@@ -295,6 +295,9 @@ Medium
 1844. Replace All Digits with Characters
 79.8%
 Easy
+1834. Single-Threaded CPU
+43.7%
+Medium
 1832. Check if the Sentence Is Pangram
 84.0%
 Easy
