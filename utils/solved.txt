@@ -1,3 +1,12 @@
+2531. Make Number of Distinct Characters Equal
+16.5%
+Medium
+2530. Maximal Score After Applying K Operations
+37.1%
+Medium
+2529. Maximum Count of Positive Integer and Negative Integer
+80.7%
+Easy
 2517. Maximum Tastiness of Candy Basket
 58.3%
 Medium
