@@ -178,6 +178,9 @@ Medium
 2224. Minimum Number of Operations to Convert Time
 64.8%
 Easy
+2214. Minimum Health to Beat Game
+57.6%
+Medium
 2202. Maximize the Topmost Element After K Moves
 22.6%
 Medium
