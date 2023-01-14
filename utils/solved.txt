@@ -157,6 +157,9 @@ Easy
 2256. Minimum Average Difference
 43.4%
 Medium
+2246. Longest Path With Different Adjacent Characters
+56.2%
+Hard
 2245. Maximum Trailing Zeros in a Cornered Path
 35.1%
 Medium
@@ -811,6 +814,9 @@ Medium
 1064. Fixed Point
 63.6%
 Easy
+1061. Lexicographically Smallest Equivalent String
+71.4%
+Medium
 1059. All Paths from Source Lead to Destination
 41.0%
 Medium
