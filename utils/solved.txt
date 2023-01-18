@@ -466,6 +466,9 @@ Easy
 1539. Kth Missing Positive Number
 55.8%
 Easy
+1533. Find the Index of the Large Integer
+54.3%
+Medium
 1530. Number of Good Leaf Nodes Pairs
 60.2%
 Medium
