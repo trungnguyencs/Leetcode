@@ -1561,6 +1561,9 @@ Easy
 492. Construct the Rectangle
 53.4%
 Easy
+491. Non-decreasing Subsequences
+53.0%
+Medium
 490. The Maze
 55.3%
 Medium
