@@ -1,3 +1,18 @@
+2539. Count the Number of Good Subsequences
+59.9%
+Medium
+2534. Time Taken to Cross the Door
+72.0%
+Hard
+2533. Number of Good Binary Strings
+66.2%
+Medium
+2524. Maximum Frequency Score of a Subarray
+40.2%
+Hard
+2519. Count the Number of K-Big Indices
+66.8%
+Hard
 2510. Check if There is a Path With Equal Number of 0's And 1's
 66.8%
 Medium

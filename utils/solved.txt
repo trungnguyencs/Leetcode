@@ -1,3 +1,9 @@
+2541. Minimum Operations to Make Array Equal II
+23.5%
+Medium
+2540. Minimum Common Value
+50.5%
+Easy
 2531. Make Number of Distinct Characters Equal
 16.5%
 Medium
