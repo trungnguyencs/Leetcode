@@ -1,3 +1,15 @@
+2547. Minimum Cost to Split an Array
+34.3%
+Hard
+2546. Apply Bitwise Operations to Make Strings Equal
+37.1%
+Medium
+2545. Sort the Students by Their Kth Score
+85.6%
+Medium
+2544. Alternating Digit Sum
+68.8%
+Easy
 2543. Check if Point Is Reachable
 23.6%
 Hard

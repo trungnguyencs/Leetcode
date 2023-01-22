@@ -1,3 +1,12 @@
+2546. Apply Bitwise Operations to Make Strings Equal
+37.1%
+Medium
+2545. Sort the Students by Their Kth Score
+85.6%
+Medium
+2544. Alternating Digit Sum
+68.8%
+Easy
 2541. Minimum Operations to Make Array Equal II
 23.5%
 Medium
