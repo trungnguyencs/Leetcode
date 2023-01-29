@@ -1,3 +1,9 @@
+2550. Count Collisions of Monkeys on a Polygon
+21.5%
+Medium
+2549. Count Distinct Numbers on Board
+56.2%
+Easy
 2546. Apply Bitwise Operations to Make Strings Equal
 37.1%
 Medium
@@ -817,6 +823,9 @@ Medium
 1091. Shortest Path in Binary Matrix
 44.5%
 Medium
+1088. Confusing Number II
+47.2%
+Hard
 1087. Brace Expansion
 66.1%
 Medium

@@ -1,3 +1,18 @@
+2552. Count Increasing Quadruplets
+13.6%
+Hard
+2551. Put Marbles in Bags
+40.9%
+Hard
+2550. Count Collisions of Monkeys on a Polygon
+21.5%
+Medium
+2549. Count Distinct Numbers on Board
+56.2%
+Easy
+2548. Maximum Price to Fill a Bag
+72.2%
+Medium
 2547. Minimum Cost to Split an Array
 34.3%
 Hard

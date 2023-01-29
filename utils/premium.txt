@@ -1,3 +1,6 @@
+2548. Maximum Price to Fill a Bag
+72.2%
+Medium
 2539. Count the Number of Good Subsequences
 59.9%
 Medium
