@@ -2917,8 +2917,8 @@ Medium
 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 48.9%
 Hard
-1578. Minimum Deletion Cost to Avoid Repeating Letters
-61.4%
+1578. Minimum Time to Make Rope Colorful
+63.6%
 Medium
 1577. Number of Ways Where Square of Number Is Equal to Product of Two Numbers
 38.6%
@@ -6178,8 +6178,8 @@ Hard
 492. Construct the Rectangle
 51.8%
 Easy
-491. Increasing Subsequences
-49.6%
+491. Non-decreasing Subsequences
+60.0%
 Medium
 490. The Maze
 54.0%
