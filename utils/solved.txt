@@ -1255,6 +1255,9 @@ Medium
 735. Asteroid Collision
 44.4%
 Medium
+734. Sentence Similarity
+43.5%
+Easy
 733. Flood Fill
 59.9%
 Easy

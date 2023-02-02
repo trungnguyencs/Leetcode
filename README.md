@@ -5,9 +5,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|916|
+|[All-time](https://leetcode.com/trungnguyen276/)|917|
 |[2020 & 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
-|[2022 & 2023](https://github.com/trungnguyencs/Leetcode)|384|
+|[2022 & 2023](https://github.com/trungnguyencs/Leetcode)|388|
 
 ## Problems
 |     Title     |   Difficulty  |    Premium    |  Last Solved  |    Solution   |
@@ -90,14 +90,14 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|Medium||3 months ago|[0080-remove-duplicates-from-sorted-array-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.py/)|
 |[81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium||3 months ago|[0081-search-in-rotated-sorted-array-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py/)|
 |[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium||3 months ago|[0082-remove-duplicates-from-sorted-list-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.py/)|
-|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy||last week|[0083-remove-duplicates-from-sorted-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py/)|
+|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy||2 weeks ago|[0083-remove-duplicates-from-sorted-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py/)|
 |[86. Partition List](https://leetcode.com/problems/partition-list/)|Medium||3 months ago|[0086-partition-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0086-partition-list/0086-partition-list.py/)|
 |[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Easy||3 months ago|[0088-merge-sorted-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/0088-merge-sorted-array/0088-merge-sorted-array.py/)|
 |[89. Gray Code](https://leetcode.com/problems/gray-code/)|Medium|||
 |[90. Subsets II](https://leetcode.com/problems/subsets-ii/)|Medium|||
 |[91. Decode Ways](https://leetcode.com/problems/decode-ways/)|Medium|||
 |[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium||3 months ago|[0092-reverse-linked-list-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.py/)|
-|[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|Medium||last week|[0093-restore-ip-addresses.py](https://github.com/trungnguyencs/Leetcode/blob/main/0093-restore-ip-addresses/0093-restore-ip-addresses.py/)|
+|[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|Medium||2 weeks ago|[0093-restore-ip-addresses.py](https://github.com/trungnguyencs/Leetcode/blob/main/0093-restore-ip-addresses/0093-restore-ip-addresses.py/)|
 |[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Easy||3 months ago|[0094-binary-tree-inorder-traversal.py](https://github.com/trungnguyencs/Leetcode/blob/main/0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.py/)|
 |[95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|Medium|||
 |[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|Medium|||
@@ -127,16 +127,16 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Medium|||
 |[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|Hard|||
 |[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|Hard||last month|[0124-binary-tree-maximum-path-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.py/)|
-|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy||last week|[0125-valid-palindrome.py](https://github.com/trungnguyencs/Leetcode/blob/main/0125-valid-palindrome/0125-valid-palindrome.py/)|
+|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy||2 weeks ago|[0125-valid-palindrome.py](https://github.com/trungnguyencs/Leetcode/blob/main/0125-valid-palindrome/0125-valid-palindrome.py/)|
 |[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Hard|||
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|Hard||3 months ago|[0127-word-ladder.py](https://github.com/trungnguyencs/Leetcode/blob/main/0127-word-ladder/0127-word-ladder.py/)|
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium||3 months ago|[0128-longest-consecutive-sequence.py](https://github.com/trungnguyencs/Leetcode/blob/main/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.py/)|
-|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium||last week|[0129-sum-root-to-leaf-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.py/)|
+|[129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium||2 weeks ago|[0129-sum-root-to-leaf-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.py/)|
 |[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Medium|||
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|Medium||3 months ago|[0131-palindrome-partitioning.py](https://github.com/trungnguyencs/Leetcode/blob/main/0131-palindrome-partitioning/0131-palindrome-partitioning.py/)|
 |[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)|Hard|||
 |[133. Clone Graph](https://leetcode.com/problems/clone-graph/)|Medium||3 months ago|[0133-clone-graph.py](https://github.com/trungnguyencs/Leetcode/blob/main/0133-clone-graph/0133-clone-graph.py/)|
-|[134. Gas Station](https://leetcode.com/problems/gas-station/)|Medium||3 weeks ago|[0134-gas-station.py](https://github.com/trungnguyencs/Leetcode/blob/main/0134-gas-station/0134-gas-station.py/)|
+|[134. Gas Station](https://leetcode.com/problems/gas-station/)|Medium||last month|[0134-gas-station.py](https://github.com/trungnguyencs/Leetcode/blob/main/0134-gas-station/0134-gas-station.py/)|
 |[136. Single Number](https://leetcode.com/problems/single-number/)|Easy||3 months ago|[0136-single-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/0136-single-number/0136-single-number.py/)|
 |[137. Single Number II](https://leetcode.com/problems/single-number-ii/)|Medium|||
 |[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Medium||3 months ago|[0138-copy-list-with-random-pointer.py](https://github.com/trungnguyencs/Leetcode/blob/main/0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.py/)|
@@ -150,7 +150,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|Medium|||
 |[147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium|||
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|Medium||3 months ago|[0148-sort-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0148-sort-list/0148-sort-list.py/)|
-|[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|Hard||3 weeks ago|[0149-max-points-on-a-line.py](https://github.com/trungnguyencs/Leetcode/blob/main/0149-max-points-on-a-line/0149-max-points-on-a-line.py/)|
+|[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|Hard||last month|[0149-max-points-on-a-line.py](https://github.com/trungnguyencs/Leetcode/blob/main/0149-max-points-on-a-line/0149-max-points-on-a-line.py/)|
 |[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium||last month|[0150-evaluate-reverse-polish-notation.py](https://github.com/trungnguyencs/Leetcode/blob/main/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py/)|
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|Medium||2 months ago|[0151-reverse-words-in-a-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py/)|
 |[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|||
@@ -187,7 +187,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Medium|||
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium||3 months ago|[0200-number-of-islands.py](https://github.com/trungnguyencs/Leetcode/blob/main/0200-number-of-islands/0200-number-of-islands.py/)|
 |[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|Medium|||
-|[202. Happy Number](https://leetcode.com/problems/happy-number/)|Easy|||
+|[202. Happy Number](https://leetcode.com/problems/happy-number/)|Easy||3 days ago|[0202-happy-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/0202-happy-number/0202-happy-number.py/)|
 |[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|Easy||3 months ago|[0203-remove-linked-list-elements.py](https://github.com/trungnguyencs/Leetcode/blob/main/0203-remove-linked-list-elements/0203-remove-linked-list-elements.py/)|
 |[204. Count Primes](https://leetcode.com/problems/count-primes/)|Medium|||
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|||
@@ -210,7 +210,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)|Medium||2 months ago|[0223-rectangle-area.py](https://github.com/trungnguyencs/Leetcode/blob/main/0223-rectangle-area/0223-rectangle-area.py/)|
 |[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|Hard|||
 |[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|||
-|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy||last week|[0226-invert-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0226-invert-binary-tree/0226-invert-binary-tree.py/)|
+|[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy||2 weeks ago|[0226-invert-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0226-invert-binary-tree/0226-invert-binary-tree.py/)|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|Medium|||
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|Easy||3 months ago|[0228-summary-ranges.py](https://github.com/trungnguyencs/Leetcode/blob/main/0228-summary-ranges/0228-summary-ranges.py/)|
 |[229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)|Medium|||
@@ -239,7 +239,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[254. Factor Combinations](https://leetcode.com/problems/factor-combinations/)|Medium|Premium||
 |[255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|Medium|Premium||
 |[256. Paint House](https://leetcode.com/problems/paint-house/)|Medium|Premium|3 months ago|[0256-paint-house.py](https://github.com/trungnguyencs/Leetcode/blob/main/0256-paint-house/0256-paint-house.py/)|
-|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy||last week|[0257-binary-tree-paths.py](https://github.com/trungnguyencs/Leetcode/blob/main/0257-binary-tree-paths/0257-binary-tree-paths.py/)|
+|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy||2 weeks ago|[0257-binary-tree-paths.py](https://github.com/trungnguyencs/Leetcode/blob/main/0257-binary-tree-paths/0257-binary-tree-paths.py/)|
 |[258. Add Digits](https://leetcode.com/problems/add-digits/)|Easy||3 months ago|[0258-add-digits.py](https://github.com/trungnguyencs/Leetcode/blob/main/0258-add-digits/0258-add-digits.py/)|
 |[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|Medium|Premium||
 |[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|Premium||
@@ -260,7 +260,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Medium||2 months ago|[0279-perfect-squares.py](https://github.com/trungnguyencs/Leetcode/blob/main/0279-perfect-squares/0279-perfect-squares.py/)|
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|Medium|Premium||
 |[282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|Hard|||
-|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy||last week|[0283-move-zeroes.py](https://github.com/trungnguyencs/Leetcode/blob/main/0283-move-zeroes/0283-move-zeroes.py/)|
+|[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy||2 weeks ago|[0283-move-zeroes.py](https://github.com/trungnguyencs/Leetcode/blob/main/0283-move-zeroes/0283-move-zeroes.py/)|
 |[284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|Medium|||
 |[285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Medium|Premium||
 |[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium|Premium||
@@ -275,7 +275,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|Medium|||
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium||3 months ago|[0300-longest-increasing-subsequence.py](https://github.com/trungnguyencs/Leetcode/blob/main/0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.py/)|
 |[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|||
-|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy||last week|[0303-range-sum-query-immutable.py](https://github.com/trungnguyencs/Leetcode/blob/main/0303-range-sum-query-immutable/0303-range-sum-query-immutable.py/)|
+|[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy||2 weeks ago|[0303-range-sum-query-immutable.py](https://github.com/trungnguyencs/Leetcode/blob/main/0303-range-sum-query-immutable/0303-range-sum-query-immutable.py/)|
 |[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|Medium||3 months ago|[0304-range-sum-query-2d-immutable.py](https://github.com/trungnguyencs/Leetcode/blob/main/0304-range-sum-query-2d-immutable/0304-range-sum-query-2d-immutable.py/)|
 |[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|Medium||3 months ago|[0307-range-sum-query-mutable.py](https://github.com/trungnguyencs/Leetcode/blob/main/0307-range-sum-query-mutable/0307-range-sum-query-mutable.py/)|
 |[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium||last month|[0309-best-time-to-buy-and-sell-stock-with-cooldown.py](https://github.com/trungnguyencs/Leetcode/blob/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/0309-best-time-to-buy-and-sell-stock-with-cooldown.py/)|
@@ -288,7 +288,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|Medium|||
 |[320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)|Medium|Premium||
 |[322. Coin Change](https://leetcode.com/problems/coin-change/)|Medium||3 months ago|[0322-coin-change.py](https://github.com/trungnguyencs/Leetcode/blob/main/0322-coin-change/0322-coin-change.py/)|
-|[323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|Premium|last month|[0323-number-of-connected-components-in-an-undirected-graph.py](https://github.com/trungnguyencs/Leetcode/blob/main/0323-number-of-connected-components-in-an-undirected-graph/0323-number-of-connected-components-in-an-undirected-graph.py/)|
+|[323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|Premium|2 months ago|[0323-number-of-connected-components-in-an-undirected-graph.py](https://github.com/trungnguyencs/Leetcode/blob/main/0323-number-of-connected-components-in-an-undirected-graph/0323-number-of-connected-components-in-an-undirected-graph.py/)|
 |[325. Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|Medium|Premium||
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|Easy||3 months ago|[0326-power-of-three.py](https://github.com/trungnguyencs/Leetcode/blob/main/0326-power-of-three/0326-power-of-three.py/)|
 |[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Medium||2 months ago|[0328-odd-even-linked-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0328-odd-even-linked-list/0328-odd-even-linked-list.py/)|
@@ -296,7 +296,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)|Medium|||
 |[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Hard|||
 |[333. Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)|Medium|Premium||
-|[334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium||3 months ago|[0334-increasing-triplet-subsequence.py](https://github.com/trungnguyencs/Leetcode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.py/)|
+|[334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Medium||2 days ago|[0334-increasing-triplet-subsequence.py](https://github.com/trungnguyencs/Leetcode/blob/main/0334-increasing-triplet-subsequence/0334-increasing-triplet-subsequence.py/)|
 |[337. House Robber III](https://leetcode.com/problems/house-robber-iii/)|Medium|||
 |[338. Counting Bits](https://leetcode.com/problems/counting-bits/)|Easy||3 months ago|[0338-counting-bits.py](https://github.com/trungnguyencs/Leetcode/blob/main/0338-counting-bits/0338-counting-bits.py/)|
 |[339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|Medium|Premium||
@@ -305,11 +305,11 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[342. Power of Four](https://leetcode.com/problems/power-of-four/)|Easy||3 months ago|[0342-power-of-four.py](https://github.com/trungnguyencs/Leetcode/blob/main/0342-power-of-four/0342-power-of-four.py/)|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|Easy||3 months ago|[0344-reverse-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/0344-reverse-string/0344-reverse-string.py/)|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|Easy||3 months ago|[0345-reverse-vowels-of-a-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py/)|
-|[346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy|Premium|last week|[0346-moving-average-from-data-stream.py](https://github.com/trungnguyencs/Leetcode/blob/main/0346-moving-average-from-data-stream/0346-moving-average-from-data-stream.py/)|
+|[346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|Easy|Premium|2 weeks ago|[0346-moving-average-from-data-stream.py](https://github.com/trungnguyencs/Leetcode/blob/main/0346-moving-average-from-data-stream/0346-moving-average-from-data-stream.py/)|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium||3 months ago|[0347-top-k-frequent-elements.py](https://github.com/trungnguyencs/Leetcode/blob/main/0347-top-k-frequent-elements/0347-top-k-frequent-elements.py/)|
 |[348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|Medium|Premium||
-|[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy||last week|[0349-intersection-of-two-arrays.py](https://github.com/trungnguyencs/Leetcode/blob/main/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py/)|
-|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy||last week|[0350-intersection-of-two-arrays-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py/)|
+|[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Easy||2 weeks ago|[0349-intersection-of-two-arrays.py](https://github.com/trungnguyencs/Leetcode/blob/main/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py/)|
+|[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy||2 weeks ago|[0350-intersection-of-two-arrays-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py/)|
 |[351. Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)|Medium|Premium||
 |[353. Design Snake Game](https://leetcode.com/problems/design-snake-game/)|Medium|Premium||
 |[354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|Hard|||
@@ -377,7 +377,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|Medium|||
 |[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|Medium|||
 |[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|Medium||2 months ago|[0451-sort-characters-by-frequency.py](https://github.com/trungnguyencs/Leetcode/blob/main/0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py/)|
-|[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|Medium||3 weeks ago|[0452-minimum-number-of-arrows-to-burst-balloons.py](https://github.com/trungnguyencs/Leetcode/blob/main/0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py/)|
+|[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)|Medium||last month|[0452-minimum-number-of-arrows-to-burst-balloons.py](https://github.com/trungnguyencs/Leetcode/blob/main/0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.py/)|
 |[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|Medium|||
 |[454. 4Sum II](https://leetcode.com/problems/4sum-ii/)|Medium||3 months ago|[0454-4sum-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0454-4sum-ii/0454-4sum-ii.py/)|
 |[456. 132 Pattern](https://leetcode.com/problems/132-pattern/)|Medium|||
@@ -398,7 +398,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|Medium|Premium||
 |[489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)|Hard|Premium||
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|Medium|Premium||
-|[491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)|Medium||last week|[0491-non-decreasing-subsequences.py](https://github.com/trungnguyencs/Leetcode/blob/main/0491-non-decreasing-subsequences/0491-non-decreasing-subsequences.py/)|
+|[491. Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)|Medium||2 weeks ago|[0491-non-decreasing-subsequences.py](https://github.com/trungnguyencs/Leetcode/blob/main/0491-non-decreasing-subsequences/0491-non-decreasing-subsequences.py/)|
 |[492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|Easy|||
 |[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|Easy|||
 |[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy|||
@@ -509,6 +509,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)|Medium|||
 |[729. My Calendar I](https://leetcode.com/problems/my-calendar-i/)|Medium|||
 |[733. Flood Fill](https://leetcode.com/problems/flood-fill/)|Easy|||
+|[734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)|Easy|Premium|yesterday|[0734-sentence-similarity.py](https://github.com/trungnguyencs/Leetcode/blob/main/0734-sentence-similarity/0734-sentence-similarity.py/)|
 |[735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|Medium||3 months ago|[0735-asteroid-collision.py](https://github.com/trungnguyencs/Leetcode/blob/main/0735-asteroid-collision/0735-asteroid-collision.py/)|
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium||last month|[0739-daily-temperatures.py](https://github.com/trungnguyencs/Leetcode/blob/main/0739-daily-temperatures/0739-daily-temperatures.py/)|
 |[740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|Medium||3 months ago|[0740-delete-and-earn.py](https://github.com/trungnguyencs/Leetcode/blob/main/0740-delete-and-earn/0740-delete-and-earn.py/)|
@@ -565,7 +566,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|Easy||3 months ago|[0867-transpose-matrix.py](https://github.com/trungnguyencs/Leetcode/blob/main/0867-transpose-matrix/0867-transpose-matrix.py/)|
 |[869. Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|Medium||3 months ago|[0869-reordered-power-of-2.py](https://github.com/trungnguyencs/Leetcode/blob/main/0869-reordered-power-of-2/0869-reordered-power-of-2.py/)|
 |[870. Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|Medium|||
-|[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|Easy||last month|[0872-leaf-similar-trees.py](https://github.com/trungnguyencs/Leetcode/blob/main/0872-leaf-similar-trees/0872-leaf-similar-trees.py/)|
+|[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|Easy||2 months ago|[0872-leaf-similar-trees.py](https://github.com/trungnguyencs/Leetcode/blob/main/0872-leaf-similar-trees/0872-leaf-similar-trees.py/)|
 |[875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|Medium||3 months ago|[0875-koko-eating-bananas.py](https://github.com/trungnguyencs/Leetcode/blob/main/0875-koko-eating-bananas/0875-koko-eating-bananas.py/)|
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Easy||2 months ago|[0876-middle-of-the-linked-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.py/)|
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|Medium|||
@@ -578,7 +579,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|Easy||3 months ago|[0897-increasing-order-search-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0897-increasing-order-search-tree/0897-increasing-order-search-tree.py/)|
 |[901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)|Medium|||
 |[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|Easy||3 months ago|[0905-sort-array-by-parity.py](https://github.com/trungnguyencs/Leetcode/blob/main/0905-sort-array-by-parity/0905-sort-array-by-parity.py/)|
-|[909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|Medium||5 days ago|[0909-snakes-and-ladders.py](https://github.com/trungnguyencs/Leetcode/blob/main/0909-snakes-and-ladders/0909-snakes-and-ladders.py/)|
+|[909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|Medium||last week|[0909-snakes-and-ladders.py](https://github.com/trungnguyencs/Leetcode/blob/main/0909-snakes-and-ladders/0909-snakes-and-ladders.py/)|
 |[915. Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|Medium|||
 |[916. Word Subsets](https://leetcode.com/problems/word-subsets/)|Medium||3 months ago|[0916-word-subsets.py](https://github.com/trungnguyencs/Leetcode/blob/main/0916-word-subsets/0916-word-subsets.py/)|
 |[917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|Easy||3 months ago|[0917-reverse-only-letters.py](https://github.com/trungnguyencs/Leetcode/blob/main/0917-reverse-only-letters/0917-reverse-only-letters.py/)|
@@ -593,14 +594,14 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|Easy|||
 |[934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)|Medium|||
 |[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|Easy|||
-|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|Easy||last month|[0938-range-sum-of-bst.py](https://github.com/trungnguyencs/Leetcode/blob/main/0938-range-sum-of-bst/0938-range-sum-of-bst.py/)|
+|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|Easy||2 months ago|[0938-range-sum-of-bst.py](https://github.com/trungnguyencs/Leetcode/blob/main/0938-range-sum-of-bst/0938-range-sum-of-bst.py/)|
 |[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|Easy||3 months ago|[0941-valid-mountain-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/0941-valid-mountain-array/0941-valid-mountain-array.py/)|
 |[942. DI String Match](https://leetcode.com/problems/di-string-match/)|Easy|||
 |[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|Easy||last month|[0944-delete-columns-to-make-sorted.py](https://github.com/trungnguyencs/Leetcode/blob/main/0944-delete-columns-to-make-sorted/0944-delete-columns-to-make-sorted.py/)|
 |[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|Medium||3 months ago|[0946-validate-stack-sequences.py](https://github.com/trungnguyencs/Leetcode/blob/main/0946-validate-stack-sequences/0946-validate-stack-sequences.py/)|
 |[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)|Medium||2 months ago|[0947-most-stones-removed-with-same-row-or-column.py](https://github.com/trungnguyencs/Leetcode/blob/main/0947-most-stones-removed-with-same-row-or-column/0947-most-stones-removed-with-same-row-or-column.py/)|
 |[948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|Medium||3 months ago|[0948-bag-of-tokens.py](https://github.com/trungnguyencs/Leetcode/blob/main/0948-bag-of-tokens/0948-bag-of-tokens.py/)|
-|[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|Easy|||
+|[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|Easy||4 minutes ago|[0953-verifying-an-alien-dictionary.py](https://github.com/trungnguyencs/Leetcode/blob/main/0953-verifying-an-alien-dictionary/0953-verifying-an-alien-dictionary.py/)|
 |[954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|Medium|||
 |[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|Medium|||
 |[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|Medium|||
@@ -633,7 +634,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|Medium||10 months ago|[1011-capacity-to-ship-packages-within-d-days.py](https://github.com/trungnguyencs/Leetcode/blob/main/1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.py/)|
 |[1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|Medium|||
 |[1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)|Easy||last year|[1022-sum-of-root-to-leaf-binary-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.py/)|
-|[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|Medium||last month|[1026-maximum-difference-between-node-and-ancestor.py](https://github.com/trungnguyencs/Leetcode/blob/main/1026-maximum-difference-between-node-and-ancestor/1026-maximum-difference-between-node-and-ancestor.py/)|
+|[1026. Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|Medium||2 months ago|[1026-maximum-difference-between-node-and-ancestor.py](https://github.com/trungnguyencs/Leetcode/blob/main/1026-maximum-difference-between-node-and-ancestor/1026-maximum-difference-between-node-and-ancestor.py/)|
 |[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|Medium||10 months ago|[1029-two-city-scheduling.py](https://github.com/trungnguyencs/Leetcode/blob/main/1029-two-city-scheduling/1029-two-city-scheduling.py/)|
 |[1032. Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|Hard|||
 |[1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/)|Medium|||
@@ -646,10 +647,10 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1056. Confusing Number](https://leetcode.com/problems/confusing-number/)|Easy|Premium|last month|[1056-confusing-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/1056-confusing-number/1056-confusing-number.py/)|
 |[1057. Campus Bikes](https://leetcode.com/problems/campus-bikes/)|Medium|Premium|10 months ago|[1057-campus-bikes.py](https://github.com/trungnguyencs/Leetcode/blob/main/1057-campus-bikes/1057-campus-bikes.py/)|
 |[1059. All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/)|Medium|Premium||
-|[1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|Medium|Premium|2 weeks ago|[1061-lexicographically-smallest-equivalent-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/1061-lexicographically-smallest-equivalent-string/1061-lexicographically-smallest-equivalent-string.py/)|
+|[1061. Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)|Medium|Premium|3 weeks ago|[1061-lexicographically-smallest-equivalent-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/1061-lexicographically-smallest-equivalent-string/1061-lexicographically-smallest-equivalent-string.py/)|
 |[1064. Fixed Point](https://leetcode.com/problems/fixed-point/)|Easy|Premium|last year|[1064-fixed-point.py](https://github.com/trungnguyencs/Leetcode/blob/main/1064-fixed-point/1064-fixed-point.py/)|
 |[1066. Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/)|Medium|Premium|last month|[1066-campus-bikes-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/1066-campus-bikes-ii/1066-campus-bikes-ii.py/)|
-|[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|Easy|||
+|[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|Easy||yesterday|[1071-greatest-common-divisor-of-strings.py](https://github.com/trungnguyencs/Leetcode/blob/main/1071-greatest-common-divisor-of-strings/1071-greatest-common-divisor-of-strings.py/)|
 |[1086. High Five](https://leetcode.com/problems/high-five/)|Easy|Premium||
 |[1087. Brace Expansion](https://leetcode.com/problems/brace-expansion/)|Medium|Premium|10 months ago|[1087-brace-expansion.py](https://github.com/trungnguyencs/Leetcode/blob/main/1087-brace-expansion/1087-brace-expansion.py/)|
 |[1088. Confusing Number II](https://leetcode.com/problems/confusing-number-ii/)|Hard|Premium|last week|[1088-confusing-number-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/1088-confusing-number-ii/1088-confusing-number-ii.py/)|
@@ -665,9 +666,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1133. Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)|Easy|Premium||
 |[1134. Armstrong Number](https://leetcode.com/problems/armstrong-number/)|Easy|Premium||
 |[1136. Parallel Courses](https://leetcode.com/problems/parallel-courses/)|Medium|Premium|8 months ago|[1136-parallel-courses.py](https://github.com/trungnguyencs/Leetcode/blob/main/1136-parallel-courses/1136-parallel-courses.py/)|
-|[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|Easy||24 minutes ago|[1137-n-th-tribonacci-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py/)|
+|[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|Easy||3 days ago|[1137-n-th-tribonacci-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py/)|
 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Medium||last month|[1143-longest-common-subsequence.py](https://github.com/trungnguyencs/Leetcode/blob/main/1143-longest-common-subsequence/1143-longest-common-subsequence.py/)|
-|[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|Medium|Premium|7 months ago|[1151-minimum-swaps-to-group-all-1s-together.py](https://github.com/trungnguyencs/Leetcode/blob/main/1151-minimum-swaps-to-group-all-1s-together/1151-minimum-swaps-to-group-all-1s-together.py/)|
+|[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|Medium|Premium|8 months ago|[1151-minimum-swaps-to-group-all-1s-together.py](https://github.com/trungnguyencs/Leetcode/blob/main/1151-minimum-swaps-to-group-all-1s-together/1151-minimum-swaps-to-group-all-1s-together.py/)|
 |[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|Medium|||
 |[1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)|Medium|||
 |[1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|Medium|||
@@ -691,7 +692,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1242. Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded/)|Medium|Premium||
 |[1245. Tree Diameter](https://leetcode.com/problems/tree-diameter/)|Medium|Premium||
 |[1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|Medium||last year|[1249-minimum-remove-to-make-valid-parentheses.py](https://github.com/trungnguyencs/Leetcode/blob/main/1249-minimum-remove-to-make-valid-parentheses/1249-minimum-remove-to-make-valid-parentheses.py/)|
-|[1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|Easy||9 months ago|[1260-shift-2d-grid.py](https://github.com/trungnguyencs/Leetcode/blob/main/1260-shift-2d-grid/1260-shift-2d-grid.py/)|
+|[1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|Easy||10 months ago|[1260-shift-2d-grid.py](https://github.com/trungnguyencs/Leetcode/blob/main/1260-shift-2d-grid/1260-shift-2d-grid.py/)|
 |[1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|Medium||7 months ago|[1268-search-suggestions-system.py](https://github.com/trungnguyencs/Leetcode/blob/main/1268-search-suggestions-system/1268-search-suggestions-system.py/)|
 |[1269. Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)|Hard|||
 |[1272. Remove Interval](https://leetcode.com/problems/remove-interval/)|Medium|Premium|4 months ago|[1272-remove-interval.py](https://github.com/trungnguyencs/Leetcode/blob/main/1272-remove-interval/1272-remove-interval.py/)|
@@ -766,7 +767,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1530. Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/)|Medium|||
 |[1533. Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/)|Medium|Premium|2 weeks ago|[1533-find-the-index-of-the-large-integer.py](https://github.com/trungnguyencs/Leetcode/blob/main/1533-find-the-index-of-the-large-integer/1533-find-the-index-of-the-large-integer.py/)|
 |[1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|Easy|||
-|[1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)|Easy||2 months ago|[1544-make-the-string-great.py](https://github.com/trungnguyencs/Leetcode/blob/main/1544-make-the-string-great/1544-make-the-string-great.py/)|
+|[1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/)|Easy||3 months ago|[1544-make-the-string-great.py](https://github.com/trungnguyencs/Leetcode/blob/main/1544-make-the-string-great/1544-make-the-string-great.py/)|
 |[1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|Easy|||
 |[1551. Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|Medium|||
 |[1553. Minimum Number of Days to Eat N Oranges](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/)|Hard|||
@@ -788,7 +789,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|Medium||7 months ago|[1647-minimum-deletions-to-make-character-frequencies-unique.py](https://github.com/trungnguyencs/Leetcode/blob/main/1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.py/)|
 |[1650. Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)|Medium|Premium||
 |[1657. Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|Medium||2 months ago|[1657-determine-if-two-strings-are-close.py](https://github.com/trungnguyencs/Leetcode/blob/main/1657-determine-if-two-strings-are-close/1657-determine-if-two-strings-are-close.py/)|
-|[1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|Medium||7 months ago|[1658-minimum-operations-to-reduce-x-to-zero.py](https://github.com/trungnguyencs/Leetcode/blob/main/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py/)|
+|[1658. Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|Medium||8 months ago|[1658-minimum-operations-to-reduce-x-to-zero.py](https://github.com/trungnguyencs/Leetcode/blob/main/1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py/)|
 |[1660. Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/)|Medium|Premium||
 |[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|Easy||3 months ago|[1662-check-if-two-string-arrays-are-equivalent.py](https://github.com/trungnguyencs/Leetcode/blob/main/1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py/)|
 |[1663. Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|Medium||10 months ago|[1663-smallest-string-with-a-given-numeric-value.py](https://github.com/trungnguyencs/Leetcode/blob/main/1663-smallest-string-with-a-given-numeric-value/1663-smallest-string-with-a-given-numeric-value.py/)|
@@ -798,7 +799,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|Medium||9 months ago|[1679-max-number-of-k-sum-pairs.py](https://github.com/trungnguyencs/Leetcode/blob/main/1679-max-number-of-k-sum-pairs/1679-max-number-of-k-sum-pairs.py/)|
 |[1680. Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|Medium||4 months ago|[1680-concatenation-of-consecutive-binary-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/1680-concatenation-of-consecutive-binary-numbers/1680-concatenation-of-consecutive-binary-numbers.py/)|
 |[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|Medium||7 months ago|[1689-partitioning-into-minimum-number-of-deci-binary-numbers.py](https://github.com/trungnguyencs/Leetcode/blob/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/1689-partitioning-into-minimum-number-of-deci-binary-numbers.py/)|
-|[1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|Medium||7 months ago|[1695-maximum-erasure-value.py](https://github.com/trungnguyencs/Leetcode/blob/main/1695-maximum-erasure-value/1695-maximum-erasure-value.py/)|
+|[1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|Medium||8 months ago|[1695-maximum-erasure-value.py](https://github.com/trungnguyencs/Leetcode/blob/main/1695-maximum-erasure-value/1695-maximum-erasure-value.py/)|
 |[1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|Easy||2 months ago|[1704-determine-if-string-halves-are-alike.py](https://github.com/trungnguyencs/Leetcode/blob/main/1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.py/)|
 |[1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|Medium||3 months ago|[1706-where-will-the-ball-fall.py](https://github.com/trungnguyencs/Leetcode/blob/main/1706-where-will-the-ball-fall/1706-where-will-the-ball-fall.py/)|
 |[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|Easy||7 months ago|[1710-maximum-units-on-a-truck.py](https://github.com/trungnguyencs/Leetcode/blob/main/1710-maximum-units-on-a-truck/1710-maximum-units-on-a-truck.py/)|
@@ -815,7 +816,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1774. Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/)|Medium|||
 |[1775. Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)|Medium|||
 |[1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Easy||3 months ago|[1832-check-if-the-sentence-is-pangram.py](https://github.com/trungnguyencs/Leetcode/blob/main/1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.py/)|
-|[1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|Medium||3 weeks ago|[1833-maximum-ice-cream-bars.py](https://github.com/trungnguyencs/Leetcode/blob/main/1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py/)|
+|[1833. Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)|Medium||last month|[1833-maximum-ice-cream-bars.py](https://github.com/trungnguyencs/Leetcode/blob/main/1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py/)|
 |[1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/)|Medium||last month|[1834-single-threaded-cpu.py](https://github.com/trungnguyencs/Leetcode/blob/main/1834-single-threaded-cpu/1834-single-threaded-cpu.py/)|
 |[1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|Easy|||
 |[1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)|Medium|||
@@ -840,7 +841,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1968. Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/)|Medium|||
 |[1969. Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/)|Medium|||
 |[1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|Easy||last month|[1971-find-if-path-exists-in-graph.py](https://github.com/trungnguyencs/Leetcode/blob/main/1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.py/)|
-|[1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|Medium||4 months ago|[1996-the-number-of-weak-characters-in-the-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/1996-the-number-of-weak-characters-in-the-game/1996-the-number-of-weak-characters-in-the-game.py/)|
+|[1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|Medium||5 months ago|[1996-the-number-of-weak-characters-in-the-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/1996-the-number-of-weak-characters-in-the-game/1996-the-number-of-weak-characters-in-the-game.py/)|
 |[2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)|Medium||4 months ago|[2007-find-original-array-from-doubled-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/2007-find-original-array-from-doubled-array/2007-find-original-array-from-doubled-array.py/)|
 |[2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|Easy|||
 |[2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)|Medium|||
@@ -856,7 +857,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)|Easy|||
 |[2201. Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)|Medium|||
 |[2202. Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)|Medium|||
-|[2214. Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/)|Medium|Premium|3 weeks ago|[2214-minimum-health-to-beat-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/2214-minimum-health-to-beat-game/2214-minimum-health-to-beat-game.py/)|
+|[2214. Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/)|Medium|Premium|last month|[2214-minimum-health-to-beat-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/2214-minimum-health-to-beat-game/2214-minimum-health-to-beat-game.py/)|
 |[2224. Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/)|Easy|||
 |[2225. Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)|Medium||2 months ago|[2225-find-players-with-zero-or-one-losses.py](https://github.com/trungnguyencs/Leetcode/blob/main/2225-find-players-with-zero-or-one-losses/2225-find-players-with-zero-or-one-losses.py/)|
 |[2226. Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)|Medium|||
@@ -867,7 +868,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)|Easy|||
 |[2244. Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)|Medium||last month|[2244-minimum-rounds-to-complete-all-tasks.py](https://github.com/trungnguyencs/Leetcode/blob/main/2244-minimum-rounds-to-complete-all-tasks/2244-minimum-rounds-to-complete-all-tasks.py/)|
 |[2245. Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)|Medium|||
-|[2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|Hard||2 weeks ago|[2246-longest-path-with-different-adjacent-characters.py](https://github.com/trungnguyencs/Leetcode/blob/main/2246-longest-path-with-different-adjacent-characters/2246-longest-path-with-different-adjacent-characters.py/)|
+|[2246. Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|Hard||3 weeks ago|[2246-longest-path-with-different-adjacent-characters.py](https://github.com/trungnguyencs/Leetcode/blob/main/2246-longest-path-with-different-adjacent-characters/2246-longest-path-with-different-adjacent-characters.py/)|
 |[2256. Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)|Medium||2 months ago|[2256-minimum-average-difference.py](https://github.com/trungnguyencs/Leetcode/blob/main/2256-minimum-average-difference/2256-minimum-average-difference.py/)|
 |[2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|Easy|||
 |[2270. Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)|Medium|||
