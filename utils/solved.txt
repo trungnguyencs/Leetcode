@@ -1,3 +1,15 @@
+2559. Count Vowel Strings in Ranges
+48.8%
+Medium
+2558. Take Gifts From the Richest Pile
+64.5%
+Easy
+2554. Maximum Number of Integers to Choose From a Range I
+50.7%
+Medium
+2553. Separate the Digits in an Array
+78.4%
+Easy
 2550. Count Collisions of Monkeys on a Polygon
 21.5%
 Medium

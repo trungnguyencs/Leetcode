@@ -5,7 +5,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|917|
+|[All-time](https://leetcode.com/trungnguyen276/)|921|
 |[2020 & 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
 |[2022 & 2023](https://github.com/trungnguyencs/Leetcode)|388|
 
@@ -929,3 +929,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2546. Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/)|Medium|||
 |[2549. Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/)|Easy|||
 |[2550. Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/)|Medium|||
+|[2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)|Easy|||
+|[2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/)|Medium|||
+|[2558. Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/)|Easy|||
+|[2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)|Medium|||

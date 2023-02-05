@@ -1,3 +1,30 @@
+2561. Rearranging Fruits
+28.0%
+Hard
+2560. House Robber IV
+30.5%
+Medium
+2559. Count Vowel Strings in Ranges
+48.8%
+Medium
+2558. Take Gifts From the Richest Pile
+64.5%
+Easy
+2557. Maximum Number of Integers to Choose From a Range II
+51.8%
+Medium
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+23.1%
+Medium
+2555. Maximize Win From Two Segments
+24.2%
+Medium
+2554. Maximum Number of Integers to Choose From a Range I
+50.7%
+Medium
+2553. Separate the Digits in an Array
+78.4%
+Easy
 2552. Count Increasing Quadruplets
 13.6%
 Hard
