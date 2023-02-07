@@ -1063,6 +1063,9 @@ Medium
 905. Sort Array By Parity
 75.7%
 Easy
+904. Fruit Into Baskets
+43.0%
+Medium
 901. Online Stock Span
 63.8%
 Medium
