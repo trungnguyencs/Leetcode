@@ -1,3 +1,12 @@
+2564. Substring XOR Queries
+31.5%
+Medium
+2563. Count the Number of Fair Pairs
+28.7%
+Medium
+2562. Find the Array Concatenation Value
+68.9%
+Easy
 2559. Count Vowel Strings in Ranges
 48.8%
 Medium
@@ -334,6 +343,9 @@ Easy
 1874. Minimize Product Sum of Two Arrays
 90.4%
 Medium
+1854. Maximum Population Year
+60.0%
+Easy
 1846. Maximum Element After Decreasing and Rearranging
 58.9%
 Medium
@@ -511,6 +523,9 @@ Medium
 1528. Shuffle String
 85.7%
 Easy
+1523. Count Odd Numbers in an Interval Range
+46.7%
+Easy
 1522. Diameter of N-Ary Tree
 73.3%
 Medium
@@ -645,6 +660,9 @@ Medium
 Easy
 1348. Tweet Counts Per Frequency
 43.4%
+Medium
+1347. Minimum Number of Steps to Make Two Strings Anagram
+77.7%
 Medium
 1344. Angle Between Hands of a Clock
 63.4%

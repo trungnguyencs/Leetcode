@@ -1,3 +1,15 @@
+2565. Subsequence With the Minimum Score
+27.2%
+Hard
+2564. Substring XOR Queries
+31.5%
+Medium
+2563. Count the Number of Fair Pairs
+28.7%
+Medium
+2562. Find the Array Concatenation Value
+68.9%
+Easy
 2561. Rearranging Fruits
 28.0%
 Hard
