@@ -955,6 +955,9 @@ Easy
 991. Broken Calculator
 54.1%
 Medium
+989. Add to Array-Form of Integer
+45.6%
+Easy
 987. Vertical Order Traversal of a Binary Tree
 44.5%
 Hard
