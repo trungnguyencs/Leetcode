@@ -1,3 +1,6 @@
+2566. Maximum Difference by Remapping a Digit
+59.8%
+Easy
 2564. Substring XOR Queries
 31.5%
 Medium
@@ -1077,6 +1080,9 @@ Easy
 Medium
 915. Partition Array into Disjoint Intervals
 48.6%
+Medium
+912. Sort an Array
+58.8%
 Medium
 909. Snakes and Ladders
 40.8%
