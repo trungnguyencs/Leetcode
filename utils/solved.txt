@@ -247,6 +247,9 @@ Medium
 2200. Find All K-Distant Indices in an Array
 64.3%
 Easy
+2187. Minimum Time to Complete Trips
+34.2%
+Medium
 2131. Longest Palindrome by Concatenating Two Letter Words
 48.1%
 Medium
