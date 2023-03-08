@@ -1,14 +1,15 @@
 class Solution:
     def shortestWay(self, source: str, target: str) -> int:
-        if any(c not in source for c in target): return -1
-        count = i = j = 0
-        while j < len(target):
-            if source[i] == target[j]:
-                i += 1
-                j += 1
-            else:
-                i += 1
-            if i == len(source):
-                i = 0
+        dic = defaultdict(list)
+        for i, ch in enumerate(source):
+            dic[ch].append(i)
+        count = i = 0
+        for ch in target:
+            if ch not in dic: return -1
+            j = bisect_left(dic[ch], i)
+            if j == len(dic[ch]):
+                i = dic[ch][bisect_left(dic[ch], 0)] + 1
                 count += 1
-        return count if i == 0 else count + 1
+            else:
+                i = dic[ch][j] + 1
+        return count + 1
