@@ -1,3 +1,12 @@
+2588. Count the Number of Beautiful Subarrays
+47.1%
+Medium
+2587. Rearrange Array to Maximize Prefix Score
+38.5%
+Medium
+2586. Count the Number of Vowel Strings in Range
+78.9%
+Easy
 2566. Maximum Difference by Remapping a Digit
 59.8%
 Easy
@@ -889,6 +898,9 @@ Medium
 1056. Confusing Number
 46.9%
 Easy
+1055. Shortest Way to Form String
+59.6%
+Medium
 1052. Grumpy Bookstore Owner
 56.9%
 Medium

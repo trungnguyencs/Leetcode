@@ -1,3 +1,39 @@
+2589. Minimum Time to Complete All Tasks
+30.8%
+Hard
+2588. Count the Number of Beautiful Subarrays
+47.1%
+Medium
+2587. Rearrange Array to Maximize Prefix Score
+38.5%
+Medium
+2586. Count the Number of Vowel Strings in Range
+78.9%
+Easy
+2585. Number of Ways to Earn Points
+60.0%
+Hard
+2584. Split the Array to Make Coprime Products
+21.8%
+Hard
+2583. Kth Largest Sum in a Binary Tree
+46.5%
+Medium
+2582. Pass the Pillow
+46.2%
+Easy
+2581. Count Number of Possible Root Nodes
+47.1%
+Hard
+2580. Count Ways to Group Overlapping Ranges
+34.5%
+Medium
+2579. Count Total Number of Colored Cells
+56.8%
+Medium
+2578. Split With Minimum Sum
+69.1%
+Easy
 2577. Minimum Time to Visit a Cell In a Grid
 34.2%
 Hard
