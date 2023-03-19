@@ -76,3 +76,5 @@ readmeStr = header + '\n' + '\n'.join(markdownLines)
 readmePath = r"../README.md"
 with open(readmePath, "w") as f:
     f.write(readmeStr)
+    
+print("Updated successfully!")

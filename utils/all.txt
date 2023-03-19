@@ -1,3 +1,30 @@
+2598. Smallest Missing Non-negative Integer After Operations
+32.5%
+Medium
+2597. The Number of Beautiful Subsets
+16.6%
+Medium
+2596. Check Knight Tour Configuration
+59.9%
+Medium
+2595. Number of Even and Odd Bits
+65.9%
+Easy
+2594. Minimum Time to Repair Cars
+41.6%
+Medium
+2593. Find Score of an Array After Marking All Elements
+48.5%
+Medium
+2592. Maximize Greatness of an Array
+51.8%
+Medium
+2591. Distribute Money to Maximum Children
+16.6%
+Easy
+2590. Design a Todo List
+60.8%
+Medium
 2589. Minimum Time to Complete All Tasks
 30.8%
 Hard
