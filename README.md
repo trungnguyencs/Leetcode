@@ -5,9 +5,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|944|
+|[All-time](https://leetcode.com/trungnguyen276/)|945|
 |[2020 & 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
-|[2022 & 2023](https://github.com/trungnguyencs/Leetcode)|410|
+|[2022 & 2023](https://github.com/trungnguyencs/Leetcode)|411|
 
 ## Problems
 |     Title     |   Difficulty  |    Premium    |  Last Solved  |    Solution   |
@@ -187,13 +187,13 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Medium|||
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium||5 months ago|[0200-number-of-islands.py](https://github.com/trungnguyencs/Leetcode/blob/main/0200-number-of-islands/0200-number-of-islands.py/)|
 |[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|Medium|||
-|[202. Happy Number](https://leetcode.com/problems/happy-number/)|Easy||last month|[0202-happy-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/0202-happy-number/0202-happy-number.py/)|
+|[202. Happy Number](https://leetcode.com/problems/happy-number/)|Easy||2 months ago|[0202-happy-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/0202-happy-number/0202-happy-number.py/)|
 |[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|Easy||5 months ago|[0203-remove-linked-list-elements.py](https://github.com/trungnguyencs/Leetcode/blob/main/0203-remove-linked-list-elements/0203-remove-linked-list-elements.py/)|
 |[204. Count Primes](https://leetcode.com/problems/count-primes/)|Medium|||
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|||
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|||
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|Medium|||
-|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium||2 days ago|[0208-implement-trie-prefix-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.py/)|
+|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium||5 days ago|[0208-implement-trie-prefix-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0208-implement-trie-prefix-tree/0208-implement-trie-prefix-tree.py/)|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|Medium|||
 |[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|Medium|||
 |[211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|Medium||5 months ago|[0211-design-add-and-search-words-data-structure.py](https://github.com/trungnguyencs/Leetcode/blob/main/0211-design-add-and-search-words-data-structure/0211-design-add-and-search-words-data-structure.py/)|
@@ -371,7 +371,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Medium||5 months ago|[0438-find-all-anagrams-in-a-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.py/)|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Easy|||
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium|||
-|[443. String Compression](https://leetcode.com/problems/string-compression/)|Medium||2 weeks ago|[0443-string-compression.py](https://github.com/trungnguyencs/Leetcode/blob/main/0443-string-compression/0443-string-compression.py/)|
+|[443. String Compression](https://leetcode.com/problems/string-compression/)|Medium||3 weeks ago|[0443-string-compression.py](https://github.com/trungnguyencs/Leetcode/blob/main/0443-string-compression/0443-string-compression.py/)|
 |[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|Medium|||
 |[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|||
 |[449. Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|Medium|||
@@ -606,7 +606,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|Easy||last month|[0953-verifying-an-alien-dictionary.py](https://github.com/trungnguyencs/Leetcode/blob/main/0953-verifying-an-alien-dictionary/0953-verifying-an-alien-dictionary.py/)|
 |[954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|Medium|||
 |[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|Medium|||
-|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|Medium||3 days ago|[0958-check-completeness-of-a-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.py/)|
+|[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|Medium||last week|[0958-check-completeness-of-a-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0958-check-completeness-of-a-binary-tree/0958-check-completeness-of-a-binary-tree.py/)|
 |[966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|Medium|||
 |[967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|Medium||5 months ago|[0967-numbers-with-same-consecutive-differences.py](https://github.com/trungnguyencs/Leetcode/blob/main/0967-numbers-with-same-consecutive-differences/0967-numbers-with-same-consecutive-differences.py/)|
 |[969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|Medium|||
@@ -707,7 +707,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|Medium|||
 |[1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|Medium||last year|[1288-remove-covered-intervals.py](https://github.com/trungnguyencs/Leetcode/blob/main/1288-remove-covered-intervals/1288-remove-covered-intervals.py/)|
 |[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy|||
-|[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)|Medium||2 years ago|[1291-sequential-digits.py](https://github.com/trungnguyencs/Leetcode/blob/main/1291-sequential-digits/1291-sequential-digits.py/)|
+|[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)|Medium||last year|[1291-sequential-digits.py](https://github.com/trungnguyencs/Leetcode/blob/main/1291-sequential-digits/1291-sequential-digits.py/)|
 |[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|Hard||last year|[1293-shortest-path-in-a-grid-with-obstacles-elimination.py](https://github.com/trungnguyencs/Leetcode/blob/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/1293-shortest-path-in-a-grid-with-obstacles-elimination.py/)|
 |[1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|Medium||10 months ago|[1302-deepest-leaves-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/1302-deepest-leaves-sum/1302-deepest-leaves-sum.py/)|
 |[1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|Easy|||
@@ -898,6 +898,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)|Medium|||
 |[2335. Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)|Easy|||
 |[2336. Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)|Medium|||
+|[2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)|Medium||yesterday|[2348-number-of-zero-filled-subarrays.py](https://github.com/trungnguyencs/Leetcode/blob/main/2348-number-of-zero-filled-subarrays/2348-number-of-zero-filled-subarrays.py/)|
 |[2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|Easy|||
 |[2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)|Medium|||
 |[2359. Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)|Medium|||

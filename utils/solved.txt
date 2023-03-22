@@ -142,6 +142,9 @@ Medium
 2455. Average Value of Even Numbers That Are Divisible by Three
 58.7%
 Easy
+2348. Number of Zero-Filled Subarrays
+66.8%
+Medium
 2446. Determine if Two Events Have Conflict
 47.1%
 Easy
