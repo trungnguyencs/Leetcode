@@ -730,6 +730,9 @@ Medium
 1328. Break a Palindrome
 52.0%
 Medium
+1319. Number of Operations to Make Network Connected
+62.1%
+Medium
 1306. Jump Game III
 63.0%
 Medium
