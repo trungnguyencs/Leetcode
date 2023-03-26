@@ -181,6 +181,9 @@ Medium
 2335. Minimum Amount of Time to Fill Cups
 55.1%
 Easy
+2316. Count Unreachable Pairs of Nodes in an Undirected Graph
+50.8%
+Medium
 2305. Fair Distribution of Cookies
 63.3%
 Medium
