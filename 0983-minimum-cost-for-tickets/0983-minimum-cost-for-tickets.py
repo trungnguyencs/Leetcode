@@ -1,6 +1,5 @@
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
-        cost1, cost7, cost30 = costs
         dp = [0]*(days[-1] + 1)
         for d in range(1, days[-1] + 1):
             if d not in days:
