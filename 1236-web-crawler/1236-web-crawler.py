@@ -17,12 +17,11 @@ class Solution:
         ans = []
         while q:
             cur = q.popleft()
-            if self.getHost(cur) == host:
-                ans.append(cur)
+            ans.append(cur)
             nxt = set(url for url in htmlParser.getUrls(cur) if url not in visited and self.getHost(url) == host)
             q.extend(nxt)
             visited.update(nxt)
-        return sorted(ans)
+        return ans
     
     def getHost(self, url):
         host = url.split('//')[1].split('/')[0]
