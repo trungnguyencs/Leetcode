@@ -694,6 +694,9 @@ Medium
 1413. Minimum Value to Get Positive Step by Step Sum
 68.6%
 Easy
+1402. Reducing Dishes
+73.7%
+Hard
 1396. Design Underground System
 73.6%
 Medium
@@ -798,6 +801,9 @@ Medium
 Medium
 1239. Maximum Length of a Concatenated String with Unique Characters
 50.5%
+Medium
+1236. Web Crawler
+67.4%
 Medium
 1232. Check If It Is a Straight Line
 41.3%
