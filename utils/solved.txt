@@ -157,6 +157,9 @@ Medium
 2446. Determine if Two Events Have Conflict
 47.1%
 Easy
+2439. Minimize Maximum of Array
+47.7%
+Medium
 2419. Longest Subarray With Maximum Bitwise AND
 46.5%
 Medium
@@ -802,6 +805,9 @@ Medium
 1260. Shift 2D Grid
 68.0%
 Easy
+1254. Number of Closed Islands
+64.8%
+Medium
 1249. Minimum Remove to Make Valid Parentheses
 65.6%
 Medium
