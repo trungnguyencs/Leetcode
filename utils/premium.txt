@@ -1,3 +1,15 @@
+2613. Beautiful Pairs
+28.4%
+Hard
+2604. Minimum Time to Eat All Grains
+44.4%
+Hard
+2599. Make the Prefix Sum Non-negative
+50.1%
+Medium
+2590. Design a Todo List
+60.6%
+Medium
 2557. Maximum Number of Integers to Choose From a Range II
 51.8%
 Medium

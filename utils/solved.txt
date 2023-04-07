@@ -991,6 +991,9 @@ Medium
 1022. Sum of Root To Leaf Binary Numbers
 73.8%
 Easy
+1020. Number of Enclaves
+67.4%
+Medium
 1015. Smallest Integer Divisible by K
 47.1%
 Medium
