@@ -1345,6 +1345,9 @@ Medium
 763. Partition Labels
 79.8%
 Medium
+760. Find Anagram Mappings
+82.9%
+Easy
 759. Employee Free Time
 71.6%
 Hard
