@@ -175,6 +175,9 @@ Medium
 2404. Most Frequent Even Element
 50.2%
 Easy
+2390. Removing Stars From a String
+72.5%
+Medium
 2389. Longest Subsequence With Limited Sum
 66.2%
 Easy
