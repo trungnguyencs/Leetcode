@@ -691,6 +691,9 @@ Easy
 1436. Destination City
 77.7%
 Easy
+1431. Kids With the Greatest Number of Candies
+88.0%
+Easy
 1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree
 46.1%
 Medium
@@ -724,6 +727,9 @@ Medium
 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 87.1%
 Easy
+1372. Longest ZigZag Path in a Binary Tree
+67.3%
+Medium
 1348. Tweet Counts Per Frequency
 43.4%
 Medium
