@@ -24,7 +24,8 @@ class MaxStack:
         return self.DL.tail.prev.val
 
     def peekMax(self) -> int:
-        return self.dic.keys()[-1]
+        maxKey, nodeList = self.dic.peekitem()
+        return maxKey
 
     def popMax(self) -> int:
         maxVal = self.peekMax()
