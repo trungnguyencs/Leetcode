@@ -574,6 +574,9 @@ Easy
 1539. Kth Missing Positive Number
 55.8%
 Easy
+1538. Guess the Majority in a Hidden Array
+69.0%
+Medium
 1533. Find the Index of the Large Integer
 54.3%
 Medium
