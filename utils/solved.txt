@@ -310,8 +310,14 @@ Easy
 2187. Minimum Time to Complete Trips
 34.2%
 Medium
+2140. Solving Questions With Brainpower
+55.6%
+Medium
 2131. Longest Palindrome by Concatenating Two Letter Words
 48.1%
+Medium
+2130. Maximum Twin Sum of a Linked List
+82.7%
 Medium
 2096. Step-By-Step Directions From a Binary Tree Node to Another
 48.8%
@@ -553,6 +559,9 @@ Medium
 1578. Minimum Time to Make Rope Colorful
 62.8%
 Medium
+1572. Matrix Diagonal Sum
+82.8%
+Easy
 1570. Dot Product of Two Sparse Vectors
 90.3%
 Medium
@@ -564,6 +573,9 @@ Medium
 Easy
 1564. Put Boxes Into the Warehouse I
 67.2%
+Medium
+1557. Minimum Number of Vertices to Reach All Nodes
+81.5%
 Medium
 1553. Minimum Number of Days to Eat N Oranges
 34.0%
