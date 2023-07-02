@@ -79,6 +79,9 @@ Medium
 2544. Alternating Digit Sum
 68.8%
 Easy
+2542. Maximum Subsequence Score
+56.1%
+Medium
 2541. Minimum Operations to Make Array Equal II
 23.5%
 Medium
@@ -319,6 +322,9 @@ Medium
 2130. Maximum Twin Sum of a Linked List
 82.7%
 Medium
+2101. Detonate the Maximum Bombs
+49.7%
+Medium
 2096. Step-By-Step Directions From a Binary Tree Node to Another
 48.8%
 Medium
@@ -328,6 +334,9 @@ Medium
 2094. Finding 3-Digit Even Numbers
 57.4%
 Easy
+2090. K Radius Subarray Averages
+48.7%
+Medium
 2085. Count Common Words With One Occurrence
 69.8%
 Easy
@@ -547,6 +556,9 @@ Easy
 1609. Even Odd Tree
 53.5%
 Medium
+1603. Design Parking System
+88.4%
+Easy
 1602. Find Nearest Right Node in Binary Tree
 75.3%
 Medium
@@ -628,6 +640,9 @@ Easy
 1506. Find Root of N-Ary Tree
 77.7%
 Medium
+1502. Can Make Arithmetic Progression From Sequence
+70.2%
+Easy
 1497. Check If Array Pairs Are Divisible by k
 39.9%
 Medium
@@ -748,9 +763,15 @@ Medium
 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 87.1%
 Easy
+1376. Time Needed to Inform All Employees
+60.3%
+Medium
 1372. Longest ZigZag Path in a Binary Tree
 67.3%
 Medium
+1351. Count Negative Numbers in a Sorted Matrix
+77.4%
+Easy
 1348. Tweet Counts Per Frequency
 43.4%
 Medium
@@ -783,6 +804,9 @@ Medium
 Medium
 1319. Number of Operations to Make Network Connected
 62.1%
+Medium
+1318. Minimum Flips to Make a OR b Equal to c
+71.4%
 Medium
 1306. Jump Game III
 63.0%
@@ -865,6 +889,9 @@ Hard
 1217. Minimum Cost to Move Chips to The Same Position
 72.3%
 Easy
+1214. Two Sum BSTs
+67.0%
+Medium
 1213. Intersection of Three Sorted Arrays
 80.0%
 Easy
@@ -913,6 +940,9 @@ Medium
 1151. Minimum Swaps to Group All 1's Together
 60.8%
 Medium
+1150. Check If a Number Is Majority Element in a Sorted Array
+58.5%
+Easy
 1143. Longest Common Subsequence
 58.8%
 Medium
@@ -1126,6 +1156,9 @@ Medium
 953. Verifying an Alien Dictionary
 52.6%
 Easy
+951. Flip Equivalent Binary Trees
+66.8%
+Medium
 948. Bag of Tokens
 46.3%
 Medium
@@ -1392,6 +1425,9 @@ Medium
 Medium
 746. Min Cost Climbing Stairs
 62.0%
+Easy
+744. Find Smallest Letter Greater Than Target
+50.7%
 Easy
 743. Network Delay Time
 51.2%
@@ -1723,6 +1759,9 @@ Easy
 503. Next Greater Element II
 62.9%
 Medium
+502. IPO
+49.8%
+Hard
 501. Find Mode in Binary Search Tree
 48.3%
 Easy
@@ -1972,6 +2011,9 @@ Medium
 374. Guess Number Higher or Lower
 50.2%
 Easy
+373. Find K Pairs with Smallest Sums
+40.3%
+Medium
 370. Range Addition
 70.5%
 Medium

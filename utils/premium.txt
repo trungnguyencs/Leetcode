@@ -1,3 +1,21 @@
+2647. Color the Triangle Red
+72.3%
+Hard
+2638. Count the Number of K-Free Subsets
+54.0%
+Medium
+2636. Promise Pool
+81.1%
+Medium
+2633. Convert Object to JSON String
+77.6%
+Medium
+2632. Curry
+89.2%
+Medium
+2628. JSON Deep Equal
+38.1%
+Medium
 2613. Beautiful Pairs
 28.4%
 Hard
