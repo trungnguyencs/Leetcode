@@ -358,6 +358,9 @@ Medium
 2057. Smallest Index With Equal Value
 71.5%
 Easy
+2024. Maximize the Confusion of an Exam
+67.7%
+Medium
 2007. Find Original Array From Doubled Array
 41.0%
 Medium
