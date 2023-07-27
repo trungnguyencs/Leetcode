@@ -427,6 +427,9 @@ Easy
 1874. Minimize Product Sum of Two Arrays
 90.4%
 Medium
+1870. Minimum Speed to Arrive on Time
+47.5%
+Medium
 1854. Maximum Population Year
 60.0%
 Easy
@@ -541,6 +544,9 @@ Medium
 1646. Get Maximum in Generated Array
 50.3%
 Easy
+1644. Lowest Common Ancestor of a Binary Tree II
+61.2%
+Medium
 1642. Furthest Building You Can Reach
 48.2%
 Medium
@@ -889,6 +895,9 @@ Medium
 1220. Count Vowels Permutation
 60.8%
 Hard
+1218. Longest Arithmetic Subsequence of Given Difference
+55.3%
+Medium
 1217. Minimum Cost to Move Chips to The Same Position
 72.3%
 Easy
@@ -1360,6 +1369,9 @@ Medium
 804. Unique Morse Code Words
 82.6%
 Easy
+802. Find Eventual Safe States
+61.2%
+Medium
 799. Champagne Tower
 51.2%
 Medium
@@ -1876,6 +1888,9 @@ Medium
 441. Arranging Coins
 45.9%
 Easy
+439. Ternary Expression Parser
+59.9%
+Medium
 438. Find All Anagrams in a String
 48.8%
 Medium
