@@ -1810,6 +1810,9 @@ Hard
 487. Max Consecutive Ones II
 49.2%
 Medium
+486. Predict the Winner
+51.9%
+Medium
 485. Max Consecutive Ones
 55.8%
 Easy
