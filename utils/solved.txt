@@ -115,6 +115,9 @@ Medium
 2511. Maximum Enemy Forts That Can Be Captured
 32.0%
 Easy
+2498. Frog Jump II
+61.2%
+Medium
 2492. Minimum Score of a Path Between Two Cities
 42.0%
 Medium
@@ -568,6 +571,9 @@ Easy
 1624. Largest Substring Between Two Equal Characters
 59.0%
 Easy
+1615. Maximal Network Rank
+65.3%
+Medium
 1609. Even Odd Tree
 53.5%
 Medium
@@ -1369,6 +1375,9 @@ Easy
 817. Linked List Components
 58.1%
 Medium
+815. Bus Routes
+45.5%
+Hard
 814. Binary Tree Pruning
 72.7%
 Medium
@@ -1590,6 +1599,9 @@ Easy
 Medium
 647. Palindromic Substrings
 66.1%
+Medium
+646. Maximum Length of Pair Chain
+59.5%
 Medium
 645. Set Mismatch
 42.5%
