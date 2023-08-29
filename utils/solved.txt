@@ -136,6 +136,9 @@ Medium
 2485. Find the Pivot Integer
 79.2%
 Easy
+2483. Minimum Penalty for a Shop
+62.4%
+Medium
 2471. Minimum Number of Operations to Sort a Binary Tree by Level
 60.8%
 Medium
