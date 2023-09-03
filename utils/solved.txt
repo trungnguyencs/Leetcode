@@ -1,3 +1,6 @@
+2707. Extra Characters in a String
+53.3%
+Medium
 2616. Minimize the Maximum Difference of Pairs
 44.9%
 Medium
@@ -196,6 +199,9 @@ Easy
 2369. Check if There is a Valid Partition For The Array
 51.6%
 Medium
+2366. Minimum Replacements to Sort the Array
+54.3%
+Hard
 2359. Find Closest Node to Given Two Nodes
 33.3%
 Medium

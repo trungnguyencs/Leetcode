@@ -1,3 +1,138 @@
+2797. Partial Function with Placeholders
+94.1%
+Medium
+2796. Repeat String
+96.3%
+Easy
+2795. Parallel Execution of Promises for Individual Results Retrieval
+93.8%
+Medium
+2794. Create Object from Two Arrays
+65.7%
+Easy
+2793. Status of Flight Tickets
+50.4%
+Hard
+2792. Count Nodes That Are Great Enough
+58.8%
+Hard
+2783. Flight Occupancy and Waitlist Analysis
+39.1%
+Medium
+2782. Number of Unique Categories
+83.8%
+Medium
+2777. Date Range Generator
+91.7%
+Medium
+2776. Convert Callback Based Function to Promise Based Function
+94.3%
+Medium
+2775. Undefined to Null
+73.6%
+Medium
+2774. Array Upper Bound
+79.9%
+Easy
+2773. Height of Special Binary Tree
+73.7%
+Medium
+2764. is Array a Preorder of Some ‌Binary Tree
+68.5%
+Medium
+2759. Convert JSON String to Object
+71.0%
+Hard
+2758. Next Day
+90.2%
+Easy
+2757. Generate Circular Array Values
+81.7%
+Medium
+2756. Query Batching
+72.4%
+Hard
+2755. Deep Merge of Two Objects
+53.3%
+Medium
+2754. Bind Function to Context
+91.4%
+Medium
+2753. Count Houses in a Circular Street II
+78.8%
+Hard
+2752. Customers with Maximum Number of Transactions on Consecutive Days
+36.9%
+Hard
+2743. Count Substrings Without Repeating Character
+75.5%
+Medium
+2738. Count Occurrences in Text
+50.1%
+Medium
+2737. Find the Closest Marked Node
+56.3%
+Medium
+2728. Count Houses in a Circular Street
+81.5%
+Easy
+2720. Popularity Percentage
+38.9%
+Hard
+2714. Find Shortest Path with K Hops
+61.1%
+Hard
+2702. Minimum Operations to Make Numbers Non-positive
+52.1%
+Hard
+2701. Consecutive Transactions with Increasing Amounts
+20.6%
+Hard
+2700. Differences Between Two Objects
+82.5%
+Medium
+2692. Make Object Immutable
+62.1%
+Medium
+2691. Immutability Helper
+42.8%
+Hard
+2690. Infinite Method Object
+94.3%
+Easy
+2689. Extract Kth Character From The Rope Tree
+75.3%
+Easy
+2688. Find Active Users
+38.4%
+Medium
+2687. Bikes Last Time Used
+75.1%
+Easy
+2686. Immediate Food Delivery III
+53.9%
+Medium
+2676. Throttle
+85.9%
+Medium
+2675. Array of Objects to Matrix
+69.7%
+Medium
+2674. Split a Circular Linked List
+71.8%
+Medium
+2669. Count Artist Occurrences On Spotify Ranking List
+66.8%
+Easy
+2668. Find Latest Salaries
+62.2%
+Easy
+2664. The Knight’s Tour
+69.8%
+Medium
+2655. Find Maximal Uncovered Ranges
+55.4%
+Medium
 2647. Color the Triangle Red
 72.3%
 Hard
