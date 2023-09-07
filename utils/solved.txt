@@ -472,6 +472,12 @@ Easy
 1822. Sign of the Product of an Array
 66.1%
 Easy
+1790. Check if One String Swap Can Make Strings Equal
+45.3%
+Easy
+1779. Find Nearest Point That Has the Same X or Y Coordinate
+67.5%
+Easy
 1775. Equal Sum Arrays With Minimum Number of Operations
 52.3%
 Medium
@@ -505,6 +511,9 @@ Medium
 1752. Check if Array Is Sorted and Rotated
 49.1%
 Easy
+1730. Shortest Path to Get Food
+54.3%
+Medium
 1721. Swapping Nodes in a Linked List
 67.9%
 Medium
@@ -1369,6 +1378,9 @@ Hard
 827. Making A Large Island
 44.7%
 Hard
+826. Most Profit Assigning Work
+45.2%
+Medium
 824. Goat Latin
 67.8%
 Easy
