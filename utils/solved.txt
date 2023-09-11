@@ -1,3 +1,9 @@
+2849. Determine if a Cell Is Reachable at a Given Time
+21.7%
+Medium
+2848. Points That Intersect With Cars
+74.4%
+Easy
 2707. Extra Characters in a String
 53.3%
 Medium
@@ -808,6 +814,9 @@ Medium
 1372. Longest ZigZag Path in a Binary Tree
 67.3%
 Medium
+1359. Count All Valid Pickup and Delivery Options
+65.6%
+Hard
 1351. Count Negative Numbers in a Sorted Matrix
 77.4%
 Easy
@@ -873,6 +882,9 @@ Easy
 Medium
 1283. Find the Smallest Divisor Given a Threshold
 55.0%
+Medium
+1282. Group the People Given the Group Size They Belong To
+85.7%
 Medium
 1279. Traffic Light Controlled Intersection
 74.6%

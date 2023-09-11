@@ -1,3 +1,156 @@
+2851. String Transformation
+19.9%
+Hard
+2850. Minimum Moves to Spread Stones Over Grid
+33.8%
+Medium
+2849. Determine if a Cell Is Reachable at a Given Time
+21.7%
+Medium
+2848. Points That Intersect With Cars
+74.4%
+Easy
+2847. Smallest Number With Given Digit Product
+54.4%
+Medium
+2846. Minimum Edge Weight Equilibrium Queries in a Tree
+41.0%
+Hard
+2845. Count of Interesting Subarrays
+33.0%
+Medium
+2844. Minimum Operations to Make a Special Number
+36.7%
+Medium
+2843. Count Symmetric Integers
+74.1%
+Easy
+2842. Count K-Subsequences of a String With Maximum Beauty
+26.9%
+Hard
+2841. Maximum Sum of Almost Unique Subarray
+36.4%
+Medium
+2840. Check if Strings Can be Made Equal With Operations II
+53.8%
+Medium
+2839. Check if Strings Can be Made Equal With Operations I
+45.7%
+Easy
+2838. Maximum Coins Heroes Can Collect
+76.7%
+Medium
+2837. Total Traveled Distance
+74.6%
+Easy
+2836. Maximize Value of Function in a Ball Passing Game
+26.9%
+Hard
+2835. Minimum Operations to Form Subsequence With Target Sum
+29.9%
+Hard
+2834. Find the Minimum Possible Sum of a Beautiful Array
+44.7%
+Medium
+2833. Furthest Point From Origin
+62.2%
+Easy
+2832. Maximal Range That Each Element Is Maximum in It
+75.7%
+Medium
+2831. Find the Longest Equal Subarray
+33.8%
+Medium
+2830. Maximize the Profit as the Salesman
+34.6%
+Medium
+2829. Determine the Minimum Sum of a k-avoiding Array
+60.4%
+Medium
+2828. Check if a String Is an Acronym of Words
+83.2%
+Easy
+2827. Number of Beautiful Integers in the Range
+16.4%
+Hard
+2826. Sorting Three Groups
+40.5%
+Medium
+2825. Make String a Subsequence Using Cyclic Increments
+45.9%
+Medium
+2824. Count Pairs Whose Sum is Less than Target
+87.1%
+Easy
+2823. Deep Object Filter
+56.5%
+Medium
+2822. Inversion of Object
+71.0%
+Easy
+2821. Delay the Resolution of Each Promise
+83.0%
+Easy
+2820. Election Results
+72.9%
+Medium
+2819. Minimum Relative Loss After Buying Chocolates
+59.0%
+Hard
+2818. Apply Operations to Maximize Score
+32.1%
+Hard
+2817. Minimum Absolute Difference Between Elements With Constraint
+31.1%
+Medium
+2816. Double a Number Represented as a Linked List
+47.7%
+Medium
+2815. Max Pair Sum in an Array
+57.8%
+Easy
+2814. Minimum Time Takes to Reach Destination Without Drowning
+67.5%
+Hard
+2813. Maximum Elegance of a K-Length Subsequence
+32.3%
+Hard
+2812. Find the Safest Path in a Grid
+29.8%
+Medium
+2811. Check if it is Possible to Split Array
+33.1%
+Medium
+2810. Faulty Keyboard
+82.5%
+Easy
+2809. Minimum Time to Make Array Sum At Most x
+22.9%
+Hard
+2808. Minimum Seconds to Equalize a Circular Array
+25.1%
+Medium
+2807. Insert Greatest Common Divisors in Linked List
+89.8%
+Medium
+2806. Account Balance After Rounded Purchase
+51.6%
+Easy
+2805. Custom Interval
+88.3%
+Medium
+2804. Array Prototype ForEach
+92.7%
+Easy
+2803. Factorial Generator
+87.3%
+Easy
+2802. Find The K-th Lucky Number
+71.6%
+Medium
+2801. Count Stepping Numbers in Range
+26.0%
+Hard
 2800. Shortest String That Contains Three Strings
 29.7%
 Medium

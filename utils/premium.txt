@@ -1,3 +1,45 @@
+2847. Smallest Number With Given Digit Product
+54.4%
+Medium
+2838. Maximum Coins Heroes Can Collect
+76.7%
+Medium
+2837. Total Traveled Distance
+74.6%
+Easy
+2832. Maximal Range That Each Element Is Maximum in It
+75.7%
+Medium
+2823. Deep Object Filter
+56.5%
+Medium
+2822. Inversion of Object
+71.0%
+Easy
+2821. Delay the Resolution of Each Promise
+83.0%
+Easy
+2820. Election Results
+72.9%
+Medium
+2819. Minimum Relative Loss After Buying Chocolates
+59.0%
+Hard
+2814. Minimum Time Takes to Reach Destination Without Drowning
+67.5%
+Hard
+2805. Custom Interval
+88.3%
+Medium
+2804. Array Prototype ForEach
+92.7%
+Easy
+2803. Factorial Generator
+87.3%
+Easy
+2802. Find The K-th Lucky Number
+71.6%
+Medium
 2797. Partial Function with Placeholders
 94.1%
 Medium
