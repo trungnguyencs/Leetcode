@@ -481,6 +481,9 @@ Easy
 1822. Sign of the Product of an Array
 65.3%
 Easy
+1804. Implement Trie II (Prefix Tree)
+60.5%
+Medium
 1790. Check if One String Swap Can Make Strings Equal
 45.3%
 Easy
