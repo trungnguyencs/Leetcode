@@ -385,6 +385,9 @@ Medium
 2057. Smallest Index With Equal Value
 72.1%
 Easy
+2038. Remove Colored Pieces if Both Neighbors are the Same Color
+63.1%
+Medium
 2024. Maximize the Confusion of an Exam
 67.3%
 Medium
@@ -2155,6 +2158,9 @@ Easy
 344. Reverse String
 77.2%
 Easy
+343. Integer Break
+57.4%
+Medium
 342. Power of Four
 46.8%
 Easy
