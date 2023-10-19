@@ -178,6 +178,9 @@ Easy
 2439. Minimize Maximum of Array
 46.9%
 Medium
+2437. Number of Valid Clock Times
+43.3%
+Easy
 2419. Longest Subarray With Maximum Bitwise AND
 48.6%
 Medium
