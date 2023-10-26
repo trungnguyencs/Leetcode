@@ -1465,6 +1465,12 @@ Easy
 780. Reaching Points
 32.8%
 Hard
+779. K-th Symbol in Grammar
+46.0%
+Medium
+779. K-th Symbol in Grammar
+46.0%
+Medium
 775. Global and Local Inversions
 42.7%
 Medium
