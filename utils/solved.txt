@@ -181,6 +181,9 @@ Medium
 2437. Number of Valid Clock Times
 43.3%
 Easy
+2433. Find The Original Array of Prefix Xor
+86.9%
+Medium
 2419. Longest Subarray With Maximum Bitwise AND
 48.6%
 Medium
@@ -829,6 +832,9 @@ Medium
 1359. Count All Valid Pickup and Delivery Options
 65.4%
 Hard
+1356. Sort Integers by The Number of 1 Bits
+77.9%
+Easy
 1351. Count Negative Numbers in a Sorted Matrix
 77.3%
 Easy
