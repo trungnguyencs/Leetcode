@@ -292,6 +292,9 @@ Medium
 2269. Find the K-Beauty of a Number
 58.4%
 Easy
+2265. Count Nodes Equal to Average of Subtree
+86.9%
+Medium
 2256. Minimum Average Difference
 43.0%
 Medium
@@ -778,6 +781,9 @@ Medium
 1446. Consecutive Characters
 60.6%
 Easy
+1441. Build an Array With Stack Operations
+73.8%
+Medium
 1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows
 61.4%
 Hard
