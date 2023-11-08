@@ -670,6 +670,9 @@ Easy
 1538. Guess the Majority in a Hidden Array
 70.9%
 Medium
+1535. Find the Winner of an Array Game
+57.5%
+Medium
 1533. Find the Index of the Large Integer
 56.0%
 Medium
@@ -702,6 +705,9 @@ Medium
 Easy
 1506. Find Root of N-Ary Tree
 78.5%
+Medium
+1503. Last Moment Before All Ants Fall Out of a Plank
+68.8%
 Medium
 1502. Can Make Arithmetic Progression From Sequence
 70.0%
