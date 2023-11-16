@@ -4,9 +4,15 @@ Medium
 2848. Points That Intersect With Cars
 74.4%
 Easy
+2785. Sort Vowels in a String
+82.5%
+Medium
 2707. Extra Characters in a String
 52.9%
 Medium
+2642. Design Graph With Shortest Path Calculator
+71.2%
+Hard
 2616. Minimize the Maximum Difference of Pairs
 44.3%
 Medium
@@ -406,6 +412,9 @@ Medium
 1996. The Number of Weak Characters in the Game
 44.0%
 Medium
+1980. Find Unique Binary String
+74.3%
+Medium
 1971. Find if Path Exists in Graph
 51.6%
 Easy
@@ -445,6 +454,9 @@ Medium
 1935. Maximum Number of Words You Can Type
 72.2%
 Easy
+1930. Unique Length-3 Palindromic Subsequences
+66.1%
+Medium
 1926. Nearest Exit from Entrance in Maze
 47.6%
 Medium
@@ -535,6 +547,9 @@ Medium
 1752. Check if Array Is Sorted and Rotated
 50.6%
 Easy
+1743. Restore the Array From Adjacent Pairs
+75.2%
+Medium
 1730. Shortest Path to Get Food
 54.4%
 Medium
