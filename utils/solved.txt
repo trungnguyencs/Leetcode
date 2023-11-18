@@ -475,6 +475,9 @@ Medium
 1913. Maximum Product Difference Between Two Pairs
 81.0%
 Easy
+1877. Minimize Maximum Pair Sum in Array
+81.7%
+Medium
 1874. Minimize Product Sum of Two Arrays
 89.5%
 Medium
@@ -493,6 +496,9 @@ Medium
 1844. Replace All Digits with Characters
 80.5%
 Easy
+1838. Frequency of the Most Frequent Element
+41.8%
+Medium
 1834. Single-Threaded CPU
 45.6%
 Medium
