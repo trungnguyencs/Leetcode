@@ -208,6 +208,9 @@ Easy
 2393. Count Strictly Increasing Subarrays
 76.6%
 Medium
+2391. Minimum Amount of Time to Collect Garbage
+83.1%
+Medium
 2390. Removing Stars From a String
 73.4%
 Medium
@@ -475,6 +478,9 @@ Medium
 1913. Maximum Product Difference Between Two Pairs
 81.0%
 Easy
+1887. Reduction Operations to Make the Array Elements Equal
+73.5%
+Medium
 1877. Minimize Maximum Pair Sum in Array
 81.7%
 Medium
