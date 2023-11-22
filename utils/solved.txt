@@ -514,6 +514,9 @@ Medium
 1832. Check if the Sentence Is Pangram
 83.1%
 Easy
+1814. Count Nice Pairs in an Array
+49.6%
+Medium
 1822. Sign of the Product of an Array
 65.3%
 Easy
@@ -844,6 +847,9 @@ Easy
 1426. Counting Elements
 59.8%
 Easy
+1424. Diagonal Traverse II
+51.6%
+Medium
 1423. Maximum Points You Can Obtain from Cards
 52.3%
 Medium
