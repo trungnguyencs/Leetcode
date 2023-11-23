@@ -717,7 +717,7 @@ Time: 90 ms (52.71%), Space: 16.1 MB (32.03%) - LeetHub
 last year
 0452-minimum-number-of-arrows-to-burst-balloons
 Attach NOTES - LeetHub
-last year
+10 months ago
 0454-4sum-ii
 pad zeros to file names
 last year
@@ -828,7 +828,7 @@ pad zeros to file names
 last year
 0624-maximum-distance-in-arrays
 Time: 1466 ms (87.73%), Space: 41.4 MB (64.53%) - LeetHub
-now
+2 days ago
 0637-average-of-levels-in-binary-tree
 pad zeros to file names
 last year
@@ -1245,7 +1245,7 @@ Attach NOTES - LeetHub
 3 weeks ago
 1200-minimum-absolute-difference
 Time: 285 ms (71.87%), Space: 31.1 MB (32.41%) - LeetHub
-3 weeks ago
+last month
 1207-unique-number-of-occurrences
 Attach NOTES - LeetHub
 last year
@@ -1263,7 +1263,7 @@ Attach NOTES - LeetHub
 4 months ago
 1220-count-vowels-permutation
 Time: 191 ms (72.56%), Space: 16.4 MB (77.58%) - LeetHub
-3 weeks ago
+last month
 1229-meeting-scheduler
 Time: 908 ms (25.46%), Space: 21.5 MB (73.19%) - LeetHub
 last year
@@ -1368,7 +1368,7 @@ Time: 582 ms (66.73%), Space: 27.3 MB (54.44%) - LeetHub
 last year
 1424-diagonal-traverse-ii
 Time: 912 ms (9.75%), Space: 43.8 MB (13.83%) - LeetHub
-15 minutes ago
+2 days ago
 1428-leftmost-column-with-at-least-a-one
 Time: 114 ms (83.07%), Space: 14.1 MB (88.51%) - LeetHub
 last year
@@ -1434,7 +1434,7 @@ Time: 284 ms (30.54%), Space: 52.9 MB (70.15%) - LeetHub
 10 months ago
 1535-find-the-winner-of-an-array-game
 Time: 516 ms (82.80%), Space: 30.1 MB (36.02%) - LeetHub
-2 weeks ago
+3 weeks ago
 1538-guess-the-majority-in-a-hidden-array
 Time: 176 ms (33.33%), Space: 17.8 MB (28.57%) - LeetHub
 7 months ago
@@ -1471,6 +1471,9 @@ Time: 136 ms (68.02%), Space: 16.9 MB (15.89%) - LeetHub
 1615-maximal-network-rank
 Time: 296 ms (93.36%), Space: 18.8 MB (8.37%) - LeetHub
 3 months ago
+1630-arithmetic-subarrays
+Time: 190 ms (30.54%), Space: 16.5 MB (70.97%) - LeetHub
+2 minutes ago
 1631-path-with-minimum-effort
 Time: 9124 ms (5.04%), Space: 17.6 MB (89.44%) - LeetHub
 2 months ago
@@ -1497,7 +1500,7 @@ Time: 45 ms (94.91%), Space: 14.8 MB (93.98%) - LeetHub
 last year
 1672-richest-customer-wealth
 Time: 102 ms (9.77%), Space: 14 MB (91.95%) - LeetHub
-2 years ago
+last year
 1675-minimize-deviation-in-array
 Time: 1216 ms (66.02%), Space: 31.9 MB (25.24%) - LeetHub
 last year
@@ -1551,7 +1554,7 @@ Attach NOTES - LeetHub
 2 months ago
 1814-count-nice-pairs-in-an-array
 Time: 682 ms (14.16%), Space: 26.9 MB (33.99%) - LeetHub
-yesterday
+3 days ago
 1822-sign-of-the-product-of-an-array
 Time: 72 ms (8.89%), Space: 16.6 MB (7.53%) - LeetHub
 7 months ago
@@ -1566,10 +1569,10 @@ Time: 2078 ms (82.79%), Space: 63.2 MB (21.97%) - LeetHub
 last year
 1838-frequency-of-the-most-frequent-element
 Time: 1153 ms (64.61%), Space: 31.3 MB (18.27%) - LeetHub
-4 days ago
+last week
 1845-seat-reservation-manager
 Time: 435 ms (74.67%), Space: 44.1 MB (27.75%) - LeetHub
-2 weeks ago
+3 weeks ago
 1846-maximum-element-after-decreasing-and-rearranging
 Time: 423 ms (68.89%), Space: 26.4 MB (6.11%) - LeetHub
 last week
@@ -1584,10 +1587,10 @@ Time: 1152 ms (91.41%), Space: 19 MB (75.77%) - LeetHub
 last year
 1877-minimize-maximum-pair-sum-in-array
 Time: 1025 ms (18.47%), Space: 31 MB (7.66%) - LeetHub
-5 days ago
+last week
 1887-reduction-operations-to-make-the-array-elements-equal
 Time: 938 ms (12.89%), Space: 30.9 MB (6.19%) - LeetHub
-3 days ago
+4 days ago
 1921-eliminate-maximum-number-of-monsters
 Time: 709 ms (42.12%), Space: 32.1 MB (81.91%) - LeetHub
 2 weeks ago
@@ -1701,7 +1704,7 @@ Time: 236 ms (57.83%), Space: 15.6 MB (40.09%) - LeetHub
 7 months ago
 2391-minimum-amount-of-time-to-collect-garbage
 Time: 1021 ms (22.14%), Space: 39.4 MB (15.87%) - LeetHub
-2 days ago
+4 days ago
 2393-count-strictly-increasing-subarrays
 Attach NOTES - LeetHub
 2 months ago
