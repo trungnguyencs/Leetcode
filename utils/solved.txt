@@ -358,6 +358,9 @@ Easy
 2187. Minimum Time to Complete Trips
 39.0%
 Medium
+2147. Number of Ways to Divide a Long Corridor
+50.4%
+Hard
 2140. Solving Questions With Brainpower
 55.0%
 Medium
@@ -568,6 +571,9 @@ Medium
 1730. Shortest Path to Get Food
 54.4%
 Medium
+1727. Largest Submatrix With Rearrangements
+75.6%
+Medium
 1721. Swapping Nodes in a Linked List
 68.4%
 Medium
@@ -585,6 +591,9 @@ Easy
 Medium
 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 88.9%
+Medium
+1685. Sum of Absolute Differences in a Sorted Array
+69.4%
 Medium
 1680. Concatenation of Consecutive Binary Numbers
 57.0%
@@ -681,6 +690,9 @@ Medium
 Easy
 1564. Put Boxes Into the Warehouse I
 67.1%
+Medium
+1561. Maximum Number of Coins You Can Get
+84.6%
 Medium
 1557. Minimum Number of Vertices to Reach All Nodes
 81.3%
@@ -1302,6 +1314,9 @@ Easy
 Easy
 937. Reorder Data in Log Files
 56.4%
+Medium
+935. Knight Dialer
+59.4%
 Medium
 934. Shortest Bridge
 57.8%
