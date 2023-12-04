@@ -304,6 +304,9 @@ Easy
 2265. Count Nodes Equal to Average of Subtree
 86.9%
 Medium
+2264. Largest 3-Same-Digit Number in String
+69.3%
+Easy
 2256. Minimum Average Difference
 43.0%
 Medium
@@ -658,6 +661,9 @@ Easy
 1615. Maximal Network Rank
 65.2%
 Medium
+1611. Minimum One Bit Operations to Make Integers Zero
+75.1%
+Hard
 1609. Even Odd Tree
 55.2%
 Medium
@@ -985,6 +991,9 @@ Hard
 1268. Search Suggestions System
 65.8%
 Medium
+1266. Minimum Time Visiting All Points
+82.4%
+Easy
 1260. Shift 2D Grid
 67.5%
 Easy
@@ -1066,6 +1075,9 @@ Medium
 1161. Maximum Level Sum of a Binary Tree
 67.4%
 Medium
+1160. Find Words That Can Be Formed by Characters
+70.9%
+Easy
 1155. Number of Dice Rolls With Target Sum
 54.6%
 Medium
