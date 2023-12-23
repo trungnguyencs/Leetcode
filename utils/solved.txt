@@ -10,6 +10,9 @@ Medium
 2707. Extra Characters in a String
 52.9%
 Medium
+2706. Buy Two Chocolates
+70.3%
+Easy
 2642. Design Graph With Shortest Path Calculator
 71.2%
 Hard
@@ -154,6 +157,9 @@ Easy
 2483. Minimum Penalty for a Shop
 67.6%
 Medium
+2482. Difference Between Ones and Zeros in Row and Column
+84.9%
+Medium
 2471. Minimum Number of Operations to Sort a Binary Tree by Level
 62.1%
 Medium
@@ -232,6 +238,9 @@ Medium
 2357. Make Array Zero by Subtracting Equal Amounts
 71.8%
 Easy
+2353. Design a Food Rating System
+45.9%
+Medium
 2348. Number of Zero-Filled Subarrays
 66.7%
 Medium
@@ -484,6 +493,9 @@ Medium
 1913. Maximum Product Difference Between Two Pairs
 81.0%
 Easy
+1903. Largest Odd Number in String
+63.6%
+Easy
 1887. Reduction Operations to Make the Array Elements Equal
 73.5%
 Medium
@@ -580,6 +592,9 @@ Medium
 1721. Swapping Nodes in a Linked List
 68.4%
 Medium
+1716. Calculate Money in Leetcode Bank
+78.1%
+Easy
 1710. Maximum Units on a Truck
 73.6%
 Easy
@@ -595,6 +610,9 @@ Medium
 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 88.9%
 Medium
+1688. Count of Matches in Tournament
+85.9%
+Easy
 1685. Sum of Absolute Differences in a Sorted Array
 69.4%
 Medium
@@ -646,6 +664,9 @@ Medium
 1641. Count Sorted Vowel Strings
 77.9%
 Medium
+1637. Widest Vertical Area Between Two Points Containing No Points
+88.6%
+Medium
 1631. Path With Minimum Effort
 59.4%
 Medium
@@ -679,6 +700,9 @@ Medium
 1584. Min Cost to Connect All Points
 66.5%
 Medium
+1582. Special Positions in a Binary Matrix
+68.9%
+Easy
 1578. Minimum Time to Make Rope Colorful
 63.0%
 Medium
@@ -874,6 +898,9 @@ Medium
 1423. Maximum Points You Can Obtain from Cards
 52.3%
 Medium
+1422. Maximum Score After Splitting a String
+62.2%
+Easy
 1413. Minimum Value to Get Positive Step by Step Sum
 66.5%
 Easy
@@ -964,6 +991,9 @@ Easy
 1288. Remove Covered Intervals
 56.7%
 Medium
+1287. Element Appearing More Than 25% In Sorted Array
+61.1%
+Easy
 1283. Find the Smallest Divisor Given a Threshold
 58.0%
 Medium
@@ -1104,6 +1134,9 @@ Easy
 Easy
 1123. Lowest Common Ancestor of Deepest Leaves
 71.2%
+Medium
+1120. Maximum Average Subtree
+66.4%
 Medium
 1108. Defanging an IP Address
 88.9%
@@ -1720,6 +1753,9 @@ Medium
 662. Maximum Width of Binary Tree
 42.6%
 Medium
+661. Image Smoother
+66.8%
+Easy
 658. Find K Closest Elements
 46.9%
 Medium
@@ -2349,6 +2385,9 @@ Medium
 Medium
 297. Serialize and Deserialize Binary Tree
 56.0%
+Hard
+296. Best Meeting Point
+60.7%
 Hard
 295. Find Median from Data Stream
 51.5%
