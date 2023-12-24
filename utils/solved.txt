@@ -1,3 +1,12 @@
+2976. Minimum Cost to Convert String I
+31.8%
+Medium
+2975. Maximum Square Area by Removing Fences From a Field
+14.8%
+Medium
+2974. Minimum Number Game
+83.2%
+Easy
 2849. Determine if a Cell Is Reachable at a Given Time
 23.1%
 Medium

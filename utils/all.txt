@@ -1,74 +1,449 @@
+2977. Minimum Cost to Convert String II
+10.0%
+Hard
+2976. Minimum Cost to Convert String I
+31.8%
+Medium
+2975. Maximum Square Area by Removing Fences From a Field
+14.8%
+Medium
+2974. Minimum Number Game
+83.2%
+Easy
+2973. Find Number of Coins to Place in Tree Nodes
+25.8%
+Hard
+2972. Count the Number of Incremovable Subarrays II
+25.5%
+Hard
+2971. Find Polygon With the Largest Perimeter
+46.3%
+Medium
+2970. Count the Number of Incremovable Subarrays I
+41.7%
+Easy
+2969. Minimum Number of Coins for Fruits II
+62.0%
+Hard
+2968. Apply Operations to Maximize Frequency Score
+36.3%
+Hard
+2967. Minimum Cost to Make Array Equalindromic
+20.1%
+Medium
+2966. Divide Array Into Arrays With Max Difference
+57.1%
+Medium
+2965. Find Missing and Repeated Values
+73.4%
+Easy
+2964. Number of Divisible Triplet Sums
+77.6%
+Medium
+2963. Count the Number of Good Partitions
+48.7%
+Hard
+2962. Count Subarrays Where Max Element Appears at Least K Times
+44.0%
+Medium
+2961. Double Modular Exponentiation
+46.0%
+Medium
+2960. Count Tested Devices After Test Operations
+81.1%
+Easy
+2959. Number of Possible Sets of Closing Branches
+48.8%
+Hard
+2958. Length of Longest Subarray With at Most K Frequency
+40.4%
+Medium
+2957. Remove Adjacent Almost-Equal Characters
+49.9%
+Medium
+2956. Find Common Elements Between Two Arrays
+80.8%
+Easy
+2955. Number of Same-End Substrings
+77.3%
+Medium
+2954. Count the Number of Infection Sequences
+35.4%
+Hard
+2953. Count Complete Substrings
+24.3%
+Hard
+2952. Minimum Number of Coins to be Added
+52.1%
+Medium
+2951. Find the Peaks
+76.3%
+Easy
+2950. Number of Divisible Substrings
+81.9%
+Medium
+2949. Count Beautiful Substrings II
+24.0%
+Hard
+2948. Make Lexicographically Smallest Array by Swapping Elements
+37.5%
+Medium
+2947. Count Beautiful Substrings I
+61.5%
+Medium
+2946. Matrix Similarity After Cyclic Shifts
+56.7%
+Easy
+2945. Find Maximum Non-decreasing Array Length
+14.1%
+Hard
+2944. Minimum Number of Coins for Fruits
+42.7%
+Medium
+2943. Maximize Area of Square Hole in Grid
+34.3%
+Medium
+2942. Find Words Containing Character
+88.0%
+Easy
+2941. Maximum GCD-Sum of a Subarray
+50.6%
+Hard
+2940. Find Building Where Alice and Bob Can Meet
+33.5%
+Hard
+2939. Maximum Xor Product
+24.0%
+Medium
+2938. Separate Black and White Balls
+51.8%
+Medium
+2937. Make Three Strings Equal
+41.0%
+Easy
+2936. Number of Equal Numbers Blocks
+76.8%
+Medium
+2935. Maximum Strong Pair XOR II
+28.6%
+Hard
+2934. Minimum Operations to Maximize Last Elements in Arrays
+44.1%
+Medium
+2933. High-Access Employees
+40.8%
+Medium
+2932. Maximum Strong Pair XOR I
+75.5%
+Easy
+2931. Maximum Spending After Buying Items
+64.5%
+Hard
+2930. Number of Strings Which Can Be Rearranged to Contain Substring
+54.1%
+Medium
+2929. Distribute Candies Among Children II
+34.0%
+Medium
+2928. Distribute Candies Among Children I
+73.1%
+Easy
+2927. Distribute Candies Among Children III
+50.4%
+Hard
+2926. Maximum Balanced Subsequence Sum
+22.2%
+Hard
+2925. Maximum Score After Applying Operations on a Tree
+48.0%
+Medium
+2924. Find Champion II
+55.8%
+Medium
+2923. Find Champion I
+72.0%
+Easy
+2922. Market Analysis III
+39.6%
+Medium
+2921. Maximum Profitable Triplets With Increasing Prices II
+57.0%
+Hard
+2920. Maximum Points After Collecting Coins From All Nodes
+37.0%
+Hard
+2919. Minimum Increment Operations to Make Array Beautiful
+33.3%
+Medium
+2918. Minimum Equal Sum of Two Arrays After Replacing Zeros
+32.6%
+Medium
+2917. Find the K-or of an Array
+74.0%
+Easy
+2916. Subarrays Distinct Element Sum of Squares II
+16.8%
+Hard
+2915. Length of the Longest Subsequence That Sums to Target
+33.7%
+Medium
+2914. Minimum Number of Changes to Make Binary String Beautiful
+58.5%
+Medium
+2913. Subarrays Distinct Element Sum of Squares I
+82.3%
+Easy
+2912. Number of Ways to Reach Destination in the Grid
+69.4%
+Hard
+2911. Minimum Changes to Make K Semi-palindromes
+34.3%
+Hard
+2910. Minimum Number of Groups to Create a Valid Assignment
+24.8%
+Medium
+2909. Minimum Sum of Mountain Triplets II
+53.5%
+Medium
+2908. Minimum Sum of Mountain Triplets I
+63.2%
+Easy
+2907. Maximum Profitable Triplets With Increasing Prices I
+59.8%
+Medium
+2906. Construct Product Matrix
+30.0%
+Medium
+2905. Find Indices With Index and Value Difference II
+32.0%
+Medium
+2904. Shortest and Lexicographically Smallest Beautiful String
+37.4%
+Medium
+2903. Find Indices With Index and Value Difference I
+62.6%
+Easy
+2902. Count of Sub-Multisets With Bounded Sum
+19.4%
+Hard
+2901. Longest Unequal Adjacent Groups Subsequence II
+26.4%
+Medium
+2900. Longest Unequal Adjacent Groups Subsequence I
+65.2%
+Medium
+2899. Last Visited Integers
+64.9%
+Easy
+2898. Maximum Linear Stock Score
+72.8%
+Medium
+2897. Apply Operations on Array to Maximize Sum of Squares
+46.5%
+Hard
+2896. Apply Operations to Make Two Strings Equal
+25.4%
+Medium
+2895. Minimum Processing Time
+67.8%
+Medium
+2894. Divisible and Non-divisible Sums Difference
+87.5%
+Easy
+2893. Calculate Orders Within Each Interval
+70.5%
+Medium
+2892. Minimizing Array After Replacing Pairs With Their Product
+41.8%
+Medium
+2891. Method Chaining
+71.8%
+Easy
+2890. Reshape Data: Melt
+82.8%
+Easy
+2889. Reshape Data: Pivot
+78.5%
+Easy
+2888. Reshape Data: Concatenate
+88.6%
+Easy
+2887. Fill Missing Data
+70.8%
+Easy
+2886. Change Data Type
+84.8%
+Easy
+2885. Rename Columns
+83.8%
+Easy
+2884. Modify Columns
+89.9%
+Easy
+2883. Drop Missing Data
+64.7%
+Easy
+2882. Drop Duplicate Rows
+82.9%
+Easy
+2881. Create a New Column
+88.6%
+Easy
+2880. Select Data
+76.3%
+Easy
+2879. Display the First Three Rows
+91.5%
+Easy
+2878. Get the Size of a DataFrame
+83.4%
+Easy
+2876. Count Visited Nodes in a Directed Graph
+31.7%
+Hard
+2875. Minimum Size Subarray in Infinite Array
+30.2%
+Medium
+2874. Maximum Value of an Ordered Triplet II
+40.9%
+Medium
+2873. Maximum Value of an Ordered Triplet I
+44.5%
+Easy
+2872. Maximum Number of K-Divisible Components
+59.7%
+Hard
+2871. Split Array Into Maximum Number of Subarrays
+43.4%
+Medium
+2870. Minimum Number of Operations to Make Array Empty
+48.5%
+Medium
+2869. Minimum Operations to Collect Elements
+58.8%
+Easy
+2868. The Wording Game
+62.8%
+Hard
+2867. Count Valid Paths in a Tree
+34.3%
+Hard
+2866. Beautiful Towers II
+33.6%
+Medium
+2865. Beautiful Towers I
+42.8%
+Medium
+2864. Maximum Odd Binary Number
+72.6%
+Easy
+2863. Maximum Length of Semi-Decreasing Subarrays
+73.1%
+Medium
+2862. Maximum Element-Sum of a Complete Subset of Indices
+43.2%
+Hard
+2861. Maximum Number of Alloys
+37.1%
+Medium
+2860. Happy Students
+50.3%
+Medium
+2859. Sum of Values at Indices With K Set Bits
+86.1%
+Easy
+2858. Minimum Edge Reversals So Every Node Is Reachable
+59.1%
+Hard
+2857. Count Pairs of Points With Distance k
+31.9%
+Medium
+2856. Minimum Array Length After Pair Removals
+20.7%
+Medium
+2855. Minimum Right Shifts to Sort the Array
+57.1%
+Easy
+2854. Rolling Average Steps
+59.6%
+Medium
+2853. Highest Salaries Difference
+73.1%
+Easy
+2852. Sum of Remoteness of All Cells
+64.4%
+Medium
 2851. String Transformation
-19.9%
+27.9%
 Hard
 2850. Minimum Moves to Spread Stones Over Grid
-33.8%
+40.5%
 Medium
 2849. Determine if a Cell Is Reachable at a Given Time
-21.7%
+35.8%
 Medium
 2848. Points That Intersect With Cars
-74.4%
+74.5%
 Easy
 2847. Smallest Number With Given Digit Product
-54.4%
+44.6%
 Medium
 2846. Minimum Edge Weight Equilibrium Queries in a Tree
-41.0%
+43.6%
 Hard
 2845. Count of Interesting Subarrays
-33.0%
+34.3%
 Medium
 2844. Minimum Operations to Make a Special Number
-36.7%
+37.4%
 Medium
 2843. Count Symmetric Integers
 74.1%
 Easy
 2842. Count K-Subsequences of a String With Maximum Beauty
-26.9%
+28.1%
 Hard
 2841. Maximum Sum of Almost Unique Subarray
-36.4%
+37.2%
 Medium
 2840. Check if Strings Can be Made Equal With Operations II
-53.8%
+54.7%
 Medium
 2839. Check if Strings Can be Made Equal With Operations I
-45.7%
+46.4%
 Easy
 2838. Maximum Coins Heroes Can Collect
-76.7%
+70.7%
 Medium
 2837. Total Traveled Distance
-74.6%
+72.3%
 Easy
 2836. Maximize Value of Function in a Ball Passing Game
-26.9%
+29.1%
 Hard
 2835. Minimum Operations to Form Subsequence With Target Sum
-29.9%
+31.0%
 Hard
 2834. Find the Minimum Possible Sum of a Beautiful Array
-44.7%
+40.5%
 Medium
 2833. Furthest Point From Origin
-62.2%
+63.3%
 Easy
 2832. Maximal Range That Each Element Is Maximum in It
-75.7%
+73.7%
 Medium
 2831. Find the Longest Equal Subarray
-33.8%
+34.5%
 Medium
 2830. Maximize the Profit as the Salesman
-34.6%
+35.3%
 Medium
 2829. Determine the Minimum Sum of a k-avoiding Array
-60.4%
+60.7%
 Medium
 2828. Check if a String Is an Acronym of Words
-83.2%
+82.9%
 Easy
 2827. Number of Beautiful Integers in the Range
 16.4%
