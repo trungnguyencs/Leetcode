@@ -1,3 +1,102 @@
+2995. Viewers Turned Streamers
+49.8%
+Hard
+2994. Friday Purchases II
+84.6%
+Hard
+2993. Friday Purchases I
+79.8%
+Medium
+2992. Number of Self-Divisible Permutations
+84.4%
+Medium
+2991. Top Three Wineries
+56.9%
+Hard
+2990. Loan Types
+68.6%
+Easy
+2989. Class Performance
+93.3%
+Medium
+2988. Manager of the Largest Department
+80.0%
+Medium
+2987. Find Expensive Cities
+83.8%
+Easy
+2986. Find Third Transaction
+48.7%
+Medium
+2985. Calculate Compressed Mean
+89.2%
+Easy
+2984. Find Peak Calling Hours for Each City
+59.6%
+Medium
+2979. Most Expensive Item That Can Not Be Bought
+83.5%
+Medium
+2978. Symmetric Coordinates
+48.4%
+Medium
+2969. Minimum Number of Coins for Fruits II
+57.8%
+Hard
+2964. Number of Divisible Triplet Sums
+77.0%
+Medium
+2955. Number of Same-End Substrings
+75.6%
+Medium
+2950. Number of Divisible Substrings
+81.0%
+Medium
+2941. Maximum GCD-Sum of a Subarray
+49.6%
+Hard
+2936. Number of Equal Numbers Blocks
+74.4%
+Medium
+2927. Distribute Candies Among Children III
+49.6%
+Hard
+2922. Market Analysis III
+38.0%
+Medium
+2921. Maximum Profitable Triplets With Increasing Prices II
+56.9%
+Hard
+2912. Number of Ways to Reach Destination in the Grid
+69.7%
+Hard
+2907. Maximum Profitable Triplets With Increasing Prices I
+59.4%
+Medium
+2898. Maximum Linear Stock Score
+73.6%
+Medium
+2893. Calculate Orders Within Each Interval
+68.7%
+Medium
+2892. Minimizing Array After Replacing Pairs With Their Product
+41.8%
+Medium
+2868. The Wording Game
+61.5%
+Hard
+2863. Maximum Length of Semi-Decreasing Subarrays
+73.2%
+Medium
+2854. Rolling Average Steps
+60.3%
+Medium
+2853. Highest Salaries Difference
+73.3%
+Easy
+2852. Sum of Remoteness of All Cells
+63.3%
+Medium
 2847. Smallest Number With Given Digit Product
 54.4%
 Medium
