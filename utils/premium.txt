@@ -1,3 +1,9 @@
+3009. Maximum Number of Intersections on the Chart
+49.4%
+Hard
+3004. Maximum Subtree of the Same Color
+70.8%
+Medium
 2995. Viewers Turned Streamers
 49.8%
 Hard
