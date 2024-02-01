@@ -16,6 +16,9 @@ Medium
 2974. Minimum Number Game
 86.0%
 Easy
+2966. Divide Array Into Arrays With Max Difference
+64.1%
+Medium
 2870. Minimum Number of Operations to Make Array Empty
 61.8%
 Medium
@@ -2434,6 +2437,9 @@ Hard
 295. Find Median from Data Stream
 51.5%
 Hard
+293. Flip Game
+63.8%
+Easy
 291. Word Pattern II
 47.3%
 Medium
