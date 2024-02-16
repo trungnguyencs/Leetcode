@@ -16,6 +16,9 @@ Medium
 2974. Minimum Number Game
 86.0%
 Easy
+2971. Find Polygon With the Largest Perimeter
+66.0%
+Medium
 2966. Divide Array Into Arrays With Max Difference
 64.1%
 Medium
@@ -396,6 +399,9 @@ Medium
 Easy
 2187. Minimum Time to Complete Trips
 39.0%
+Medium
+2149. Rearrange Array Elements by Sign
+83.9%
 Medium
 2147. Number of Ways to Divide a Long Corridor
 50.4%
