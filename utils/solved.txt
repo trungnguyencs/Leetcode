@@ -472,6 +472,9 @@ Medium
 1980. Find Unique Binary String
 74.3%
 Medium
+1973. Count Nodes Equal to Sum of Descendants
+76.2%
+Medium
 1971. Find if Path Exists in Graph
 51.6%
 Easy
@@ -1621,6 +1624,9 @@ Medium
 790. Domino and Tromino Tiling
 51.7%
 Medium
+787. Cheapest Flights Within K Stops
+39.2%
+Medium
 785. Is Graph Bipartite?
 55.0%
 Medium
@@ -1992,6 +1998,9 @@ Easy
 Medium
 515. Find Largest Value in Each Tree Row
 64.5%
+Medium
+513. Find Bottom Left Tree Value
+70.9%
 Medium
 510. Inorder Successor in BST II
 61.0%
