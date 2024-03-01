@@ -1,3 +1,60 @@
+3064. Guess the Number Using Bitwise Questions I
+96.9%
+Medium
+3063. Linked List Frequency
+49.7%
+Medium
+3062. Winner of the Linked List Game
+85.5%
+Easy
+3061. Calculate Trapping Rain Water
+79.2%
+Hard
+3060. User Activities within Time Bounds
+41.6%
+Hard
+3059. Find All Unique Email Domains
+56.8%
+Easy
+3058. Friends With No Mutual Friends
+52.6%
+Medium
+3057. Employees Project Allocation
+79.5%
+Hard
+3056. Snaps Analysis
+67.5%
+Medium
+3055. Top Percentile Fraud
+66.5%
+Medium
+3054. Binary Tree Nodes
+81.6%
+Medium
+3053. Classifying Triangles by Lengths
+55.1%
+Easy
+3052. Maximize Items
+75.6%
+Hard
+3051. Find Candidates for Data Scientist Position
+73.2%
+Easy
+3050. Pizza Toppings Cost Analysis
+78.1%
+Medium
+3037. Find Pattern in Infinite Stream II
+72.8%
+Hard
+3032. Count Numbers With Unique Digits II
+90.2%
+Easy
+3023. Find Pattern in Infinite Stream I
+61.0%
+Medium
+3018. Maximum Number of Removal Queries That Can Be Processed I
+44.2%
+Hard
 3009. Maximum Number of Intersections on the Chart
 49.4%
 Hard
