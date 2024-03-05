@@ -631,6 +631,9 @@ Medium
 1752. Check if Array Is Sorted and Rotated
 50.6%
 Easy
+1750. Minimum Length of String After Deleting Similar Ends
+54.3%
+Medium
 1743. Restore the Array From Adjacent Pairs
 75.2%
 Medium
