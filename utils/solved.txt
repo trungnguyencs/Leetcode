@@ -1,3 +1,6 @@
+3063. Linked List Frequency
+75.9%
+Medium
 3062. Winner of the Linked List Game
 85.4%
 Easy
@@ -9,6 +12,9 @@ Medium
 Medium
 3014. Minimum Number of Pushes to Type Word I
 60.0%
+Easy
+3005. Count Elements With Maximum Frequency
+75.0%
 Easy
 2976. Minimum Cost to Convert String I
 38.6%
