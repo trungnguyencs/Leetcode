@@ -6,8 +6,8 @@
 class Solution:
     def removeZeroSumSublists(self, head: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode(0, head)
-        prefixSum = {0: dummy}
-        cur, curSum = head, 0
+        prefixSum = {}
+        cur, curSum = dummy, 0
         # first pass is to find the lastest node for each prefix sum
         while cur:
             curSum += cur.val
