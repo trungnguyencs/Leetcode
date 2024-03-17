@@ -1156,6 +1156,9 @@ Easy
 1182. Shortest Distance to Target Color
 55.4%
 Medium
+1171. Remove Zero Sum Consecutive Nodes from Linked List
+52.9%
+Medium
 1169. Invalid Transactions
 31.1%
 Medium
@@ -1443,6 +1446,9 @@ Medium
 Easy
 931. Minimum Falling Path Sum
 65.7%
+Medium
+930. Binary Subarrays With Sum
+61.8%
 Medium
 929. Unique Email Addresses
 67.0%
