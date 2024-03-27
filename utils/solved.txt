@@ -691,6 +691,9 @@ Medium
 1672. Richest Customer Wealth
 87.5%
 Easy
+1669. Merge In Between Linked Lists
+81.3%
+Medium
 1663. Smallest String With A Given Numeric Value
 66.7%
 Medium
@@ -1210,6 +1213,9 @@ Medium
 1120. Maximum Average Subtree
 66.4%
 Medium
+1119. Remove Vowels from a String
+91.1%
+Easy
 1108. Defanging an IP Address
 88.9%
 Easy
