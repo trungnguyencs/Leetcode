@@ -31,6 +31,9 @@ Medium
 2966. Divide Array Into Arrays With Max Difference
 64.1%
 Medium
+2958. Length of Longest Subarray With at Most K Frequency
+52.3%
+Medium
 2870. Minimum Number of Operations to Make Array Empty
 61.8%
 Medium
