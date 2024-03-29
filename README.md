@@ -5,9 +5,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|1091|
+|[All-time](https://leetcode.com/trungnguyen276/)|1092|
 |[2020 - 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
-|[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|671|
+|[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|672|
 
 ## Problems
 |     Title     |   Difficulty  |    Premium    |  Last Solved  |    Solution   |
@@ -51,7 +51,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[38. Count and Say](https://leetcode.com/problems/count-and-say/)|Medium||2 years ago|[0038-count-and-say.py](https://github.com/trungnguyencs/Leetcode/blob/main/0038-count-and-say/0038-count-and-say.py/)|
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium||2 years ago|[0039-combination-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/0039-combination-sum/0039-combination-sum.py/)|
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium||7 months ago|[0040-combination-sum-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0040-combination-sum-ii/0040-combination-sum-ii.py/)|
-|[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard||2 days ago|[0041-first-missing-positive.py](https://github.com/trungnguyencs/Leetcode/blob/main/0041-first-missing-positive/0041-first-missing-positive.py/)|
+|[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard||4 days ago|[0041-first-missing-positive.py](https://github.com/trungnguyencs/Leetcode/blob/main/0041-first-missing-positive/0041-first-missing-positive.py/)|
 |[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard||2 years ago|[0042-trapping-rain-water.py](https://github.com/trungnguyencs/Leetcode/blob/main/0042-trapping-rain-water/0042-trapping-rain-water.py/)|
 |[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|||
 |[44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Hard|||
@@ -147,7 +147,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[140. Word Break II](https://leetcode.com/problems/word-break-ii/)|Hard|||
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy||6 months ago|[0141-linked-list-cycle.py](https://github.com/trungnguyencs/Leetcode/blob/main/0141-linked-list-cycle/0141-linked-list-cycle.py/)|
 |[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Medium|||
-|[143. Reorder List](https://leetcode.com/problems/reorder-list/)|Medium||4 days ago|[0143-reorder-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0143-reorder-list/0143-reorder-list.py/)|
+|[143. Reorder List](https://leetcode.com/problems/reorder-list/)|Medium||last week|[0143-reorder-list.py](https://github.com/trungnguyencs/Leetcode/blob/main/0143-reorder-list/0143-reorder-list.py/)|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Easy||last year|[0144-binary-tree-preorder-traversal.py](https://github.com/trungnguyencs/Leetcode/blob/main/0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.py/)|
 |[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|Easy||2 years ago|[0145-binary-tree-postorder-traversal.py](https://github.com/trungnguyencs/Leetcode/blob/main/0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.py/)|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|Medium|||
@@ -379,7 +379,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Medium||2 years ago|[0438-find-all-anagrams-in-a-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.py/)|
 |[439. Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/)|Medium|Premium|8 months ago|[0439-ternary-expression-parser.py](https://github.com/trungnguyencs/Leetcode/blob/main/0439-ternary-expression-parser/0439-ternary-expression-parser.py/)|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Easy|||
-|[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium||3 days ago|[0442-find-all-duplicates-in-an-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py/)|
+|[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|Medium||5 days ago|[0442-find-all-duplicates-in-an-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py/)|
 |[443. String Compression](https://leetcode.com/problems/string-compression/)|Medium||last year|[0443-string-compression.py](https://github.com/trungnguyencs/Leetcode/blob/main/0443-string-compression/0443-string-compression.py/)|
 |[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|Medium||8 months ago|[0445-add-two-numbers-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0445-add-two-numbers-ii/0445-add-two-numbers-ii.py/)|
 |[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy||last month|[0448-find-all-numbers-disappeared-in-an-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py/)|
@@ -472,7 +472,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|Easy||2 years ago|[0606-construct-string-from-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0606-construct-string-from-binary-tree/0606-construct-string-from-binary-tree.py/)|
 |[609. Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|Medium|||
 |[611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|Medium|||
-|[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Medium||last week|[0621-task-scheduler.py](https://github.com/trungnguyencs/Leetcode/blob/main/0621-task-scheduler/0621-task-scheduler.py/)|
+|[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Medium||2 weeks ago|[0621-task-scheduler.py](https://github.com/trungnguyencs/Leetcode/blob/main/0621-task-scheduler/0621-task-scheduler.py/)|
 |[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|Medium||2 years ago|[0622-design-circular-queue.py](https://github.com/trungnguyencs/Leetcode/blob/main/0622-design-circular-queue/0622-design-circular-queue.py/)|
 |[623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|Medium|||
 |[624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|Medium|Premium|4 months ago|[0624-maximum-distance-in-arrays.py](https://github.com/trungnguyencs/Leetcode/blob/main/0624-maximum-distance-in-arrays/0624-maximum-distance-in-arrays.py/)|
@@ -516,7 +516,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[706. Design HashMap](https://leetcode.com/problems/design-hashmap/)|Easy||5 months ago|[0706-design-hashmap.py](https://github.com/trungnguyencs/Leetcode/blob/main/0706-design-hashmap/0706-design-hashmap.py/)|
 |[708. Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|Medium|Premium||
 |[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|Easy|||
-|[713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|Medium||yesterday|[0713-subarray-product-less-than-k.py](https://github.com/trungnguyencs/Leetcode/blob/main/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py/)|
+|[713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|Medium||3 days ago|[0713-subarray-product-less-than-k.py](https://github.com/trungnguyencs/Leetcode/blob/main/0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py/)|
 |[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Medium|||
 |[716. Max Stack](https://leetcode.com/problems/max-stack/)|Hard|Premium|last year|[0716-max-stack.py](https://github.com/trungnguyencs/Leetcode/blob/main/0716-max-stack/0716-max-stack.py/)|
 |[718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|Medium||2 years ago|[0718-maximum-length-of-repeated-subarray.py](https://github.com/trungnguyencs/Leetcode/blob/main/0718-maximum-length-of-repeated-subarray/0718-maximum-length-of-repeated-subarray.py/)|
@@ -552,7 +552,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite?/)|Medium||2 years ago|[0785-is-graph-bipartite?.py](https://github.com/trungnguyencs/Leetcode/blob/main/0785-is-graph-bipartite?/0785-is-graph-bipartite?.py/)|
 |[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Medium||last month|[0787-cheapest-flights-within-k-stops.py](https://github.com/trungnguyencs/Leetcode/blob/main/0787-cheapest-flights-within-k-stops/0787-cheapest-flights-within-k-stops.py/)|
 |[790. Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)|Medium||2 years ago|[0790-domino-and-tromino-tiling.py](https://github.com/trungnguyencs/Leetcode/blob/main/0790-domino-and-tromino-tiling/0790-domino-and-tromino-tiling.py/)|
-|[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|Medium||2 weeks ago|[0791-custom-sort-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/0791-custom-sort-string/0791-custom-sort-string.py/)|
+|[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|Medium||3 weeks ago|[0791-custom-sort-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/0791-custom-sort-string/0791-custom-sort-string.py/)|
 |[792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|Medium||2 years ago|[0792-number-of-matching-subsequences.py](https://github.com/trungnguyencs/Leetcode/blob/main/0792-number-of-matching-subsequences/0792-number-of-matching-subsequences.py/)|
 |[794. Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|Medium|||
 |[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|Medium||2 years ago|[0797-all-paths-from-source-to-target.py](https://github.com/trungnguyencs/Leetcode/blob/main/0797-all-paths-from-source-to-target/0797-all-paths-from-source-to-target.py/)|
@@ -696,7 +696,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1102. Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/)|Medium|Premium|2 years ago|[1102-path-with-maximum-minimum-value.py](https://github.com/trungnguyencs/Leetcode/blob/main/1102-path-with-maximum-minimum-value/1102-path-with-maximum-minimum-value.py/)|
 |[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|Easy|||
 |[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|||
-|[1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)|Easy|Premium|4 days ago|[1119-remove-vowels-from-a-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/1119-remove-vowels-from-a-string/1119-remove-vowels-from-a-string.py/)|
+|[1119. Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)|Easy|Premium|last week|[1119-remove-vowels-from-a-string.py](https://github.com/trungnguyencs/Leetcode/blob/main/1119-remove-vowels-from-a-string/1119-remove-vowels-from-a-string.py/)|
 |[1120. Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/)|Medium|Premium|3 months ago|[1120-maximum-average-subtree.py](https://github.com/trungnguyencs/Leetcode/blob/main/1120-maximum-average-subtree/1120-maximum-average-subtree.py/)|
 |[1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)|Medium|||
 |[1133. Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)|Easy|Premium||
@@ -1091,7 +1091,8 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)|Medium||4 months ago|[2849-determine-if-a-cell-is-reachable-at-a-given-time.py](https://github.com/trungnguyencs/Leetcode/blob/main/2849-determine-if-a-cell-is-reachable-at-a-given-time/2849-determine-if-a-cell-is-reachable-at-a-given-time.py/)|
 |[2864. Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)|Easy||last month|[2864-maximum-odd-binary-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.py/)|
 |[2870. Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)|Medium||2 months ago|[2870-minimum-number-of-operations-to-make-array-empty.py](https://github.com/trungnguyencs/Leetcode/blob/main/2870-minimum-number-of-operations-to-make-array-empty/2870-minimum-number-of-operations-to-make-array-empty.py/)|
-|[2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)|Medium||2 minutes ago|[2958-length-of-longest-subarray-with-at-most-k-frequency.py](https://github.com/trungnguyencs/Leetcode/blob/main/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.py/)|
+|[2958. Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)|Medium||2 days ago|[2958-length-of-longest-subarray-with-at-most-k-frequency.py](https://github.com/trungnguyencs/Leetcode/blob/main/2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.py/)|
+|[2962. Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)|Medium||2 minutes ago|[2962-count-subarrays-where-max-element-appears-at-least-k-times.py](https://github.com/trungnguyencs/Leetcode/blob/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/2962-count-subarrays-where-max-element-appears-at-least-k-times.py/)|
 |[2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)|Medium||last month|[2966-divide-array-into-arrays-with-max-difference.py](https://github.com/trungnguyencs/Leetcode/blob/main/2966-divide-array-into-arrays-with-max-difference/2966-divide-array-into-arrays-with-max-difference.py/)|
 |[2971. Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)|Medium||last month|[2971-find-polygon-with-the-largest-perimeter.py](https://github.com/trungnguyencs/Leetcode/blob/main/2971-find-polygon-with-the-largest-perimeter/2971-find-polygon-with-the-largest-perimeter.py/)|
 |[2974. Minimum Number Game](https://leetcode.com/problems/minimum-number-game/)|Easy|||
