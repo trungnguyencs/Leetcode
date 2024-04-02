@@ -1357,6 +1357,9 @@ Medium
 993. Cousins in Binary Tree
 55.2%
 Easy
+992. Subarrays with K Different Integers
+62.9%
+Hard
 991. Broken Calculator
 54.2%
 Medium
