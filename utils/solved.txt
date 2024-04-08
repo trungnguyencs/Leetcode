@@ -670,6 +670,9 @@ Medium
 1704. Determine if String Halves Are Alike
 77.5%
 Easy
+1700. Number of Students Unable to Eat Lunch
+73.2%
+Easy
 1695. Maximum Erasure Value
 57.7%
 Medium
