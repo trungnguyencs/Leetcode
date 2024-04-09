@@ -466,6 +466,9 @@ Medium
 2078. Two Furthest Houses With Different Colors
 66.6%
 Easy
+2073. Time Needed to Buy Tickets
+65.2%
+Easy
 2059. Minimum Operations to Convert Number
 48.3%
 Medium
