@@ -901,6 +901,9 @@ Medium
 1470. Shuffle the Array
 88.5%
 Easy
+1469. Find All The Lonely Nodes
+82.8%
+Easy
 1466. Reorder Routes to Make All Paths Lead to the City Zero
 65.6%
 Medium
