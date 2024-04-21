@@ -490,6 +490,9 @@ Medium
 1996. The Number of Weak Characters in the Game
 44.0%
 Medium
+1992. Find All Groups of Farmland
+76.1%
+Medium
 1980. Find Unique Binary String
 74.3%
 Medium
@@ -1375,6 +1378,9 @@ Medium
 989. Add to Array-Form of Integer
 46.1%
 Easy
+988. Smallest String Starting From Leaf
+60.4%
+Medium
 987. Vertical Order Traversal of a Binary Tree
 46.2%
 Hard
