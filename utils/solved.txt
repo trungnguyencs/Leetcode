@@ -1075,6 +1075,9 @@ Medium
 1290. Convert Binary Number in a Linked List to Integer
 81.5%
 Easy
+1289. Minimum Falling Path Sum II
+59.8%
+Hard
 1288. Remove Covered Intervals
 56.7%
 Medium
