@@ -5,9 +5,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|1100|
+|[All-time](https://leetcode.com/trungnguyen276/)|1101|
 |[2020 - 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
-|[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|686|
+|[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|687|
 
 ## Problems
 |     Title     |   Difficulty  |    Premium    |  Last Solved  |    Solution   |
@@ -282,9 +282,10 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Hard|||
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Easy||last year|[0303-range-sum-query-immutable.py](https://github.com/trungnguyencs/Leetcode/blob/main/0303-range-sum-query-immutable/0303-range-sum-query-immutable.py/)|
 |[304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|Medium||2 years ago|[0304-range-sum-query-2d-immutable.py](https://github.com/trungnguyencs/Leetcode/blob/main/0304-range-sum-query-2d-immutable/0304-range-sum-query-2d-immutable.py/)|
+|[305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|Hard|Premium|1 minute ago|[0305-number-of-islands-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0305-number-of-islands-ii/0305-number-of-islands-ii.py/)|
 |[307. Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|Medium||2 years ago|[0307-range-sum-query-mutable.py](https://github.com/trungnguyencs/Leetcode/blob/main/0307-range-sum-query-mutable/0307-range-sum-query-mutable.py/)|
 |[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Medium||2 years ago|[0309-best-time-to-buy-and-sell-stock-with-cooldown.py](https://github.com/trungnguyencs/Leetcode/blob/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/0309-best-time-to-buy-and-sell-stock-with-cooldown.py/)|
-|[310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|Medium||3 days ago|[0310-minimum-height-trees.py](https://github.com/trungnguyencs/Leetcode/blob/main/0310-minimum-height-trees/0310-minimum-height-trees.py/)|
+|[310. Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|Medium||4 days ago|[0310-minimum-height-trees.py](https://github.com/trungnguyencs/Leetcode/blob/main/0310-minimum-height-trees/0310-minimum-height-trees.py/)|
 |[311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)|Medium|Premium|2 years ago|[0311-sparse-matrix-multiplication.py](https://github.com/trungnguyencs/Leetcode/blob/main/0311-sparse-matrix-multiplication/0311-sparse-matrix-multiplication.py/)|
 |[314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|Medium|Premium|2 years ago|[0314-binary-tree-vertical-order-traversal.py](https://github.com/trungnguyencs/Leetcode/blob/main/0314-binary-tree-vertical-order-traversal/0314-binary-tree-vertical-order-traversal.py/)|
 |[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Medium||2 years ago|[0316-remove-duplicate-letters.py](https://github.com/trungnguyencs/Leetcode/blob/main/0316-remove-duplicate-letters/0316-remove-duplicate-letters.py/)|
@@ -474,7 +475,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|Medium|||
 |[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Medium||last month|[0621-task-scheduler.py](https://github.com/trungnguyencs/Leetcode/blob/main/0621-task-scheduler/0621-task-scheduler.py/)|
 |[622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|Medium||2 years ago|[0622-design-circular-queue.py](https://github.com/trungnguyencs/Leetcode/blob/main/0622-design-circular-queue/0622-design-circular-queue.py/)|
-|[623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|Medium||last week|[0623-add-one-row-to-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0623-add-one-row-to-tree/0623-add-one-row-to-tree.py/)|
+|[623. Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|Medium||2 weeks ago|[0623-add-one-row-to-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/0623-add-one-row-to-tree/0623-add-one-row-to-tree.py/)|
 |[624. Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|Medium|Premium|5 months ago|[0624-maximum-distance-in-arrays.py](https://github.com/trungnguyencs/Leetcode/blob/main/0624-maximum-distance-in-arrays/0624-maximum-distance-in-arrays.py/)|
 |[628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|Easy|||
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|Medium|||
@@ -752,7 +753,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|Medium|||
 |[1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25%-in-sorted-array/)|Easy||4 months ago|[1287-element-appearing-more-than-25%-in-sorted-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/1287-element-appearing-more-than-25%-in-sorted-array/1287-element-appearing-more-than-25%-in-sorted-array.py/)|
 |[1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|Medium||2 years ago|[1288-remove-covered-intervals.py](https://github.com/trungnguyencs/Leetcode/blob/main/1288-remove-covered-intervals/1288-remove-covered-intervals.py/)|
-|[1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|Hard||3 minutes ago|[1289-minimum-falling-path-sum-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/1289-minimum-falling-path-sum-ii/1289-minimum-falling-path-sum-ii.py/)|
+|[1289. Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|Hard||yesterday|[1289-minimum-falling-path-sum-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/1289-minimum-falling-path-sum-ii/1289-minimum-falling-path-sum-ii.py/)|
 |[1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|Easy|||
 |[1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/)|Medium||2 years ago|[1291-sequential-digits.py](https://github.com/trungnguyencs/Leetcode/blob/main/1291-sequential-digits/1291-sequential-digits.py/)|
 |[1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|Hard||2 years ago|[1293-shortest-path-in-a-grid-with-obstacles-elimination.py](https://github.com/trungnguyencs/Leetcode/blob/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/1293-shortest-path-in-a-grid-with-obstacles-elimination.py/)|
@@ -955,7 +956,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|Easy|||
 |[2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)|Medium|||
 |[2059. Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/)|Medium|||
-|[2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)|Easy||2 weeks ago|[2073-time-needed-to-buy-tickets.py](https://github.com/trungnguyencs/Leetcode/blob/main/2073-time-needed-to-buy-tickets/2073-time-needed-to-buy-tickets.py/)|
+|[2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)|Easy||3 weeks ago|[2073-time-needed-to-buy-tickets.py](https://github.com/trungnguyencs/Leetcode/blob/main/2073-time-needed-to-buy-tickets/2073-time-needed-to-buy-tickets.py/)|
 |[2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)|Easy|||
 |[2079. Watering Plants](https://leetcode.com/problems/watering-plants/)|Medium|||
 |[2080. Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/)|Medium|||

@@ -2491,6 +2491,9 @@ Medium
 307. Range Sum Query - Mutable
 40.8%
 Medium
+305. Number of Islands II
+39.8%
+Hard
 304. Range Sum Query 2D - Immutable
 53.5%
 Medium
