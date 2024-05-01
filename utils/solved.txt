@@ -178,6 +178,9 @@ Medium
 2511. Maximum Enemy Forts That Can Be Captured
 37.5%
 Easy
+2505. Bitwise OR of All Subsequence Sums
+68.1%
+Medium
 2498. Frog Jump II
 61.3%
 Medium
@@ -487,6 +490,9 @@ Medium
 2007. Find Original Array From Doubled Array
 40.5%
 Medium
+2000. Reverse Prefix of Word
+81.6%
+Easy
 1996. The Number of Weak Characters in the Game
 44.0%
 Medium
