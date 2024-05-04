@@ -235,6 +235,9 @@ Easy
 2446. Determine if Two Events Have Conflict
 50.0%
 Easy
+2441. Largest Positive Integer That Exists With Its Negative
+75.2%
+Easy
 2439. Minimize Maximum of Array
 46.9%
 Medium
@@ -573,6 +576,9 @@ Easy
 Easy
 1887. Reduction Operations to Make the Array Elements Equal
 73.5%
+Medium
+1885. Count Pairs in Two Arrays
+61.0%
 Medium
 1877. Minimize Maximum Pair Sum in Array
 81.7%
