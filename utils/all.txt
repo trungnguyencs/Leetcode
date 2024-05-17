@@ -1,3 +1,264 @@
+3151. Maximum Number of Upgradable Servers
+66.3%
+Medium
+3150. Invalid Tweets II
+89.2%
+Easy
+3149. Find the Minimum Cost Array Permutation
+20.8%
+Hard
+3148. Maximum Difference Score in a Grid
+47.8%
+Medium
+3147. Taking Maximum Energy From the Mystic Dungeon
+38.5%
+Medium
+3146. Permutation Difference between Two Strings
+89.4%
+Easy
+3145. Find Products of Elements of Big Array
+21.7%
+Hard
+3144. Minimum Substring Partition of Equal Character Frequency
+39.9%
+Medium
+3143. Maximum Points Inside the Square
+37.4%
+Medium
+3142. Check if Grid Satisfies Conditions
+41.1%
+Easy
+3141. Maximum Hamming Distances
+78.2%
+Hard
+3140. Consecutive Available Seats II
+64.2%
+Medium
+3139. Minimum Cost to Equalize Array
+15.0%
+Hard
+3138. Minimum Length of Anagram Concatenation
+42.7%
+Medium
+3137. Minimum Number of Operations to Make Word K-Periodic
+62.9%
+Medium
+3136. Valid Word
+35.5%
+Easy
+3135. Equalize Strings by Adding or Removing Characters at Ends
+59.7%
+Medium
+3134. Find the Median of the Uniqueness Array
+27.5%
+Hard
+3133. Minimum Array End
+37.4%
+Medium
+3132. Find the Integer Added to Array II
+30.5%
+Medium
+3131. Find the Integer Added to Array I
+81.3%
+Easy
+3130. Find All Possible Stable Binary Arrays II
+27.9%
+Hard
+3129. Find All Possible Stable Binary Arrays I
+26.8%
+Medium
+3128. Right Triangles
+46.9%
+Medium
+3127. Make a Square with the Same Color
+50.2%
+Easy
+3126. Server Utilization Time
+44.9%
+Medium
+3125. Maximum Number That Makes Result of Bitwise AND Zero
+69.8%
+Medium
+3124. Find Longest Calls
+76.4%
+Medium
+3123. Find Edges in Shortest Paths
+51.5%
+Hard
+3122. Minimum Number of Operations to Satisfy Conditions
+40.9%
+Medium
+3121. Count the Number of Special Characters II
+41.1%
+Medium
+3120. Count the Number of Special Characters I
+64.9%
+Easy
+3119. Maximum Number of Potholes That Can Be Fixed
+64.5%
+Medium
+3118. Friday Purchase III
+61.8%
+Medium
+3117. Minimum Sum of Values by Dividing Array
+27.7%
+Hard
+3116. Kth Smallest Amount With Single Denomination Combination
+15.2%
+Hard
+3115. Maximum Prime Difference
+58.5%
+Medium
+3114. Latest Time You Can Obtain After Replacing Characters
+35.2%
+Easy
+3113. Find the Number of Subarrays Where Boundary Elements Are Maximum
+29.0%
+Hard
+3112. Minimum Time to Visit Disappearing Nodes
+33.8%
+Medium
+3111. Minimum Rectangles to Cover Points
+63.9%
+Medium
+3110. Score of a String
+92.5%
+Easy
+3109. Find the Index of Permutation
+44.3%
+Medium
+3108. Minimum Cost Walk in Weighted Graph
+46.0%
+Hard
+3107. Minimum Operations to Make Median of Array Equal to K
+48.6%
+Medium
+3106. Lexicographically Smallest String After Operations With Constraint
+63.6%
+Medium
+3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+57.1%
+Easy
+3104. Find Longest Self-Contained Substring
+61.7%
+Hard
+3103. Find Trending Hashtags II
+68.4%
+Hard
+3102. Minimize Manhattan Distances
+31.9%
+Hard
+3101. Count Alternating Subarrays
+56.8%
+Medium
+3100. Water Bottles II
+62.8%
+Medium
+3099. Harshad Number
+82.8%
+Easy
+3098. Find the Sum of Subsequence Powers
+24.4%
+Hard
+3097. Shortest Subarray With OR at Least K II
+29.0%
+Medium
+3096. Minimum Levels to Gain More Points
+40.7%
+Medium
+3095. Shortest Subarray With OR at Least K I
+40.4%
+Easy
+3094. Guess the Number Using Bitwise Questions II
+81.3%
+Medium
+3093. Longest Common Suffix Queries
+41.7%
+Hard
+3092. Most Frequent IDs
+42.4%
+Medium
+3091. Apply Operations to Make Sum of Array Greater Than or Equal to k
+44.7%
+Medium
+3090. Maximum Length Substring With Two Occurrences
+63.5%
+Easy
+3089. Find Bursty Behavior
+37.7%
+Medium
+3088. Make String Anti-palindrome
+54.7%
+Hard
+3087. Find Trending Hashtags
+67.0%
+Medium
+3086. Minimum Moves to Pick K Ones
+23.7%
+Hard
+3085. Minimum Deletions to Make String K-Special
+44.2%
+Medium
+3084. Count Substrings Starting and Ending with Given Character
+48.8%
+Medium
+3083. Existence of a Substring in a String and Its Reverse
+66.2%
+Easy
+3082. Find the Sum of the Power of All Subsequences
+38.7%
+Hard
+3081. Replace Question Marks in String to Minimize Its Value
+26.5%
+Medium
+3080. Mark Elements on Array by Performing Queries
+48.8%
+Medium
+3079. Find the Sum of Encrypted Integers
+73.6%
+Easy
+3078. Match Alphanumerical Pattern in Matrix I
+68.4%
+Medium
+3077. Maximum Strength of K Disjoint Subarrays
+27.8%
+Hard
+3076. Shortest Uncommon Substring in an Array
+45.0%
+Medium
+3075. Maximize Happiness of Selected Children
+55.2%
+Medium
+3074. Apple Redistribution into Boxes
+66.0%
+Easy
+3073. Maximum Increasing Triplet Value
+42.8%
+Medium
+3072. Distribute Elements Into Two Arrays II
+26.5%
+Hard
+3071. Minimum Operations to Write the Letter Y on a Grid
+62.0%
+Medium
+3070. Count Submatrices with Top-Left Element and Sum Less Than k
+59.1%
+Medium
+3069. Distribute Elements Into Two Arrays I
+71.8%
+Easy
+3068. Find the Maximum Sum of Node Values
+40.2%
+Hard
+3067. Count Pairs of Connectable Servers in a Weighted Tree Network
+57.4%
+Medium
+3066. Minimum Operations to Exceed Threshold Value II
+27.1%
+Medium
+3065. Minimum Operations to Exceed Threshold Value I
+85.2%
+Easy
 3064. Guess the Number Using Bitwise Questions I
 96.9%
 Medium

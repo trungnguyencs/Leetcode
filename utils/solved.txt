@@ -1,3 +1,6 @@
+3075. Maximize Happiness of Selected Children
+55.2%
+Medium
 3063. Linked List Frequency
 75.9%
 Medium
@@ -49,6 +52,9 @@ Medium
 2848. Points That Intersect With Cars
 74.5%
 Easy
+2816. Double a Number Represented as a Linked List
+61.6%
+Medium
 2785. Sort Vowels in a String
 82.0%
 Medium
@@ -303,6 +309,9 @@ Medium
 Medium
 2335. Minimum Amount of Time to Fill Cups
 57.0%
+Easy
+2331. Evaluate Boolean Binary Tree
+82.9%
 Easy
 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
 50.1%
@@ -1060,6 +1069,9 @@ Medium
 1328. Break a Palindrome
 52.1%
 Medium
+1325. Delete Leaves With a Given Value
+74.4%
+Medium
 1319. Number of Operations to Make Network Connected
 62.4%
 Medium
@@ -1156,6 +1168,9 @@ Medium
 1220. Count Vowels Permutation
 59.8%
 Hard
+1219. Path with Maximum Gold
+68.0%
+Medium
 1218. Longest Arithmetic Subsequence of Given Difference
 55.0%
 Medium
@@ -1593,6 +1608,9 @@ Easy
 Medium
 863. All Nodes Distance K in Binary Tree
 64.0%
+Medium
+861. Score After Flipping Matrix
+80.4%
 Medium
 859. Buddy Strings
 32.9%
