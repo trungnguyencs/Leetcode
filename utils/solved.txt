@@ -484,6 +484,9 @@ Easy
 2073. Time Needed to Buy Tickets
 65.2%
 Easy
+2061. Number of Spaces Cleaning Robot Cleaned
+61.7%
+Medium
 2059. Minimum Operations to Convert Number
 48.3%
 Medium
