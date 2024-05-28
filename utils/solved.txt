@@ -1192,6 +1192,9 @@ Easy
 1209. Remove All Adjacent Duplicates in String II
 56.7%
 Medium
+1208. Get Equal Substrings Within Budget
+52.1%
+Medium
 1207. Unique Number of Occurrences
 74.2%
 Easy
