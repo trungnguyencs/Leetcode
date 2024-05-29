@@ -55,6 +55,9 @@ Easy
 2816. Double a Number Represented as a Linked List
 61.6%
 Medium
+2802. Find The K-th Lucky Number
+75.3%
+Medium
 2785. Sort Vowels in a String
 82.0%
 Medium
@@ -1009,6 +1012,9 @@ Easy
 1413. Minimum Value to Get Positive Step by Step Sum
 66.5%
 Easy
+1404. Number of Steps to Reduce a Number in Binary Representation to One
+53.6%
+Medium
 1402. Reducing Dishes
 76.4%
 Hard

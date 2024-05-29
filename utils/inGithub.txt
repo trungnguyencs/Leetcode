@@ -324,7 +324,7 @@ Time: 35 ms (99.23%), Space: 16.8 MB (10.67%) - LeetHub
 10 months ago
 0140-word-break-ii
 Time: 31 ms (80.14%), Space: 16.3 MB (99.01%) - LeetHub
-3 days ago
+4 days ago
 0141-linked-list-cycle
 Attach NOTES - LeetHub
 9 months ago
@@ -561,7 +561,7 @@ Time: 40 ms (62.51%), Space: 13.8 MB (74.14%) - LeetHub
 2 years ago
 0291-word-pattern-ii
 Time: 42 ms (14.23%), Space: 16.4 MB (85.99%) - LeetHub
-5 days ago
+last week
 0293-flip-game
 Time: 41 ms (46.18%), Space: 16.9 MB (72.90%) - LeetHub
 4 months ago
@@ -1413,7 +1413,7 @@ Attach NOTES - LeetHub
 2 years ago
 1208-get-equal-substrings-within-budget
 Time: 63 ms (66.48%), Space: 17.3 MB (71.70%) - LeetHub
-3 minutes ago
+yesterday
 1209-remove-all-adjacent-duplicates-in-string-ii
 Time: 137 ms (67.04%), Space: 18.8 MB (39.82%) - LeetHub
 2 years ago
@@ -1428,7 +1428,7 @@ Time: 932 ms (30.86%), Space: 24.3 MB (60.82%) - LeetHub
 5 months ago
 1217-minimum-cost-to-move-chips-to-the-same-position
 Time: 30 ms (92.10%), Space: 16.5 MB (98.45%) - LeetHub
-yesterday
+2 days ago
 1218-longest-arithmetic-subsequence-of-given-difference
 Attach NOTES - LeetHub
 10 months ago
@@ -1555,6 +1555,9 @@ last year
 1402-reducing-dishes
 Time: 41 ms (77.22%), Space: 13.8 MB (77.85%) - LeetHub
 last year
+1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one
+Attach NOTES - LeetHub
+1 hour ago
 1422-maximum-score-after-splitting-a-string
 Time: 43 ms (55.14%), Space: 17.2 MB (5.69%) - LeetHub
 5 months ago
@@ -1848,7 +1851,7 @@ Time: 1025 ms (18.47%), Space: 31 MB (7.66%) - LeetHub
 6 months ago
 1885-count-pairs-in-two-arrays
 Time: 839 ms (43.72%), Space: 34.7 MB (84.26%) - LeetHub
-3 weeks ago
+last month
 1887-reduction-operations-to-make-the-array-elements-equal
 Time: 938 ms (12.89%), Space: 30.9 MB (6.19%) - LeetHub
 6 months ago
@@ -2031,7 +2034,7 @@ Time: 815 ms (68.30%), Space: 26 MB (84.38%) - LeetHub
 last year
 2441-largest-positive-integer-that-exists-with-its-negative
 Time: 104 ms (80.99%), Space: 16.8 MB (77.07%) - LeetHub
-last month
+27 days ago
 2469-convert-the-temperature
 Time: 60 ms (50.00%), Space: 13.8 MB (100.00%) - LeetHub
 2 years ago
@@ -2070,7 +2073,7 @@ Time: 978 ms (97.06%), Space: 38.1 MB (46.32%) - LeetHub
 last year
 2597-the-number-of-beautiful-subsets
 Time: 2125 ms (72.18%), Space: 16.4 MB (96.46%) - LeetHub
-5 days ago
+last week
 2610-convert-an-array-into-a-2d-array-with-conditions
 Time: 131 ms (5.01%), Space: 17.2 MB (20.19%) - LeetHub
 5 months ago
@@ -2089,6 +2092,9 @@ Attach NOTES - LeetHub
 2785-sort-vowels-in-a-string
 Time: 186 ms (34.08%), Space: 18.4 MB (95.54%) - LeetHub
 6 months ago
+2802-find-the-k-th-lucky-number
+Time: 50 ms (93.75%), Space: 16.5 MB (63.39%) - LeetHub
+1 minute ago
 2816-double-a-number-represented-as-a-linked-list
 Time: 315 ms (35.21%), Space: 19.2 MB (86.07%) - LeetHub
 3 weeks ago
