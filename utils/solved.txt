@@ -970,6 +970,9 @@ Medium
 1446. Consecutive Characters
 60.6%
 Easy
+1442. Count Triplets That Can Form Two Arrays of Equal XOR
+84.8%
+Medium
 1441. Build an Array With Stack Operations
 73.8%
 Medium

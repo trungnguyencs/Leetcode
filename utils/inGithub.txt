@@ -324,7 +324,7 @@ Time: 35 ms (99.23%), Space: 16.8 MB (10.67%) - LeetHub
 10 months ago
 0140-word-break-ii
 Time: 31 ms (80.14%), Space: 16.3 MB (99.01%) - LeetHub
-4 days ago
+last week
 0141-linked-list-cycle
 Attach NOTES - LeetHub
 9 months ago
@@ -366,7 +366,7 @@ Attach NOTES - LeetHub
 last year
 0165-compare-version-numbers
 Create README - LeetHub
-last month
+28 days ago
 0167-two-sum-ii-input-array-is-sorted
 pad zeros to file names
 2 years ago
@@ -402,7 +402,7 @@ pad zeros to file names
 2 years ago
 0201-bitwise-and-of-numbers-range
 Time: 69 ms (14.26%), Space: 16.6 MB (56.93%) - LeetHub
-3 months ago
+2 months ago
 0202-happy-number
 Time: 34 ms (84.39%), Space: 13.8 MB (55.06%) - LeetHub
 last year
@@ -450,7 +450,7 @@ Time: 28 ms (92.76%), Space: 13.8 MB (52.18%) - LeetHub
 last year
 0227-basic-calculator-ii
 Time: 82 ms (86.75%), Space: 20 MB (38.45%) - LeetHub
-3 months ago
+2 months ago
 0228-summary-ranges
 pad zeros to file names
 2 years ago
@@ -537,7 +537,7 @@ Time: 70 ms (89.80%), Space: 16.7 MB (82.05%) - LeetHub
 9 months ago
 0276-paint-fence
 Time: 28 ms (93.58%), Space: 16.6 MB (59.56%) - LeetHub
-3 months ago
+2 months ago
 0277-find-the-celebrity
 pad zeros to file names
 2 years ago
@@ -564,7 +564,7 @@ Time: 42 ms (14.23%), Space: 16.4 MB (85.99%) - LeetHub
 last week
 0293-flip-game
 Time: 41 ms (46.18%), Space: 16.9 MB (72.90%) - LeetHub
-4 months ago
+3 months ago
 0295-find-median-from-data-stream
 Time: 1359 ms (47.55%), Space: 35.6 MB (91.75%) - LeetHub
 2 years ago
@@ -678,7 +678,7 @@ pad zeros to file names
 2 years ago
 0368-largest-divisible-subset
 Attach NOTES - LeetHub
-3 months ago
+2 months ago
 0373-find-k-pairs-with-smallest-sums
 Time: 1128 ms (56.74%), Space: 36.5 MB (34.22%) - LeetHub
 last year
@@ -777,7 +777,7 @@ Time: 77 ms (82.70%), Space: 16.3 MB (94.82%) - LeetHub
 10 months ago
 0448-find-all-numbers-disappeared-in-an-array
 Time: 275 ms (48.37%), Space: 25 MB (90.27%) - LeetHub
-3 months ago
+2 months ago
 0451-sort-characters-by-frequency
 Time: 90 ms (52.71%), Space: 16.1 MB (32.03%) - LeetHub
 2 years ago
@@ -846,7 +846,7 @@ pad zeros to file names
 2 years ago
 0513-find-bottom-left-tree-value
 Time: 32 ms (96.39%), Space: 18.3 MB (79.63%) - LeetHub
-3 months ago
+2 months ago
 0515-find-largest-value-in-each-tree-row
 Time: 42 ms (93.36%), Space: 18.8 MB (39.87%) - LeetHub
 7 months ago
@@ -882,7 +882,7 @@ Time: 556 ms (78.65%), Space: 21 MB (8.02%) - LeetHub
 9 months ago
 0543-diameter-of-binary-tree
 Time: 45 ms (44.25%), Space: 17.8 MB (44.60%) - LeetHub
-3 months ago
+2 months ago
 0547-number-of-provinces
 Time: 192 ms (69.15%), Space: 16.7 MB (58.44%) - LeetHub
 last year
@@ -894,7 +894,7 @@ pad zeros to file names
 2 years ago
 0563-binary-tree-tilt
 Time: 53 ms (31.88%), Space: 17.7 MB (59.28%) - LeetHub
-last week
+2 weeks ago
 0567-permutation-in-string
 pad zeros to file names
 2 years ago
@@ -912,7 +912,7 @@ pad zeros to file names
 2 years ago
 0599-minimum-index-sum-of-two-lists
 Time: 139 ms (91.18%), Space: 17.1 MB (52.52%) - LeetHub
-3 months ago
+2 months ago
 0605-can-place-flowers
 pad zeros to file names
 2 years ago
@@ -978,7 +978,7 @@ pad zeros to file names
 2 years ago
 0697-degree-of-an-array
 Time: 167 ms (91.57%), Space: 19.2 MB (14.16%) - LeetHub
-3 months ago
+2 months ago
 0700-search-in-a-binary-search-tree
 pad zeros to file names
 2 years ago
@@ -1059,7 +1059,7 @@ pad zeros to file names
 2 years ago
 0787-cheapest-flights-within-k-stops
 Time: 86 ms (94.57%), Space: 18.1 MB (62.12%) - LeetHub
-3 months ago
+2 months ago
 0790-domino-and-tromino-tiling
 Time: 38 ms (89.34%), Space: 13.8 MB (85.30%) - LeetHub
 2 years ago
@@ -1296,7 +1296,7 @@ Time: 192 ms (67.62%), Space: 16.7 MB (34.99%) - LeetHub
 last year
 1043-partition-array-for-maximum-sum
 Time: 273 ms (94.35%), Space: 16.6 MB (80.04%) - LeetHub
-3 months ago
+2 months ago
 1046-last-stone-weight
 Time: 64 ms (9.82%), Space: 13.8 MB (68.03%) - LeetHub
 2 years ago
@@ -1413,7 +1413,7 @@ Attach NOTES - LeetHub
 2 years ago
 1208-get-equal-substrings-within-budget
 Time: 63 ms (66.48%), Space: 17.3 MB (71.70%) - LeetHub
-yesterday
+3 days ago
 1209-remove-all-adjacent-duplicates-in-string-ii
 Time: 137 ms (67.04%), Space: 18.8 MB (39.82%) - LeetHub
 2 years ago
@@ -1428,7 +1428,7 @@ Time: 932 ms (30.86%), Space: 24.3 MB (60.82%) - LeetHub
 5 months ago
 1217-minimum-cost-to-move-chips-to-the-same-position
 Time: 30 ms (92.10%), Space: 16.5 MB (98.45%) - LeetHub
-2 days ago
+4 days ago
 1218-longest-arithmetic-subsequence-of-given-difference
 Attach NOTES - LeetHub
 10 months ago
@@ -1452,7 +1452,7 @@ Time: 1898 ms (8.05%), Space: 14 MB (64.77%) - LeetHub
 2 years ago
 1245-tree-diameter
 Time: 159 ms (38.12%), Space: 22.2 MB (69.02%) - LeetHub
-3 months ago
+2 months ago
 1249-minimum-remove-to-make-valid-parentheses
 Time: 88 ms (88.70%), Space: 15.8 MB (60.86%) - LeetHub
 3 years ago
@@ -1557,7 +1557,7 @@ Time: 41 ms (77.22%), Space: 13.8 MB (77.85%) - LeetHub
 last year
 1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one
 Attach NOTES - LeetHub
-1 hour ago
+2 days ago
 1422-maximum-score-after-splitting-a-string
 Time: 43 ms (55.14%), Space: 17.2 MB (5.69%) - LeetHub
 5 months ago
@@ -1579,6 +1579,9 @@ Time: 67 ms (25.21%), Space: 16.4 MB (45.28%) - LeetHub
 1441-build-an-array-with-stack-operations
 Attach NOTES - LeetHub
 7 months ago
+1442-count-triplets-that-can-form-two-arrays-of-equal-xor
+Time: 39 ms (84.78%), Space: 16.6 MB (62.50%) - LeetHub
+4 minutes ago
 1448-count-good-nodes-in-binary-tree
 Time: 329 ms (50.75%), Space: 32.7 MB (16.99%) - LeetHub
 2 years ago
@@ -1611,7 +1614,7 @@ Time: 67 ms (31.20%), Space: 14.1 MB (27.03%) - LeetHub
 2 years ago
 1481-least-number-of-unique-integers-after-k-removals
 Time: 323 ms (85.36%), Space: 33.2 MB (94.30%) - LeetHub
-3 months ago
+2 months ago
 1485-clone-binary-tree-with-random-pointer
 Time: 237 ms (94.62%), Space: 19.1 MB (70.69%) - LeetHub
 2 years ago
@@ -1692,7 +1695,7 @@ Time: 136 ms (68.02%), Space: 16.9 MB (15.89%) - LeetHub
 last year
 1609-even-odd-tree
 Time: 202 ms (95.47%), Space: 37.5 MB (90.74%) - LeetHub
-3 months ago
+2 months ago
 1611-minimum-one-bit-operations-to-make-integers-zero
 Time: 31 ms (95.00%), Space: 16.5 MB (20.63%) - LeetHub
 6 months ago
@@ -1830,7 +1833,7 @@ Time: 1153 ms (64.61%), Space: 31.3 MB (18.27%) - LeetHub
 6 months ago
 1844-replace-all-digits-with-characters
 Time: 37 ms (55.19%), Space: 16.6 MB (53.54%) - LeetHub
-3 months ago
+2 months ago
 1845-seat-reservation-manager
 Time: 435 ms (74.67%), Space: 44.1 MB (27.75%) - LeetHub
 6 months ago
@@ -1851,7 +1854,7 @@ Time: 1025 ms (18.47%), Space: 31 MB (7.66%) - LeetHub
 6 months ago
 1885-count-pairs-in-two-arrays
 Time: 839 ms (43.72%), Space: 34.7 MB (84.26%) - LeetHub
-last month
+27 days ago
 1887-reduction-operations-to-make-the-array-elements-equal
 Time: 938 ms (12.89%), Space: 30.9 MB (6.19%) - LeetHub
 6 months ago
@@ -1881,7 +1884,7 @@ Time: 4488 ms (36.65%), Space: 104.8 MB (79.17%) - LeetHub
 2 years ago
 1973-count-nodes-equal-to-sum-of-descendants
 Time: 328 ms (56.67%), Space: 50.4 MB (74.17%) - LeetHub
-3 months ago
+2 months ago
 1980-find-unique-binary-string
 Time: 39 ms (75.95%), Space: 16.3 MB (42.98%) - LeetHub
 6 months ago
@@ -1923,7 +1926,7 @@ Attach NOTES - LeetHub
 last year
 2108-find-first-palindromic-string-in-the-array
 Time: 87 ms (33.21%), Space: 16.7 MB (81.18%) - LeetHub
-3 months ago
+2 months ago
 2125-number-of-laser-beams-in-a-bank
 Time: 88 ms (89.42%), Space: 19.5 MB (6.86%) - LeetHub
 4 months ago
@@ -1941,7 +1944,7 @@ Time: 384 ms (71.43%), Space: 17.4 MB (71.43%) - LeetHub
 6 months ago
 2149-rearrange-array-elements-by-sign
 Time: 1053 ms (32.13%), Space: 47.2 MB (69.94%) - LeetHub
-3 months ago
+2 months ago
 2187-minimum-time-to-complete-trips
 Time: 1888 ms (85.25%), Space: 28.4 MB (96.75%) - LeetHub
 last year
@@ -2034,7 +2037,7 @@ Time: 815 ms (68.30%), Space: 26 MB (84.38%) - LeetHub
 last year
 2441-largest-positive-integer-that-exists-with-its-negative
 Time: 104 ms (80.99%), Space: 16.8 MB (77.07%) - LeetHub
-27 days ago
+29 days ago
 2469-convert-the-temperature
 Time: 60 ms (50.00%), Space: 13.8 MB (100.00%) - LeetHub
 2 years ago
@@ -2055,7 +2058,7 @@ Time: 38 ms (85.89%), Space: 16.4 MB (92.38%) - LeetHub
 2 months ago
 2487-remove-nodes-from-linked-list
 Time: 482 ms (28.42%), Space: 51 MB (90.29%) - LeetHub
-3 weeks ago
+last month
 2492-minimum-score-of-a-path-between-two-cities
 Time: 1606 ms (94.60%), Space: 75.8 MB (35.81%) - LeetHub
 last year
@@ -2094,7 +2097,7 @@ Time: 186 ms (34.08%), Space: 18.4 MB (95.54%) - LeetHub
 6 months ago
 2802-find-the-k-th-lucky-number
 Time: 50 ms (93.75%), Space: 16.5 MB (63.39%) - LeetHub
-1 minute ago
+2 days ago
 2816-double-a-number-represented-as-a-linked-list
 Time: 315 ms (35.21%), Space: 19.2 MB (86.07%) - LeetHub
 3 weeks ago
@@ -2103,7 +2106,7 @@ Time: 39 ms (67.84%), Space: 16.3 MB (73.40%) - LeetHub
 6 months ago
 2864-maximum-odd-binary-number
 Time: 47 ms (11.96%), Space: 16.6 MB (75.75%) - LeetHub
-3 months ago
+2 months ago
 2870-minimum-number-of-operations-to-make-array-empty
 Attach NOTES - LeetHub
 4 months ago
@@ -2115,16 +2118,16 @@ Time: 872 ms (64.29%), Space: 30.8 MB (79.76%) - LeetHub
 2 months ago
 2966-divide-array-into-arrays-with-max-difference
 Time: 715 ms (91.21%), Space: 30.8 MB (96.29%) - LeetHub
-4 months ago
+3 months ago
 2971-find-polygon-with-the-largest-perimeter
 Time: 496 ms (93.95%), Space: 31.4 MB (99.23%) - LeetHub
-3 months ago
+2 months ago
 3005-count-elements-with-maximum-frequency
 Attach NOTES - LeetHub
 2 months ago
 3062-winner-of-the-linked-list-game
 Time: 38 ms (100.00%), Space: 16.5 MB (100.00%) - LeetHub
-3 months ago
+2 months ago
 3063-linked-list-frequency
 Time: 482 ms (96.49%), Space: 38.4 MB (97.37%) - LeetHub
 2 months ago
