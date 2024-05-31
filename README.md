@@ -5,9 +5,9 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|1116|
+|[All-time](https://leetcode.com/trungnguyen276/)|1117|
 |[2020 - 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
-|[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|711|
+|[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|712|
 
 ## Problems
 |     Title     |   Difficulty  |    Premium    |  Last Solved  |    Solution   |
@@ -245,6 +245,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy||last year|[0257-binary-tree-paths.py](https://github.com/trungnguyencs/Leetcode/blob/main/0257-binary-tree-paths/0257-binary-tree-paths.py/)|
 |[258. Add Digits](https://leetcode.com/problems/add-digits/)|Easy||2 years ago|[0258-add-digits.py](https://github.com/trungnguyencs/Leetcode/blob/main/0258-add-digits/0258-add-digits.py/)|
 |[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|Medium|Premium||
+|[260. Single Number III](https://leetcode.com/problems/single-number-iii/)|Medium||4 minutes ago|[0260-single-number-iii.py](https://github.com/trungnguyencs/Leetcode/blob/main/0260-single-number-iii/0260-single-number-iii.py/)|
 |[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|Premium||
 |[263. Ugly Number](https://leetcode.com/problems/ugly-number/)|Easy||2 years ago|[0263-ugly-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/0263-ugly-number/0263-ugly-number.py/)|
 |[264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|Medium|||
@@ -802,7 +803,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)|Easy|||
 |[1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|Hard|||
 |[1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|Medium||7 months ago|[1441-build-an-array-with-stack-operations.py](https://github.com/trungnguyencs/Leetcode/blob/main/1441-build-an-array-with-stack-operations/1441-build-an-array-with-stack-operations.py/)|
-|[1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|Medium||4 minutes ago|[1442-count-triplets-that-can-form-two-arrays-of-equal-xor.py](https://github.com/trungnguyencs/Leetcode/blob/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/1442-count-triplets-that-can-form-two-arrays-of-equal-xor.py/)|
+|[1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)|Medium||2 hours ago|[1442-count-triplets-that-can-form-two-arrays-of-equal-xor.py](https://github.com/trungnguyencs/Leetcode/blob/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/1442-count-triplets-that-can-form-two-arrays-of-equal-xor.py/)|
 |[1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|Easy|||
 |[1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|Medium||2 years ago|[1448-count-good-nodes-in-binary-tree.py](https://github.com/trungnguyencs/Leetcode/blob/main/1448-count-good-nodes-in-binary-tree/1448-count-good-nodes-in-binary-tree.py/)|
 |[1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)|Easy|||
