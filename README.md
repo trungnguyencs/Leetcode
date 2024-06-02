@@ -5,7 +5,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/trungnguyen276/)|1117|
+|[All-time](https://leetcode.com/trungnguyen276/)|1119|
 |[2020 - 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
 |[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|712|
 
@@ -943,6 +943,7 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)|Medium||6 months ago|[1930-unique-length-3-palindromic-subsequences.py](https://github.com/trungnguyencs/Leetcode/blob/main/1930-unique-length-3-palindromic-subsequences/1930-unique-length-3-palindromic-subsequences.py/)|
 |[1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)|Easy|||
 |[1936. Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)|Medium|||
+|[1940. Longest Common Subsequence Between Sorted Arrays](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/)|Medium|Premium||
 |[1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)|Easy|||
 |[1946. Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/)|Medium|||
 |[1947. Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/)|Medium|||
@@ -1129,3 +1130,4 @@ Leetcode profile: https://leetcode.com/trungnguyen276/
 |[3062. Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/)|Easy|Premium|2 months ago|[3062-winner-of-the-linked-list-game.py](https://github.com/trungnguyencs/Leetcode/blob/main/3062-winner-of-the-linked-list-game/3062-winner-of-the-linked-list-game.py/)|
 |[3063. Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/)|Medium|Premium|2 months ago|[3063-linked-list-frequency.py](https://github.com/trungnguyencs/Leetcode/blob/main/3063-linked-list-frequency/3063-linked-list-frequency.py/)|
 |[3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)|Medium||3 weeks ago|[3075-maximize-happiness-of-selected-children.py](https://github.com/trungnguyencs/Leetcode/blob/main/3075-maximize-happiness-of-selected-children/3075-maximize-happiness-of-selected-children.py/)|
+|[3110. Score of a String](https://leetcode.com/problems/score-of-a-string/)|Easy|||

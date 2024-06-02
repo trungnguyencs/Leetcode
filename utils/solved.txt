@@ -1,3 +1,6 @@
+3110. Score of a String
+94.4%
+Easy
 3075. Maximize Happiness of Selected Children
 55.2%
 Medium
@@ -556,6 +559,9 @@ Medium
 1945. Sum of Digits of String After Convert
 61.9%
 Easy
+1940. Longest Common Subsequence Between Sorted Arrays
+80.3%
+Medium
 1936. Add Minimum Number of Rungs
 43.1%
 Medium
