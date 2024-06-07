@@ -1654,6 +1654,9 @@ Medium
 847. Shortest Path Visiting All Nodes
 65.9%
 Hard
+846. Hand of Straights
+56.7%
+Medium
 845. Longest Mountain in Array
 40.2%
 Medium
@@ -1935,6 +1938,9 @@ Easy
 Easy
 649. Dota2 Senate
 47.3%
+Medium
+648. Replace Words
+63.4%
 Medium
 647. Palindromic Substrings
 67.8%
