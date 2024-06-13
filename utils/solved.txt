@@ -478,6 +478,9 @@ Medium
 2085. Count Common Words With One Occurrence
 69.8%
 Easy
+2083. Substrings That Begin and End With the Same Letter
+74.1%
+Medium
 2080. Range Frequency Queries
 39.2%
 Medium
@@ -505,6 +508,9 @@ Easy
 2038. Remove Colored Pieces if Both Neighbors are the Same Color
 63.1%
 Medium
+2037. Minimum Number of Moves to Seat Everyone
+85.3%
+Easy
 2024. Maximize the Confusion of an Exam
 67.3%
 Medium
@@ -1279,6 +1285,9 @@ Easy
 1123. Lowest Common Ancestor of Deepest Leaves
 71.2%
 Medium
+1122. Relative Sort Array
+74.6%
+Easy
 1120. Maximum Average Subtree
 66.4%
 Medium
@@ -1348,6 +1357,9 @@ Medium
 1052. Grumpy Bookstore Owner
 57.1%
 Medium
+1051. Height Checker
+80.6%
+Easy
 1048. Longest String Chain
 60.8%
 Medium
