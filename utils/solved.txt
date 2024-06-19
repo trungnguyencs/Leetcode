@@ -931,6 +931,9 @@ Easy
 1485. Clone Binary Tree With Random Pointer
 80.6%
 Medium
+1482. Minimum Number of Days to Make m Bouquets
+51.2%
+Medium
 1481. Least Number of Unique Integers after K Removals
 55.9%
 Medium
