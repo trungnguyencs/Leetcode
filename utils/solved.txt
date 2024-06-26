@@ -1048,6 +1048,9 @@ Hard
 1396. Design Underground System
 74.8%
 Medium
+1382. Balance a Binary Search Tree
+81.7%
+Medium
 1381. Design a Stack With Increment Operation
 77.1%
 Medium
@@ -1392,6 +1395,9 @@ Easy
 Medium
 1041. Robot Bounded In Circle
 55.4%
+Medium
+1038. Binary Search Tree to Greater Sum Tree
+88.2%
 Medium
 1035. Uncrossed Lines
 62.5%
