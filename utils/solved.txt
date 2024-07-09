@@ -121,6 +121,9 @@ Medium
 2586. Count the Number of Vowel Strings in Range
 74.1%
 Easy
+2582. Pass the Pillow
+57.2%
+Easy
 2566. Maximum Difference by Remapping a Digit
 58.7%
 Easy
@@ -439,6 +442,9 @@ Medium
 2200. Find All K-Distant Indices in an Array
 65.0%
 Easy
+2192. All Ancestors of a Node in a Directed Acyclic Graph
+62.3%
+Medium
 2187. Minimum Time to Complete Trips
 39.0%
 Medium
@@ -634,6 +640,9 @@ Easy
 1838. Frequency of the Most Frequent Element
 41.8%
 Medium
+1836. Remove Duplicates From an Unsorted Linked List
+73.2%
+Medium
 1834. Single-Threaded CPU
 45.6%
 Medium
@@ -643,15 +652,21 @@ Medium
 1832. Check if the Sentence Is Pangram
 83.1%
 Easy
-1814. Count Nice Pairs in an Array
-49.6%
+1823. Find the Winner of the Circular Game
+81.8%
 Medium
 1822. Sign of the Product of an Array
 65.3%
 Easy
+1814. Count Nice Pairs in an Array
+49.6%
+Medium
 1804. Implement Trie II (Prefix Tree)
 60.5%
 Medium
+1791. Find Center of Star Graph
+86.7%
+Easy
 1790. Check if One String Swap Can Make Strings Equal
 45.3%
 Easy
@@ -718,6 +733,9 @@ Medium
 1704. Determine if String Halves Are Alike
 77.5%
 Easy
+1701. Average Waiting Time
+71.0%
+Medium
 1700. Number of Students Unable to Eat Lunch
 73.2%
 Easy
