@@ -832,6 +832,9 @@ Easy
 1602. Find Nearest Right Node in Binary Tree
 75.5%
 Medium
+1598. Crawler Log Folder
+70.3%
+Easy
 1586. Binary Search Tree Iterator II
 70.6%
 Medium
