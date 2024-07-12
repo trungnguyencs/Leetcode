@@ -342,7 +342,7 @@ pad zeros to file names
 2 years ago
 0149-max-points-on-a-line
 Time: 92 ms (87.15%), Space: 13.8 MB (94.26%) - LeetHub
-last year
+2 years ago
 0150-evaluate-reverse-polish-notation
 Time: 72 ms (88.75%), Space: 14.4 MB (60.84%) - LeetHub
 2 years ago
@@ -456,7 +456,7 @@ pad zeros to file names
 2 years ago
 0229-majority-element-ii
 Time: 111 ms (57.15%), Space: 17.7 MB (49.91%) - LeetHub
-9 months ago
+10 months ago
 0231-power-of-two
 pad zeros to file names
 2 years ago
@@ -936,7 +936,7 @@ Time: 1466 ms (87.73%), Space: 41.4 MB (64.53%) - LeetHub
 8 months ago
 0633-sum-of-square-numbers
 Time: 139 ms (19.81%), Space: 20.5 MB (5.64%) - LeetHub
-3 weeks ago
+last month
 0637-average-of-levels-in-binary-tree
 pad zeros to file names
 2 years ago
@@ -1432,6 +1432,9 @@ Time: 46 ms (44.27%), Space: 16.8 MB (89.33%) - LeetHub
 1182-shortest-distance-to-target-color
 Time: 2674 ms (57.91%), Space: 36.9 MB (87.90%) - LeetHub
 2 years ago
+1190-reverse-substrings-between-each-pair-of-parentheses
+Time: 24 ms (99.01%), Space: 16.5 MB (40.89%) - LeetHub
+yesterday
 1197-minimum-knight-moves
 Attach NOTES - LeetHub
 9 months ago
@@ -1677,13 +1680,13 @@ Time: 63 ms (10.47%), Space: 16.5 MB (20.83%) - LeetHub
 last year
 1503-last-moment-before-all-ants-fall-out-of-a-plank
 Time: 155 ms (23.02%), Space: 17.4 MB (30.22%) - LeetHub
-8 months ago
+9 months ago
 1512-number-of-good-pairs
 Time: 38 ms (75.74%), Space: 16.2 MB (82.24%) - LeetHub
 10 months ago
 1518-water-bottles
 Time: 34 ms (59.03%), Space: 16.5 MB (79.17%) - LeetHub
-4 days ago
+5 days ago
 1519-number-of-nodes-in-the-sub-tree-with-the-same-label
 Time: 3309 ms (62.82%), Space: 202.4 MB (24.36%) - LeetHub
 last year
@@ -1740,7 +1743,7 @@ Time: 462 ms (68.52%), Space: 46.9 MB (9.18%) - LeetHub
 2 years ago
 1598-crawler-log-folder
 Time: 55 ms (19.76%), Space: 16.7 MB (36.19%) - LeetHub
-12 hours ago
+2 days ago
 1602-find-nearest-right-node-in-binary-tree
 Time: 638 ms (5.24%), Space: 52.2 MB (63.99%) - LeetHub
 2 years ago
@@ -1821,7 +1824,7 @@ Time: 42 ms (45.25%), Space: 16.6 MB (59.90%) - LeetHub
 3 months ago
 1701-average-waiting-time
 Time: 799 ms (12.37%), Space: 57 MB (85.22%) - LeetHub
-yesterday
+3 days ago
 1704-determine-if-string-halves-are-alike
 Attach NOTES - LeetHub
 6 months ago
@@ -1834,6 +1837,9 @@ Time: 167 ms (88.89%), Space: 14.4 MB (83.07%) - LeetHub
 1716-calculate-money-in-leetcode-bank
 Time: 41 ms (48.88%), Space: 16.3 MB (7.77%) - LeetHub
 7 months ago
+1717-maximum-score-from-removing-substrings
+Time: 363 ms (39.61%), Space: 18.2 MB (59.74%) - LeetHub
+41 minutes ago
 1721-swapping-nodes-in-a-linked-list
 Time: 1536 ms (35.77%), Space: 48.5 MB (53.33%) - LeetHub
 2 years ago
@@ -1881,7 +1887,7 @@ Time: 72 ms (8.89%), Space: 16.6 MB (7.53%) - LeetHub
 last year
 1823-find-the-winner-of-the-circular-game
 Time: 110 ms (29.10%), Space: 16.4 MB (84.15%) - LeetHub
-2 days ago
+3 days ago
 1832-check-if-the-sentence-is-pangram
 Time: 65 ms (23.88%), Space: 13.9 MB (54.73%) - LeetHub
 2 years ago
@@ -1893,7 +1899,7 @@ Time: 2078 ms (82.79%), Space: 63.2 MB (21.97%) - LeetHub
 2 years ago
 1836-remove-duplicates-from-an-unsorted-linked-list
 Time: 570 ms (7.09%), Space: 46.9 MB (36.52%) - LeetHub
-2 days ago
+4 days ago
 1838-frequency-of-the-most-frequent-element
 Time: 1153 ms (64.61%), Space: 31.3 MB (18.27%) - LeetHub
 8 months ago
@@ -1980,7 +1986,7 @@ Time: 256 ms (24.71%), Space: 17.4 MB (65.59%) - LeetHub
 10 months ago
 2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 Time: 381 ms (20.60%), Space: 44.5 MB (29.21%) - LeetHub
-5 days ago
+last week
 2061-number-of-spaces-cleaning-robot-cleaned
 Time: 318 ms (65.34%), Space: 19.3 MB (76.18%) - LeetHub
 2 months ago
@@ -2031,7 +2037,7 @@ Time: 423 ms (99.70%), Space: 48.4 MB (25.30%) - LeetHub
 2 weeks ago
 2214-minimum-health-to-beat-game
 Time: 540 ms (99.01%), Space: 28.5 MB (15.66%) - LeetHub
-last year
+2 years ago
 2215-find-the-difference-of-two-arrays
 Time: 189 ms (42.73%), Space: 16.7 MB (9.53%) - LeetHub
 last year
@@ -2052,7 +2058,7 @@ Attach NOTES - LeetHub
 2 years ago
 2264-largest-3-same-digit-number-in-string
 Time: 47 ms (31.79%), Space: 16.3 MB (59.27%) - LeetHub
-7 months ago
+8 months ago
 2265-count-nodes-equal-to-average-of-subtree
 Time: 54 ms (31.02%), Space: 17.5 MB (58.02%) - LeetHub
 9 months ago
@@ -2160,7 +2166,7 @@ Time: 978 ms (97.06%), Space: 38.1 MB (46.32%) - LeetHub
 last year
 2582-pass-the-pillow
 Time: 27 ms (93.10%), Space: 16.6 MB (6.65%) - LeetHub
-4 days ago
+5 days ago
 2597-the-number-of-beautiful-subsets
 Time: 2125 ms (72.18%), Space: 16.4 MB (96.46%) - LeetHub
 2 months ago

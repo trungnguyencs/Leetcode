@@ -721,6 +721,9 @@ Medium
 1721. Swapping Nodes in a Linked List
 68.4%
 Medium
+1717. Maximum Score From Removing Substrings
+51.0%
+Medium
 1716. Calculate Money in Leetcode Bank
 78.1%
 Easy
@@ -1266,6 +1269,9 @@ Easy
 Medium
 1197. Minimum Knight Moves
 39.9%
+Medium
+1190. Reverse Substrings Between Each Pair of Parentheses
+71.7%
 Medium
 1189. Maximum Number of Balloons
 60.3%
