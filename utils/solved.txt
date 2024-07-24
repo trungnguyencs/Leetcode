@@ -445,6 +445,9 @@ Easy
 2192. All Ancestors of a Node in a Directed Acyclic Graph
 62.3%
 Medium
+2191. Sort the Jumbled Numbers
+58.4%
+Medium
 2187. Minimum Time to Complete Trips
 39.0%
 Medium
@@ -811,6 +814,9 @@ Medium
 1637. Widest Vertical Area Between Two Points Containing No Points
 88.6%
 Medium
+1636. Sort Array by Increasing Frequency
+79.7%
+Easy
 1631. Path With Minimum Effort
 59.4%
 Medium
