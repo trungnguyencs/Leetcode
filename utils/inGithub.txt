@@ -186,7 +186,7 @@ Attach NOTES - LeetHub
 2 months ago
 0079-word-search
 Attach NOTES - LeetHub
-3 months ago
+4 months ago
 0080-remove-duplicates-from-sorted-array-ii
 pad zeros to file names
 2 years ago
@@ -342,7 +342,7 @@ pad zeros to file names
 2 years ago
 0149-max-points-on-a-line
 Time: 92 ms (87.15%), Space: 13.8 MB (94.26%) - LeetHub
-last year
+2 years ago
 0150-evaluate-reverse-polish-notation
 Time: 72 ms (88.75%), Space: 14.4 MB (60.84%) - LeetHub
 2 years ago
@@ -814,6 +814,9 @@ last year
 0484-find-permutation
 pad zeros to file names
 2 years ago
+0485-max-consecutive-ones
+Time: 284 ms (11.80%), Space: 16.7 MB (48.00%) - LeetHub
+3 days ago
 0486-predict-the-winner
 Time: 44 ms (92.84%), Space: 16.6 MB (19.78%) - LeetHub
 last year
@@ -898,6 +901,9 @@ pad zeros to file names
 0563-binary-tree-tilt
 Time: 53 ms (31.88%), Space: 17.7 MB (59.28%) - LeetHub
 2 months ago
+0566-reshape-the-matrix
+Time: 76 ms (56.55%), Space: 17.3 MB (42.45%) - LeetHub
+5 days ago
 0567-permutation-in-string
 pad zeros to file names
 2 years ago
@@ -1017,7 +1023,7 @@ pad zeros to file names
 2 years ago
 0725-split-linked-list-in-parts
 Time: 38 ms (92.79%), Space: 16.8 MB (57.88%) - LeetHub
-10 months ago
+last year
 0729-my-calendar-i
 Time: 282 ms (48.06%), Space: 15 MB (22.64%) - LeetHub
 last year
@@ -1221,7 +1227,7 @@ pad zeros to file names
 2 years ago
 0942-di-string-match
 Time: 57 ms (26.78%), Space: 18 MB (5.00%) - LeetHub
-4 days ago
+2 weeks ago
 0944-delete-columns-to-make-sorted
 Time: 718 ms (10.53%), Space: 14.6 MB (93.05%) - LeetHub
 2 years ago
@@ -1320,7 +1326,7 @@ Time: 44 ms (8.02%), Space: 16.6 MB (31.32%) - LeetHub
 last month
 1043-partition-array-for-maximum-sum
 Time: 273 ms (94.35%), Space: 16.6 MB (80.04%) - LeetHub
-5 months ago
+6 months ago
 1046-last-stone-weight
 Time: 64 ms (9.82%), Space: 13.8 MB (68.03%) - LeetHub
 2 years ago
@@ -1384,6 +1390,9 @@ Time: 202 ms (20.62%), Space: 14.2 MB (99.11%) - LeetHub
 1102-path-with-maximum-minimum-value
 Time: 1365 ms (85.67%), Space: 15.5 MB (85.03%) - LeetHub
 2 years ago
+1105-filling-bookcase-shelves
+Time: 56 ms (28.73%), Space: 17.6 MB (30.66%) - LeetHub
+12 minutes ago
 1119-remove-vowels-from-a-string
 Time: 38 ms (29.31%), Space: 16.4 MB (76.57%) - LeetHub
 4 months ago
@@ -1393,6 +1402,9 @@ Attach NOTES - LeetHub
 1122-relative-sort-array
 Time: 39 ms (68.91%), Space: 16.4 MB (99.31%) - LeetHub
 last month
+1133-largest-unique-number
+Time: 47 ms (60.99%), Space: 16.8 MB (13.14%) - LeetHub
+2 days ago
 1136-parallel-courses
 Time: 634 ms (5.27%), Space: 17 MB (46.69%) - LeetHub
 2 years ago
@@ -1437,7 +1449,7 @@ Time: 2674 ms (57.91%), Space: 36.9 MB (87.90%) - LeetHub
 2 years ago
 1190-reverse-substrings-between-each-pair-of-parentheses
 Time: 24 ms (99.01%), Space: 16.5 MB (40.89%) - LeetHub
-2 weeks ago
+3 weeks ago
 1197-minimum-knight-moves
 Attach NOTES - LeetHub
 9 months ago
@@ -1477,6 +1489,9 @@ Time: 191 ms (72.56%), Space: 16.4 MB (77.58%) - LeetHub
 1229-meeting-scheduler
 Time: 908 ms (25.46%), Space: 21.5 MB (73.19%) - LeetHub
 2 years ago
+1230-toss-strange-coins
+Time: 847 ms (46.00%), Space: 282.5 MB (36.00%) - LeetHub
+2 days ago
 1232-check-if-it-is-a-straight-line
 Time: 103 ms (32.06%), Space: 14.3 MB (99.65%) - LeetHub
 2 years ago
@@ -1590,7 +1605,7 @@ Attach NOTES - LeetHub
 2 years ago
 1380-lucky-numbers-in-a-matrix
 Time: 121 ms (21.78%), Space: 16.9 MB (15.89%) - LeetHub
-last week
+2 weeks ago
 1382-balance-a-binary-search-tree
 Time: 173 ms (99.04%), Space: 20.2 MB (89.29%) - LeetHub
 last month
@@ -1686,13 +1701,13 @@ Time: 63 ms (10.47%), Space: 16.5 MB (20.83%) - LeetHub
 last year
 1503-last-moment-before-all-ants-fall-out-of-a-plank
 Time: 155 ms (23.02%), Space: 17.4 MB (30.22%) - LeetHub
-8 months ago
+9 months ago
 1512-number-of-good-pairs
 Time: 38 ms (75.74%), Space: 16.2 MB (82.24%) - LeetHub
 10 months ago
 1518-water-bottles
 Time: 34 ms (59.03%), Space: 16.5 MB (79.17%) - LeetHub
-3 weeks ago
+last month
 1519-number-of-nodes-in-the-sub-tree-with-the-same-label
 Time: 3309 ms (62.82%), Space: 202.4 MB (24.36%) - LeetHub
 last year
@@ -1701,7 +1716,7 @@ Time: 30 ms (76.46%), Space: 13.9 MB (50.04%) - LeetHub
 last year
 1530-number-of-good-leaf-nodes-pairs
 Time: 114 ms (51.10%), Space: 16.9 MB (39.20%) - LeetHub
-last week
+2 weeks ago
 1531-string-compression-ii
 Time: 4196 ms (5.00%), Space: 360.2 MB (27.00%) - LeetHub
 7 months ago
@@ -1752,7 +1767,7 @@ Time: 462 ms (68.52%), Space: 46.9 MB (9.18%) - LeetHub
 2 years ago
 1598-crawler-log-folder
 Time: 55 ms (19.76%), Space: 16.7 MB (36.19%) - LeetHub
-2 weeks ago
+3 weeks ago
 1602-find-nearest-right-node-in-binary-tree
 Time: 638 ms (5.24%), Space: 52.2 MB (63.99%) - LeetHub
 2 years ago
@@ -1779,7 +1794,7 @@ Time: 9124 ms (5.04%), Space: 17.6 MB (89.44%) - LeetHub
 10 months ago
 1636-sort-array-by-increasing-frequency
 Time: 48 ms (68.02%), Space: 16.6 MB (12.04%) - LeetHub
-2 days ago
+last week
 1637-widest-vertical-area-between-two-points-containing-no-points
 Time: 676 ms (100.00%), Space: 60.5 MB (5.86%) - LeetHub
 7 months ago
@@ -1792,6 +1807,9 @@ last year
 1647-minimum-deletions-to-make-character-frequencies-unique
 Time: 182 ms (72.51%), Space: 14.9 MB (17.36%) - LeetHub
 2 years ago
+1653-minimum-deletions-to-make-string-balanced
+Time: 620 ms (21.67%), Space: 20.1 MB (28.00%) - LeetHub
+2 days ago
 1657-determine-if-two-strings-are-close
 Time: 419 ms (46.00%), Space: 15.4 MB (16.80%) - LeetHub
 2 years ago
@@ -1836,7 +1854,7 @@ Time: 42 ms (45.25%), Space: 16.6 MB (59.90%) - LeetHub
 3 months ago
 1701-average-waiting-time
 Time: 799 ms (12.37%), Space: 57 MB (85.22%) - LeetHub
-2 weeks ago
+3 weeks ago
 1704-determine-if-string-halves-are-alike
 Attach NOTES - LeetHub
 6 months ago
@@ -1851,7 +1869,7 @@ Time: 41 ms (48.88%), Space: 16.3 MB (7.77%) - LeetHub
 7 months ago
 1717-maximum-score-from-removing-substrings
 Time: 363 ms (39.61%), Space: 18.2 MB (59.74%) - LeetHub
-2 weeks ago
+3 weeks ago
 1721-swapping-nodes-in-a-linked-list
 Time: 1536 ms (35.77%), Space: 48.5 MB (53.33%) - LeetHub
 2 years ago
@@ -1863,7 +1881,7 @@ Time: 486 ms (72.00%), Space: 22.6 MB (23.39%) - LeetHub
 10 months ago
 1740-find-distance-in-a-binary-tree
 Time: 68 ms (27.41%), Space: 21 MB (45.75%) - LeetHub
-last week
+2 weeks ago
 1743-restore-the-array-from-adjacent-pairs
 Time: 945 ms (46.17%), Space: 64.9 MB (93.15%) - LeetHub
 8 months ago
@@ -1902,7 +1920,7 @@ Time: 72 ms (8.89%), Space: 16.6 MB (7.53%) - LeetHub
 last year
 1823-find-the-winner-of-the-circular-game
 Time: 110 ms (29.10%), Space: 16.4 MB (84.15%) - LeetHub
-2 weeks ago
+3 weeks ago
 1832-check-if-the-sentence-is-pangram
 Time: 65 ms (23.88%), Space: 13.9 MB (54.73%) - LeetHub
 2 years ago
@@ -1914,7 +1932,7 @@ Time: 2078 ms (82.79%), Space: 63.2 MB (21.97%) - LeetHub
 2 years ago
 1836-remove-duplicates-from-an-unsorted-linked-list
 Time: 570 ms (7.09%), Space: 46.9 MB (36.52%) - LeetHub
-2 weeks ago
+3 weeks ago
 1838-frequency-of-the-most-frequent-element
 Time: 1153 ms (64.61%), Space: 31.3 MB (18.27%) - LeetHub
 8 months ago
@@ -1965,7 +1983,7 @@ Time: 140 ms (91.45%), Space: 17.4 MB (24.34%) - LeetHub
 8 months ago
 1940-longest-common-subsequence-between-sorted-arrays
 Time: 219 ms (19.20%), Space: 16.9 MB (76.16%) - LeetHub
-last month
+2 months ago
 1962-remove-stones-to-minimize-the-total
 Time: 1778 ms (95.20%), Space: 28.8 MB (32.76%) - LeetHub
 2 years ago
@@ -2001,7 +2019,7 @@ Time: 256 ms (24.71%), Space: 17.4 MB (65.59%) - LeetHub
 10 months ago
 2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points
 Time: 381 ms (20.60%), Space: 44.5 MB (29.21%) - LeetHub
-3 weeks ago
+last month
 2061-number-of-spaces-cleaning-robot-cleaned
 Time: 318 ms (65.34%), Space: 19.3 MB (76.18%) - LeetHub
 2 months ago
@@ -2049,7 +2067,7 @@ Time: 1888 ms (85.25%), Space: 28.4 MB (96.75%) - LeetHub
 last year
 2191-sort-the-jumbled-numbers
 Time: 999 ms (70.65%), Space: 25 MB (39.67%) - LeetHub
-15 hours ago
+last week
 2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph
 Time: 423 ms (99.70%), Space: 48.4 MB (25.30%) - LeetHub
 last month
@@ -2133,7 +2151,7 @@ Time: 100 ms (90.76%), Space: 14.6 MB (90.90%) - LeetHub
 last year
 2418-sort-the-people
 Time: 104 ms (60.71%), Space: 17.2 MB (14.60%) - LeetHub
-2 days ago
+last week
 2433-find-the-original-array-of-prefix-xor
 Time: 663 ms (66.25%), Space: 36.3 MB (57.35%) - LeetHub
 9 months ago
@@ -2187,7 +2205,7 @@ Time: 978 ms (97.06%), Space: 38.1 MB (46.32%) - LeetHub
 last year
 2582-pass-the-pillow
 Time: 27 ms (93.10%), Space: 16.6 MB (6.65%) - LeetHub
-3 weeks ago
+last month
 2597-the-number-of-beautiful-subsets
 Time: 2125 ms (72.18%), Space: 16.4 MB (96.46%) - LeetHub
 2 months ago
@@ -2200,6 +2218,9 @@ last year
 2642-design-graph-with-shortest-path-calculator
 Time: 799 ms (50.00%), Space: 19.5 MB (42.35%) - LeetHub
 8 months ago
+2678-number-of-senior-citizens
+Time: 57 ms (6.50%), Space: 16.5 MB (32.17%) - LeetHub
+2 minutes ago
 2706-buy-two-chocolates
 Time: 53 ms (98.04%), Space: 16.3 MB (55.48%) - LeetHub
 7 months ago

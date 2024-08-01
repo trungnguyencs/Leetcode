@@ -73,6 +73,9 @@ Medium
 2706. Buy Two Chocolates
 70.1%
 Easy
+2678. Number of Senior Citizens
+76.7%
+Easy
 2642. Design Graph With Shortest Path Calculator
 70.8%
 Hard
@@ -793,6 +796,9 @@ Medium
 1657. Determine if Two Strings Are Close
 54.1%
 Medium
+1653. Minimum Deletions to Make String Balanced
+65.9%
+Medium
 1650. Lowest Common Ancestor of a Binary Tree III
 77.8%
 Medium
@@ -1240,6 +1246,9 @@ Medium
 1232. Check If It Is a Straight Line
 39.8%
 Easy
+1230. Toss Strange Coins
+58.1%
+Medium
 1229. Meeting Scheduler
 55.2%
 Medium
@@ -1357,6 +1366,9 @@ Easy
 1108. Defanging an IP Address
 88.9%
 Easy
+1105. Filling Bookcase Shelves
+68.9%
+Medium
 1103. Distribute Candies to People
 64.6%
 Easy
