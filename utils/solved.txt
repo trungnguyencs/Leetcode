@@ -463,6 +463,9 @@ Hard
 2140. Solving Questions With Brainpower
 55.0%
 Medium
+2134. Minimum Swaps to Group All 1's Together II
+65.6%
+Medium
 2131. Longest Palindrome by Concatenating Two Letter Words
 48.1%
 Medium
@@ -1006,6 +1009,9 @@ Easy
 1461. Check If a String Contains All Binary Codes of Size K
 56.5%
 Medium
+1460. Make Two Arrays Equal by Reversing Subarrays
+74.1%
+Easy
 1457. Pseudo-Palindromic Paths in a Binary Tree
 67.5%
 Medium
@@ -1411,6 +1417,9 @@ Easy
 1064. Fixed Point
 64.1%
 Easy
+1062. Longest Repeating Substring
+61.9%
+Medium
 1061. Lexicographically Smallest Equivalent String
 76.5%
 Medium
