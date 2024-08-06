@@ -523,6 +523,9 @@ Medium
 2057. Smallest Index With Equal Value
 72.1%
 Easy
+2053. Kth Distinct String in an Array
+82.1%
+Easy
 2038. Remove Colored Pieces if Both Neighbors are the Same Color
 63.1%
 Medium
