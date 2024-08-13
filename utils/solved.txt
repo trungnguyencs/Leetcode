@@ -1576,6 +1576,9 @@ Medium
 966. Vowel Spellchecker
 51.3%
 Medium
+959. Regions Cut By Slashes
+78.0%
+Medium
 958. Check Completeness of a Binary Tree
 56.3%
 Medium
@@ -1767,6 +1770,9 @@ Medium
 Easy
 841. Keys and Rooms
 72.2%
+Medium
+840. Magic Squares In Grid
+51.7%
 Medium
 839. Similar String Groups
 54.5%
