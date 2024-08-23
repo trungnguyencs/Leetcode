@@ -1348,6 +1348,9 @@ Easy
 1143. Longest Common Subsequence
 57.7%
 Medium
+1140. Stone Game II
+73.3%
+Medium
 1137. N-th Tribonacci Number
 63.5%
 Easy
@@ -1738,6 +1741,9 @@ Medium
 861. Score After Flipping Matrix
 80.4%
 Medium
+860. Lemonade Change
+58.3%
+Easy
 859. Buddy Strings
 32.9%
 Easy
@@ -2044,6 +2050,9 @@ Easy
 653. Two Sum IV - Input is a BST
 61.1%
 Easy
+650. 2 Keys Keyboard
+59.6%
+Medium
 649. Dota2 Senate
 47.3%
 Medium
