@@ -535,6 +535,9 @@ Easy
 2024. Maximize the Confusion of an Exam
 67.3%
 Medium
+2022. Convert 1D Array Into 2D Array
+71.0%
+Easy
 2007. Find Original Array From Doubled Array
 40.5%
 Medium
@@ -616,6 +619,9 @@ Medium
 1913. Maximum Product Difference Between Two Pairs
 81.0%
 Easy
+1905. Count Sub Islands
+72.9%
+Medium
 1903. Largest Odd Number in String
 63.6%
 Easy
@@ -829,6 +835,9 @@ Medium
 1636. Sort Array by Increasing Frequency
 79.7%
 Easy
+1634. Add Two Polynomials Represented as Linked Lists
+57.7%
+Medium
 1631. Path With Minimum Effort
 59.4%
 Medium
@@ -940,6 +949,9 @@ Medium
 1518. Water Bottles
 60.5%
 Easy
+1514. Path with Maximum Probability
+65.7%
+Medium
 1513. Number of Substrings With Only 1s
 45.7%
 Medium
@@ -2029,6 +2041,9 @@ Medium
 667. Beautiful Arrangement II
 60.0%
 Medium
+666. Path Sum IV
+62.4%
+Medium
 665. Non-decreasing Array
 24.4%
 Medium
@@ -2122,6 +2137,9 @@ Easy
 593. Valid Square
 43.9%
 Medium
+590. N-ary Tree Postorder Traversal
+80.4%
+Easy
 589. N-ary Tree Preorder Traversal
 75.8%
 Easy
