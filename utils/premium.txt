@@ -1,3 +1,156 @@
+3284. Sum of Consecutive Subarrays
+58.2%
+Medium
+3279. Maximum Total Area Occupied by Pistons
+61.1%
+Hard
+3278. Find Candidates for Data Scientist Position II
+54.8%
+Medium
+3269. Constructing Two Increasing Arrays
+68.3%
+Hard
+3268. Find Overlapping Shifts II
+82.5%
+Hard
+3263. Convert Doubly Linked List to Array I
+95.6%
+Easy
+3262. Find Overlapping Shifts
+64.7%
+Medium
+3253. Construct String with Minimum Cost (Easy)
+54.4%
+Medium
+3252. Premier League Table Ranking II
+55.3%
+Medium
+3247. Number of Subsequences with Odd Sum
+55.7%
+Medium
+3246. Premier League Table Ranking
+86.0%
+Easy
+3237. Alt and Tab Simulation
+79.0%
+Medium
+3236. CEO Subordinate Hierarchy
+77.3%
+Hard
+3231. Minimum Number of Increasing Subsequence to Be Removed
+54.7%
+Hard
+3230. Customer Purchasing Behavior Analysis
+39.4%
+Medium
+3221. Maximum Array Hopping Score II
+68.3%
+Medium
+3215. Count Triplets with Even XOR Set Bits II
+74.0%
+Medium
+3214. Year on Year Growth Rate
+51.6%
+Hard
+3205. Maximum Array Hopping Score I
+80.7%
+Medium
+3204. Bitwise User Permissions Analysis
+93.6%
+Medium
+3199. Count Triplets with Even XOR Set Bits I
+84.1%
+Easy
+3198. Find Cities in Each State
+82.0%
+Easy
+3189. Minimum Moves to Get a Peaceful Board
+77.0%
+Medium
+3188. Find Top Scoring Students II
+39.3%
+Hard
+3183. The Number of Ways to Make the Sum
+57.1%
+Medium
+3182. Find Top Scoring Students
+52.3%
+Medium
+3173. Bitwise OR of Adjacent Elements
+95.4%
+Easy
+3172. Second Day Verification
+72.3%
+Easy
+3167. Better Compression of String
+75.9%
+Medium
+3166. Calculate Parking Fees and Duration
+52.0%
+Medium
+3157. Find the Level of Tree with Minimum Sum
+69.5%
+Medium
+3156. Employee Task Duration and Concurrent Tasks
+57.9%
+Hard
+3155. Maximum Number of Upgradable Servers
+47.9%
+Medium
+3150. Invalid Tweets II
+87.5%
+Easy
+3141. Maximum Hamming Distances
+71.6%
+Hard
+3140. Consecutive Available Seats II
+62.8%
+Medium
+3135. Equalize Strings by Adding or Removing Characters at Ends
+55.8%
+Medium
+3126. Server Utilization Time
+57.9%
+Medium
+3125. Maximum Number That Makes Result of Bitwise AND Zero
+69.9%
+Medium
+3124. Find Longest Calls
+68.5%
+Medium
+3119. Maximum Number of Potholes That Can Be Fixed
+60.3%
+Medium
+3118. Friday Purchase III
+60.7%
+Medium
+3109. Find the Index of Permutation
+42.7%
+Medium
+3104. Find Longest Self-Contained Substring
+56.7%
+Hard
+3103. Find Trending Hashtags II
+63.7%
+Hard
+3094. Guess the Number Using Bitwise Questions II
+81.5%
+Medium
+3089. Find Bursty Behavior
+40.0%
+Medium
+3088. Make String Anti-palindrome
+52.7%
+Hard
+3087. Find Trending Hashtags
+63.0%
+Medium
+3078. Match Alphanumerical Pattern in Matrix I
+69.0%
+Medium
+3073. Maximum Increasing Triplet Value
+40.7%
+Medium
 3064. Guess the Number Using Bitwise Questions I
 96.9%
 Medium

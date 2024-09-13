@@ -1,3 +1,6 @@
+3217. Delete Nodes From Linked List Present in Array
+69.3%
+Medium
 3110. Score of a String
 94.4%
 Easy
@@ -57,6 +60,9 @@ Medium
 Easy
 2816. Double a Number Represented as a Linked List
 61.6%
+Medium
+2807. Insert Greatest Common Divisors in Linked List
+92.4%
 Medium
 2802. Find The K-th Lucky Number
 75.3%
@@ -328,6 +334,9 @@ Easy
 2331. Evaluate Boolean Binary Tree
 82.9%
 Easy
+2326. Spiral Matrix IV
+82.4%
+Medium
 2316. Count Unreachable Pairs of Nodes in an Undirected Graph
 50.1%
 Medium
@@ -429,6 +438,9 @@ Medium
 Medium
 2224. Minimum Number of Operations to Convert Time
 65.0%
+Easy
+2220. Minimum Bit Flips to Convert Number
+87.5%
 Easy
 2215. Find the Difference of Two Arrays
 78.3%
@@ -532,6 +544,9 @@ Medium
 2037. Minimum Number of Moves to Seat Everyone
 85.3%
 Easy
+2028. Find Missing Observations
+57.5%
+Medium
 2024. Maximize the Confusion of an Exam
 67.3%
 Medium
@@ -628,6 +643,9 @@ Easy
 1897. Redistribute Characters to Make All Strings Equal
 67.9%
 Easy
+1894. Find the Student that Will Replace the Chalk
+53.2%
+Medium
 1887. Reduction Operations to Make the Array Elements Equal
 73.5%
 Medium
@@ -775,6 +793,9 @@ Easy
 1685. Sum of Absolute Differences in a Sorted Array
 69.4%
 Medium
+1684. Count the Number of Consistent Strings
+88.0%
+Easy
 1680. Concatenation of Consecutive Binary Numbers
 57.0%
 Medium
@@ -1126,6 +1147,9 @@ Medium
 1372. Longest ZigZag Path in a Binary Tree
 66.6%
 Medium
+1367. Linked List in Binary Tree
+52.2%
+Medium
 1359. Count All Valid Pickup and Delivery Options
 65.4%
 Hard
@@ -1179,6 +1203,9 @@ Medium
 Medium
 1318. Minimum Flips to Make a OR b Equal to c
 71.3%
+Medium
+1310. XOR Queries of a Subarray
+74.7%
 Medium
 1306. Jump Game III
 64.2%
