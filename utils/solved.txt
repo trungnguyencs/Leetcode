@@ -2230,6 +2230,9 @@ Medium
 540. Single Element in a Sorted Array
 59.0%
 Medium
+539. Minimum Time Difference
+60.9%
+Medium
 538. Convert BST to Greater Tree
 68.4%
 Medium
