@@ -5,7 +5,7 @@ Leetcode profile: https://leetcode.com/gauau/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/gauau/)|1176|
+|[All-time](https://leetcode.com/gauau/)|1178|
 |[2020 - 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
 |[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|795|
 
@@ -606,6 +606,7 @@ Leetcode profile: https://leetcode.com/gauau/
 |[877. Stone Game](https://leetcode.com/problems/stone-game/)|Medium|||
 |[880. Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|Medium||last year|[0880-decoded-string-at-index.py](https://github.com/trungnguyencs/Leetcode/blob/main/0880-decoded-string-at-index/0880-decoded-string-at-index.py/)|
 |[881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Medium||2 years ago|[0881-boats-to-save-people.py](https://github.com/trungnguyencs/Leetcode/blob/main/0881-boats-to-save-people/0881-boats-to-save-people.py/)|
+|[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|Easy|||
 |[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|Medium||2 years ago|[0886-possible-bipartition.py](https://github.com/trungnguyencs/Leetcode/blob/main/0886-possible-bipartition/0886-possible-bipartition.py/)|
 |[887. Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)|Hard|||
 |[890. Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|Medium||2 years ago|[0890-find-and-replace-pattern.py](https://github.com/trungnguyencs/Leetcode/blob/main/0890-find-and-replace-pattern/0890-find-and-replace-pattern.py/)|
@@ -967,6 +968,7 @@ Leetcode profile: https://leetcode.com/gauau/
 |[1845. Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)|Medium||last year|[1845-seat-reservation-manager.py](https://github.com/trungnguyencs/Leetcode/blob/main/1845-seat-reservation-manager/1845-seat-reservation-manager.py/)|
 |[1846. Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|Medium||10 months ago|[1846-maximum-element-after-decreasing-and-rearranging.py](https://github.com/trungnguyencs/Leetcode/blob/main/1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.py/)|
 |[1854. Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)|Easy||last year|[1854-maximum-population-year.py](https://github.com/trungnguyencs/Leetcode/blob/main/1854-maximum-population-year/1854-maximum-population-year.py/)|
+|[1858. Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/)|Medium|Premium||
 |[1870. Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)|Medium||last year|[1870-minimum-speed-to-arrive-on-time.py](https://github.com/trungnguyencs/Leetcode/blob/main/1870-minimum-speed-to-arrive-on-time/1870-minimum-speed-to-arrive-on-time.py/)|
 |[1874. Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/)|Medium|Premium|2 years ago|[1874-minimize-product-sum-of-two-arrays.py](https://github.com/trungnguyencs/Leetcode/blob/main/1874-minimize-product-sum-of-two-arrays/1874-minimize-product-sum-of-two-arrays.py/)|
 |[1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|Medium||10 months ago|[1877-minimize-maximum-pair-sum-in-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.py/)|

@@ -661,6 +661,9 @@ Medium
 1870. Minimum Speed to Arrive on Time
 46.9%
 Medium
+1858. Longest Word With All Prefixes
+70.0%
+Medium
 1854. Maximum Population Year
 60.2%
 Easy
@@ -1744,6 +1747,9 @@ Hard
 886. Possible Bipartition
 50.3%
 Medium
+884. Uncommon Words from Two Sentences
+75.1%
+Easy
 881. Boats to Save People
 56.2%
 Medium
