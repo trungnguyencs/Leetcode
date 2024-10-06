@@ -13,6 +13,9 @@ Medium
 3062. Winner of the Linked List Game
 85.4%
 Easy
+3043. Find the Length of the Longest Common Prefix
+56.0%
+Medium
 3016. Minimum Number of Pushes to Type Word II
 67.8%
 Medium
@@ -700,6 +703,9 @@ Easy
 1814. Count Nice Pairs in an Array
 49.6%
 Medium
+1813. Sentence Similarity III
+40.0%
+Medium
 1804. Implement Trie II (Prefix Tree)
 60.5%
 Medium
@@ -892,6 +898,9 @@ Medium
 1598. Crawler Log Folder
 70.3%
 Easy
+1590. Make Sum Divisible by P
+39.8%
+Medium
 1586. Binary Search Tree Iterator II
 70.6%
 Medium
@@ -952,6 +961,9 @@ Medium
 1533. Find the Index of the Large Integer
 56.0%
 Medium
+1531. String Compression II
+52.9%
+Hard
 1530. Number of Good Leaf Nodes Pairs
 61.5%
 Medium
@@ -1189,9 +1201,9 @@ Hard
 1332. Remove Palindromic Subsequences
 76.3%
 Easy
-1531. String Compression II
-52.9%
-Hard
+1331. Rank Transform of an Array
+70.4%
+Easy
 1329. Sort the Matrix Diagonally
 83.0%
 Medium
