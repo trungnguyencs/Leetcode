@@ -384,7 +384,7 @@ pad zeros to file names
 2 years ago
 0179-largest-number
 Time: 49 ms (16.69%), Space: 16.5 MB (74.54%) - LeetHub
-2 weeks ago
+3 weeks ago
 0189-rotate-array
 pad zeros to file names
 2 years ago
@@ -1626,7 +1626,7 @@ Time: 43 ms (75.33%), Space: 17.1 MB (80.39%) - LeetHub
 5 months ago
 1331-rank-transform-of-an-array
 Time: 246 ms (47.78%), Space: 35.7 MB (59.27%) - LeetHub
-3 days ago
+4 days ago
 1332-remove-palindromic-subsequences
 Time: 41 ms (48.07%), Space: 13.8 MB (53.87%) - LeetHub
 2 years ago
@@ -1845,7 +1845,7 @@ Time: 462 ms (68.52%), Space: 46.9 MB (9.18%) - LeetHub
 2 years ago
 1590-make-sum-divisible-by-p
 Time: 391 ms (76.36%), Space: 35 MB (76.36%) - LeetHub
-2 days ago
+3 days ago
 1598-crawler-log-folder
 Time: 55 ms (19.76%), Space: 16.7 MB (36.19%) - LeetHub
 3 months ago
@@ -2001,7 +2001,7 @@ Attach NOTES - LeetHub
 last year
 1813-sentence-similarity-iii
 Time: 35 ms (54.04%), Space: 16.8 MB (13.04%) - LeetHub
-1 minute ago
+19 hours ago
 1814-count-nice-pairs-in-an-array
 Time: 682 ms (14.16%), Space: 26.9 MB (33.99%) - LeetHub
 last year
@@ -2313,7 +2313,7 @@ Time: 482 ms (28.42%), Space: 51 MB (90.29%) - LeetHub
 5 months ago
 2491-divide-players-into-teams-of-equal-skill
 Time: 392 ms (79.29%), Space: 29.4 MB (68.50%) - LeetHub
-2 days ago
+3 days ago
 2492-minimum-score-of-a-path-between-two-cities
 Time: 1606 ms (94.60%), Space: 75.8 MB (35.81%) - LeetHub
 last year
@@ -2347,6 +2347,9 @@ last year
 2678-number-of-senior-citizens
 Time: 57 ms (6.50%), Space: 16.5 MB (32.17%) - LeetHub
 3 months ago
+2696-minimum-string-length-after-removing-substrings
+Time: 41 ms (73.16%), Space: 16.6 MB (7.81%) - LeetHub
+5 minutes ago
 2706-buy-two-chocolates
 Time: 53 ms (98.04%), Space: 16.3 MB (55.48%) - LeetHub
 10 months ago

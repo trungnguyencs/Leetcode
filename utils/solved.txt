@@ -82,6 +82,9 @@ Medium
 2706. Buy Two Chocolates
 70.1%
 Easy
+2696. Minimum String Length After Removing Substrings
+70.8%
+Easy
 2678. Number of Senior Citizens
 76.7%
 Easy
