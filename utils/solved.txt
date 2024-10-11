@@ -61,6 +61,9 @@ Medium
 2848. Points That Intersect With Cars
 74.5%
 Easy
+2838. Maximum Coins Heroes Can Collect
+72.3%
+Medium
 2816. Double a Number Represented as a Linked List
 61.6%
 Medium
@@ -610,6 +613,9 @@ Medium
 1945. Sum of Digits of String After Convert
 61.9%
 Easy
+1942. The Number of the Smallest Unoccupied Chair
+48.5%
+Medium
 1940. Longest Common Subsequence Between Sorted Arrays
 80.3%
 Medium
@@ -1635,6 +1641,9 @@ Medium
 Medium
 966. Vowel Spellchecker
 51.3%
+Medium
+962. Maximum Width Ramp
+55.2%
 Medium
 959. Regions Cut By Slashes
 78.0%

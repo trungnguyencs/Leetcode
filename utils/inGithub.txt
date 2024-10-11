@@ -486,7 +486,7 @@ Time: 1365 ms (79.06%), Space: 33.2 MB (64.19%) - LeetHub
 last year
 0241-different-ways-to-add-parentheses
 Time: 30 ms (93.64%), Space: 16.8 MB (27.95%) - LeetHub
-2 weeks ago
+3 weeks ago
 0242-valid-anagram
 pad zeros to file names
 2 years ago
@@ -1062,7 +1062,7 @@ Time: 38 ms (92.79%), Space: 16.8 MB (57.88%) - LeetHub
 last year
 0729-my-calendar-i
 Time: 21 ms (68.80%), Space: 45.7 MB (23.29%) - LeetHub
-last week
+2 weeks ago
 0734-sentence-similarity
 Time: 55 ms (44.33%), Space: 13.8 MB (86.33%) - LeetHub
 last year
@@ -1249,6 +1249,9 @@ pad zeros to file names
 0918-maximum-sum-circular-subarray
 Time: 537 ms (85.63%), Space: 18.8 MB (91.66%) - LeetHub
 last year
+0921-minimum-add-to-make-parentheses-valid
+Time: 35 ms (55.20%), Space: 16.6 MB (31.13%) - LeetHub
+yesterday
 0923-3sum-with-multiplicity
 pad zeros to file names
 2 years ago
@@ -1303,6 +1306,9 @@ last year
 0959-regions-cut-by-slashes
 Time: 156 ms (38.55%), Space: 17.7 MB (36.73%) - LeetHub
 2 months ago
+0962-maximum-width-ramp
+Time: 400 ms (18.25%), Space: 25.2 MB (22.47%) - LeetHub
+3 hours ago
 0967-numbers-with-same-consecutive-differences
 pad zeros to file names
 2 years ago
@@ -1455,7 +1461,7 @@ Time: 39 ms (68.91%), Space: 16.4 MB (99.31%) - LeetHub
 4 months ago
 1133-largest-unique-number
 Time: 49 ms (46.36%), Space: 16.9 MB (18.53%) - LeetHub
-4 days ago
+last week
 1134-armstrong-number
 Time: 34 ms (53.51%), Space: 16.5 MB (58.30%) - LeetHub
 2 months ago
@@ -1614,7 +1620,7 @@ Time: 583 ms (19.98%), Space: 21.2 MB (69.45%) - LeetHub
 2 years ago
 1310-xor-queries-of-a-subarray
 Time: 307 ms (45.51%), Space: 31.3 MB (34.46%) - LeetHub
-3 weeks ago
+last month
 1318-minimum-flips-to-make-a-or-b-equal-to-c
 Time: 44 ms (59.78%), Space: 16.4 MB (25.27%) - LeetHub
 last year
@@ -1626,7 +1632,7 @@ Time: 43 ms (75.33%), Space: 17.1 MB (80.39%) - LeetHub
 5 months ago
 1331-rank-transform-of-an-array
 Time: 246 ms (47.78%), Space: 35.7 MB (59.27%) - LeetHub
-4 days ago
+last week
 1332-remove-palindromic-subsequences
 Time: 41 ms (48.07%), Space: 13.8 MB (53.87%) - LeetHub
 2 years ago
@@ -1845,7 +1851,7 @@ Time: 462 ms (68.52%), Space: 46.9 MB (9.18%) - LeetHub
 2 years ago
 1590-make-sum-divisible-by-p
 Time: 391 ms (76.36%), Space: 35 MB (76.36%) - LeetHub
-3 days ago
+last week
 1598-crawler-log-folder
 Time: 55 ms (19.76%), Space: 16.7 MB (36.19%) - LeetHub
 3 months ago
@@ -1923,7 +1929,7 @@ Time: 4013 ms (17.32%), Space: 14 MB (62.20%) - LeetHub
 2 years ago
 1684-count-the-number-of-consistent-strings
 Time: 231 ms (28.89%), Space: 18.3 MB (99.76%) - LeetHub
-3 weeks ago
+last month
 1685-sum-of-absolute-differences-in-a-sorted-array
 Time: 761 ms (26.92%), Space: 34.4 MB (6.73%) - LeetHub
 last year
@@ -2001,7 +2007,7 @@ Attach NOTES - LeetHub
 last year
 1813-sentence-similarity-iii
 Time: 35 ms (54.04%), Space: 16.8 MB (13.04%) - LeetHub
-19 hours ago
+5 days ago
 1814-count-nice-pairs-in-an-array
 Time: 682 ms (14.16%), Space: 26.9 MB (33.99%) - LeetHub
 last year
@@ -2040,7 +2046,7 @@ Time: 43 ms (72.59%), Space: 13.8 MB (69.98%) - LeetHub
 last year
 1858-longest-word-with-all-prefixes
 Time: 486 ms (13.00%), Space: 45.8 MB (43.00%) - LeetHub
-2 weeks ago
+3 weeks ago
 1870-minimum-speed-to-arrive-on-time
 Time: 5175 ms (14.85%), Space: 30.4 MB (76.19%) - LeetHub
 last year
@@ -2083,6 +2089,9 @@ last year
 1940-longest-common-subsequence-between-sorted-arrays
 Time: 219 ms (19.20%), Space: 16.9 MB (76.16%) - LeetHub
 5 months ago
+1942-the-number-of-the-smallest-unoccupied-chair
+Time: 567 ms (63.96%), Space: 22.7 MB (84.98%) - LeetHub
+4 minutes ago
 1945-sum-of-digits-of-string-after-convert
 Time: 46 ms (8.45%), Space: 16.6 MB (37.00%) - LeetHub
 last month
@@ -2271,7 +2280,7 @@ Time: 104 ms (60.71%), Space: 17.2 MB (14.60%) - LeetHub
 3 months ago
 2419-longest-subarray-with-maximum-bitwise-and
 Time: 683 ms (14.08%), Space: 31.3 MB (41.20%) - LeetHub
-3 weeks ago
+last month
 2433-find-the-original-array-of-prefix-xor
 Time: 663 ms (66.25%), Space: 36.3 MB (57.35%) - LeetHub
 last year
@@ -2286,7 +2295,7 @@ Time: 104 ms (80.99%), Space: 16.8 MB (77.07%) - LeetHub
 6 months ago
 2455-average-value-of-even-numbers-that-are-divisible-by-three
 Time: 79 ms (10.73%), Space: 16.6 MB (81.25%) - LeetHub
-3 weeks ago
+last month
 2469-convert-the-temperature
 Time: 60 ms (50.00%), Space: 13.8 MB (100.00%) - LeetHub
 2 years ago
@@ -2313,7 +2322,7 @@ Time: 482 ms (28.42%), Space: 51 MB (90.29%) - LeetHub
 5 months ago
 2491-divide-players-into-teams-of-equal-skill
 Time: 392 ms (79.29%), Space: 29.4 MB (68.50%) - LeetHub
-3 days ago
+last week
 2492-minimum-score-of-a-path-between-two-cities
 Time: 1606 ms (94.60%), Space: 75.8 MB (35.81%) - LeetHub
 last year
@@ -2349,7 +2358,7 @@ Time: 57 ms (6.50%), Space: 16.5 MB (32.17%) - LeetHub
 3 months ago
 2696-minimum-string-length-after-removing-substrings
 Time: 41 ms (73.16%), Space: 16.6 MB (7.81%) - LeetHub
-5 minutes ago
+4 days ago
 2706-buy-two-chocolates
 Time: 53 ms (98.04%), Space: 16.3 MB (55.48%) - LeetHub
 10 months ago
@@ -2371,6 +2380,9 @@ last month
 2816-double-a-number-represented-as-a-linked-list
 Time: 315 ms (35.21%), Space: 19.2 MB (86.07%) - LeetHub
 5 months ago
+2838-maximum-coins-heroes-can-collect
+Time: 634 ms (75.28%), Space: 40.1 MB (35.95%) - LeetHub
+2 days ago
 2849-determine-if-a-cell-is-reachable-at-a-given-time
 Time: 39 ms (67.84%), Space: 16.3 MB (73.40%) - LeetHub
 last year
