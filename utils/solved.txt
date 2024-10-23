@@ -91,9 +91,15 @@ Easy
 2678. Number of Senior Citizens
 76.7%
 Easy
+2664. The Knight’s Tour
+73.2%
+Medium
 2642. Design Graph With Shortest Path Calculator
 70.8%
 Hard
+2641. Cousins in Binary Tree II
+74.6%
+Medium
 2616. Minimize the Maximum Difference of Pairs
 44.0%
 Medium
@@ -139,6 +145,9 @@ Medium
 2586. Count the Number of Vowel Strings in Range
 74.1%
 Easy
+2583. Kth Largest Sum in a Binary Tree
+59.4%
+Medium
 2582. Pass the Pillow
 57.2%
 Easy
@@ -907,6 +916,9 @@ Medium
 1598. Crawler Log Folder
 70.3%
 Easy
+1593. Split a String Into the Max Number of Unique Substrings
+68.2%
+Medium
 1590. Make Sum Divisible by P
 39.8%
 Medium
@@ -955,6 +967,9 @@ Medium
 1550. Three Consecutive Odds
 63.1%
 Easy
+1545. Find Kth Bit in Nth Binary String
+70.3%
+Medium
 1544. Make The String Great
 63.1%
 Easy

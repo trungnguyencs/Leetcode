@@ -66,6 +66,12 @@ allProblems.sort(key=lambda p: int(p.id))
 solvedProblems = list(filter(lambda p: p.isSolved=='True', allProblems))
 githubProblems = list(filter(lambda p: p.lastSolved != '', allProblems))
 
+toAddToSolvedTxt = [p for p in githubProblems if p not in solvedProblems]
+if toAddToSolvedTxt:
+  print("- To add to solved.txt: ")
+  for p in toAddToSolvedTxt:
+    print(p.id + '. ' + p.originTitle)
+
 markdownLines = [p.markdown for p in solvedProblems]
 
 headerPath = "readmeHeader.txt"
@@ -77,4 +83,4 @@ readmePath = r"../README.md"
 with open(readmePath, "w") as f:
     f.write(readmeStr)
     
-print("Updated successfully!")
+print("\nUpdated successfully!")
