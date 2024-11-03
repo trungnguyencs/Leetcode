@@ -9,4 +9,4 @@ class Solution:
         
     def sameEndSubstringCountHelper(self, s, counterL, counterR):
         counterDiff = [b - a for a, b in zip(counterL, counterR)]
-        return sum([n*(n + 1)//2 for n in counterDiff])
+        return sum([n*(n + 1)//2 for n in counterDiff]) #if S has n character 'a' then it has n*(n+1)//2 substrings that both start and end with 'a'
