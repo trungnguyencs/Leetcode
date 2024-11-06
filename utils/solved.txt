@@ -1,6 +1,9 @@
 3217. Delete Nodes From Linked List Present in Array
 69.3%
 Medium
+3163. String Compression III
+68.2%
+Medium
 3110. Score of a String
 94.4%
 Easy
@@ -25,6 +28,9 @@ Medium
 3014. Minimum Number of Pushes to Type Word I
 60.0%
 Easy
+3011. Find if Array Can Be Sorted
+66.9%
+Medium
 3005. Count Elements With Maximum Frequency
 75.0%
 Easy
@@ -48,6 +54,12 @@ Medium
 Medium
 2958. Length of Longest Subarray With at Most K Frequency
 52.3%
+Medium
+2955. Number of Same-End Substrings
+61.7%
+Medium
+2914. Minimum Number of Changes to Make Binary String Beautiful
+76.9%
 Medium
 2870. Minimum Number of Operations to Make Array Empty
 61.8%
@@ -88,6 +100,9 @@ Easy
 2696. Minimum String Length After Removing Substrings
 70.8%
 Easy
+2684. Maximum Number of Moves in a Grid
+59.4%
+Medium
 2678. Number of Senior Citizens
 76.7%
 Easy
@@ -225,6 +240,9 @@ Medium
 Easy
 2505. Bitwise OR of All Subsequence Sums
 68.1%
+Medium
+2501. Longest Square Streak in an Array
+53.0%
 Medium
 2498. Frog Jump II
 61.3%
@@ -484,6 +502,9 @@ Medium
 2187. Minimum Time to Complete Trips
 39.0%
 Medium
+2185. Counting Words With a Given Prefix
+78.4%
+Easy
 2149. Rearrange Array Elements by Sign
 83.9%
 Medium
@@ -612,6 +633,9 @@ Medium
 Medium
 1961. Check If String Is a Prefix of Array
 52.9%
+Easy
+1957. Delete Characters to Make Fancy String
+72.1%
 Easy
 1947. Maximum Compatibility Score Sum
 61.7%
@@ -1330,6 +1354,9 @@ Medium
 1236. Web Crawler
 67.6%
 Medium
+1233. Remove Sub-Folders from the Filesystem
+75.5%
+Medium
 1232. Check If It Is a Straight Line
 39.8%
 Easy
@@ -1921,6 +1948,9 @@ Medium
 797. All Paths From Source to Target
 82.4%
 Medium
+796. Rotate String
+63.0%
+Easy
 794. Valid Tic-Tac-Toe State
 34.9%
 Medium
