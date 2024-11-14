@@ -10,5 +10,4 @@ class Solution:
         return l
         
     def minStoreRequired(self, quantities, x):
-        stores = sum(ceil(q/x) for q in quantities)
-        return stores
+        return sum(ceil(q/x) for q in quantities)
