@@ -289,6 +289,9 @@ Medium
 2465. Number of Distinct Averages
 57.9%
 Easy
+2461. Maximum Sum of Distinct Subarrays With Length K
+34.9%
+Medium
 2457. Minimum Addition to Make Integer Beautiful
 37.1%
 Medium
@@ -898,6 +901,9 @@ Medium
 1653. Minimum Deletions to Make String Balanced
 65.9%
 Medium
+1652. Defuse the Bomb
+79.0%
+Easy
 1650. Lowest Common Ancestor of a Binary Tree III
 77.8%
 Medium
