@@ -229,6 +229,9 @@ Easy
 2517. Maximum Tastiness of Candy Basket
 62.8%
 Medium
+2516. Take K of Each Character From Left and Right
+52.0%
+Medium
 2515. Shortest Distance to Target String in a Circular Array
 48.1%
 Easy
@@ -720,6 +723,9 @@ Medium
 Medium
 1870. Minimum Speed to Arrive on Time
 46.9%
+Medium
+1861. Rotating the Box
+78.6%
 Medium
 1858. Longest Word With All Prefixes
 70.0%
@@ -1537,6 +1543,9 @@ Medium
 1086. High Five
 74.9%
 Easy
+1072. Flip Columns For Maximum Number of Equal Rows
+78.3%
+Medium
 1071. Greatest Common Divisor of Strings
 52.3%
 Easy

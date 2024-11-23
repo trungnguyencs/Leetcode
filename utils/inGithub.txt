@@ -1191,7 +1191,7 @@ Time: 32 ms (96.14%), Space: 16.5 MB (58.80%) - LeetHub
 6 months ago
 0862-shortest-subarray-with-sum-at-least-k
 Time: 379 ms (18.64%), Space: 37 MB (7.21%) - LeetHub
-2 days ago
+last week
 0863-all-nodes-distance-k-in-binary-tree
 Time: 54 ms (61.72%), Space: 16.8 MB (35.25%) - LeetHub
 last year
@@ -1429,6 +1429,9 @@ Time: 109 ms (74.87%), Space: 14.4 MB (74.23%) - LeetHub
 1071-greatest-common-divisor-of-strings
 Time: 40 ms (54.67%), Space: 13.8 MB (98.52%) - LeetHub
 last year
+1072-flip-columns-for-maximum-number-of-equal-rows
+Time: 49 ms (82.41%), Space: 19.8 MB (28.64%) - LeetHub
+2 days ago
 1087-brace-expansion
 Time: 58 ms (44.87%), Space: 14.1 MB (68.50%) - LeetHub
 2 years ago
@@ -1917,7 +1920,7 @@ Time: 182 ms (72.51%), Space: 14.9 MB (17.36%) - LeetHub
 2 years ago
 1652-defuse-the-bomb
 Time: 0 ms (100.00%), Space: 16.7 MB (23.22%) - LeetHub
-1 hour ago
+5 days ago
 1653-minimum-deletions-to-make-string-balanced
 Time: 620 ms (21.67%), Space: 20.1 MB (28.00%) - LeetHub
 4 months ago
@@ -2071,6 +2074,9 @@ last year
 1858-longest-word-with-all-prefixes
 Time: 486 ms (13.00%), Space: 45.8 MB (43.00%) - LeetHub
 2 months ago
+1861-rotating-the-box
+Time: 1852 ms (91.46%), Space: 29.1 MB (43.28%) - LeetHub
+15 hours ago
 1870-minimum-speed-to-arrive-on-time
 Time: 5175 ms (14.85%), Space: 30.4 MB (76.19%) - LeetHub
 last year
@@ -2121,7 +2127,7 @@ Time: 46 ms (8.45%), Space: 16.6 MB (37.00%) - LeetHub
 2 months ago
 1957-delete-characters-to-make-fancy-string
 Time: 361 ms (30.63%), Space: 18.6 MB (55.17%) - LeetHub
-2 weeks ago
+3 weeks ago
 1962-remove-stones-to-minimize-the-total
 Time: 1778 ms (95.20%), Space: 28.8 MB (32.76%) - LeetHub
 2 years ago
@@ -2172,10 +2178,10 @@ Time: 318 ms (65.34%), Space: 19.3 MB (76.18%) - LeetHub
 6 months ago
 2064-minimized-maximum-of-products-distributed-to-any-store
 Time: 569 ms (70.59%), Space: 28.7 MB (73.44%) - LeetHub
-5 days ago
+last week
 2070-most-beautiful-item-for-each-query
 Time: 164 ms (62.20%), Space: 66.2 MB (61.83%) - LeetHub
-last week
+2 weeks ago
 2073-time-needed-to-buy-tickets
 Time: 33 ms (95.85%), Space: 16.6 MB (51.83%) - LeetHub
 7 months ago
@@ -2196,7 +2202,7 @@ Attach NOTES - LeetHub
 last year
 2107-number-of-unique-flavors-after-sharing-k-candies
 Time: 208 ms (14.29%), Space: 42.9 MB (6.90%) - LeetHub
-3 days ago
+last week
 2108-find-first-palindromic-string-in-the-array
 Time: 87 ms (33.21%), Space: 16.7 MB (81.18%) - LeetHub
 9 months ago
@@ -2223,7 +2229,7 @@ Time: 1053 ms (32.13%), Space: 47.2 MB (69.94%) - LeetHub
 9 months ago
 2185-counting-words-with-a-given-prefix
 Time: 0 ms (100.00%), Space: 16.7 MB (27.89%) - LeetHub
-3 weeks ago
+last month
 2187-minimum-time-to-complete-trips
 Time: 1888 ms (85.25%), Space: 28.4 MB (96.75%) - LeetHub
 last year
@@ -2343,7 +2349,7 @@ Time: 79 ms (10.73%), Space: 16.6 MB (81.25%) - LeetHub
 2 months ago
 2461-maximum-sum-of-distinct-subarrays-with-length-k
 Attach NOTES - LeetHub
-1 minute ago
+5 days ago
 2469-convert-the-temperature
 Time: 60 ms (50.00%), Space: 13.8 MB (100.00%) - LeetHub
 2 years ago
@@ -2370,7 +2376,7 @@ Time: 482 ms (28.42%), Space: 51 MB (90.29%) - LeetHub
 6 months ago
 2490-circular-sentence
 Time: 0 ms (100.00%), Space: 16.5 MB (46.28%) - LeetHub
-2 weeks ago
+3 weeks ago
 2491-divide-players-into-teams-of-equal-skill
 Time: 392 ms (79.29%), Space: 29.4 MB (68.50%) - LeetHub
 last month
@@ -2382,10 +2388,13 @@ Time: 553 ms (97.66%), Space: 31.2 MB (42.99%) - LeetHub
 last year
 2501-longest-square-streak-in-an-array
 Time: 199 ms (16.22%), Space: 34 MB (46.33%) - LeetHub
-3 weeks ago
+last month
 2505-bitwise-or-of-all-subsequence-sums
 Time: 1425 ms (5.06%), Space: 28.3 MB (37.47%) - LeetHub
 7 months ago
+2516-take-k-of-each-character-from-left-and-right
+Time: 242 ms (45.89%), Space: 17.3 MB (45.93%) - LeetHub
+3 days ago
 2530-maximal-score-after-applying-k-operations
 Time: 723 ms (63.01%), Space: 31.1 MB (92.16%) - LeetHub
 last month
@@ -2397,7 +2406,7 @@ Time: 978 ms (97.06%), Space: 38.1 MB (46.32%) - LeetHub
 last year
 2563-count-the-number-of-fair-pairs
 Time: 277 ms (41.07%), Space: 30.7 MB (61.70%) - LeetHub
-last week
+2 weeks ago
 2582-pass-the-pillow
 Time: 27 ms (93.10%), Space: 16.6 MB (6.65%) - LeetHub
 4 months ago
@@ -2427,7 +2436,7 @@ Time: 57 ms (6.50%), Space: 16.5 MB (32.17%) - LeetHub
 4 months ago
 2684-maximum-number-of-moves-in-a-grid
 Time: 306 ms (39.39%), Space: 25.8 MB (97.53%) - LeetHub
-3 weeks ago
+last month
 2696-minimum-string-length-after-removing-substrings
 Time: 41 ms (73.16%), Space: 16.6 MB (7.81%) - LeetHub
 last month
@@ -2466,10 +2475,10 @@ Attach NOTES - LeetHub
 last year
 2914-minimum-number-of-changes-to-make-binary-string-beautiful
 Time: 35 ms (13.51%), Space: 16.8 MB (89.02%) - LeetHub
-2 weeks ago
+3 weeks ago
 2955-number-of-same-end-substrings
 Time: 794 ms (82.27%), Space: 37 MB (51.25%) - LeetHub
-2 weeks ago
+3 weeks ago
 2958-length-of-longest-subarray-with-at-most-k-frequency
 Time: 1267 ms (14.49%), Space: 32 MB (11.15%) - LeetHub
 8 months ago
@@ -2508,10 +2517,10 @@ Time: 47 ms (7.18%), Space: 16.6 MB (6.63%) - LeetHub
 6 months ago
 3163-string-compression-iii
 Time: 163 ms (85.82%), Space: 27.6 MB (15.10%) - LeetHub
-2 weeks ago
+3 weeks ago
 3217-delete-nodes-from-linked-list-present-in-array
 Time: 721 ms (56.98%), Space: 55.9 MB (30.86%) - LeetHub
 2 months ago
 3254-find-the-power-of-k-size-subarrays-i
 Time: 3 ms (87.89%), Space: 16.7 MB (56.34%) - LeetHub
-2 days ago
+last week
