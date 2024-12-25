@@ -5,7 +5,7 @@ Leetcode profile: https://leetcode.com/gauau/
 
 |     Year     |     Solved    |
 |--------------|---------------|
-|[All-time](https://leetcode.com/gauau/)|1237|
+|[All-time](https://leetcode.com/gauau/)|1238|
 |[2020 - 2021](https://github.com/trungnguyencs/Leetcode/tree/main/_2020-2021)|427|
 |[2022 - 2024](https://github.com/trungnguyencs/Leetcode)|873|
 
@@ -734,6 +734,7 @@ Leetcode profile: https://leetcode.com/gauau/
 |[1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|Easy||last year|[1137-n-th-tribonacci-number.py](https://github.com/trungnguyencs/Leetcode/blob/main/1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.py/)|
 |[1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/)|Medium||4 months ago|[1140-stone-game-ii.py](https://github.com/trungnguyencs/Leetcode/blob/main/1140-stone-game-ii/1140-stone-game-ii.py/)|
 |[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Medium||last year|[1143-longest-common-subsequence.py](https://github.com/trungnguyencs/Leetcode/blob/main/1143-longest-common-subsequence/1143-longest-common-subsequence.py/)|
+|[1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/)|Medium|||
 |[1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)|Easy|Premium|last year|[1150-check-if-a-number-is-majority-element-in-a-sorted-array.py](https://github.com/trungnguyencs/Leetcode/blob/main/1150-check-if-a-number-is-majority-element-in-a-sorted-array/1150-check-if-a-number-is-majority-element-in-a-sorted-array.py/)|
 |[1151. Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|Medium|Premium|2 years ago|[1151-minimum-swaps-to-group-all-1s-together.py](https://github.com/trungnguyencs/Leetcode/blob/main/1151-minimum-swaps-to-group-all-1s-together/1151-minimum-swaps-to-group-all-1s-together.py/)|
 |[1155. Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|Medium||last year|[1155-number-of-dice-rolls-with-target-sum.py](https://github.com/trungnguyencs/Leetcode/blob/main/1155-number-of-dice-rolls-with-target-sum/1155-number-of-dice-rolls-with-target-sum.py/)|
