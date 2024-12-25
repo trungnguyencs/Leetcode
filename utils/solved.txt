@@ -1,11 +1,20 @@
+3264. Final Array State After K Multiplication Operations I
+87.7%
+Easy
 3254. Find the Power of K-Size Subarrays I
 63.2%
+Medium
+3243. Shortest Distance After Road Addition Queries I
+62.5%
 Medium
 3217. Delete Nodes From Linked List Present in Array
 69.3%
 Medium
 3163. String Compression III
 68.2%
+Medium
+3152. Special Array II
+45.7%
 Medium
 3110. Score of a String
 94.4%
@@ -37,6 +46,9 @@ Medium
 3005. Count Elements With Maximum Frequency
 75.0%
 Easy
+2981. Find Longest Special Substring That Occurs Thrice I
+62.2%
+Medium
 2976. Minimum Cost to Convert String I
 38.6%
 Medium
@@ -61,6 +73,9 @@ Medium
 2955. Number of Same-End Substrings
 61.7%
 Medium
+2924. Find Champion II
+70.3%
+Medium
 2914. Minimum Number of Changes to Make Binary String Beautiful
 76.9%
 Medium
@@ -79,6 +94,9 @@ Easy
 2838. Maximum Coins Heroes Can Collect
 72.3%
 Medium
+2825. Make String a Subsequence Using Cyclic Increments
+65.6%
+Medium
 2816. Double a Number Represented as a Linked List
 61.6%
 Medium
@@ -90,6 +108,12 @@ Medium
 Medium
 2785. Sort Vowels in a String
 82.0%
+Medium
+2779. Maximum Beauty of an Array After Applying Operation
+58.2%
+Medium
+2762. Continuous Subarrays
+58.9%
 Medium
 2743. Count Substrings Without Repeating Character
 76.2%
@@ -292,6 +316,9 @@ Medium
 2465. Number of Distinct Averages
 57.9%
 Easy
+2462. Total Cost to Hire K Workers
+42.8%
+Medium
 2461. Maximum Sum of Distinct Subarrays With Length K
 34.9%
 Medium
@@ -325,6 +352,9 @@ Medium
 2418. Sort the People
 80.1%
 Easy
+2415. Reverse Odd Levels of Binary Tree
+86.7%
+Medium
 2406. Divide Intervals Into Minimum Number of Groups
 46.5%
 Medium
@@ -366,6 +396,9 @@ Medium
 Easy
 2353. Design a Food Rating System
 45.9%
+Medium
+2352. Equal Row and Column Pairs
+70.3%
 Medium
 2348. Number of Zero-Filled Subarrays
 66.7%
@@ -514,6 +547,9 @@ Medium
 2185. Counting Words With a Given Prefix
 78.4%
 Easy
+2182. Construct String With Repeat Limit
+71.0%
+Medium
 2149. Rearrange Array Elements by Sign
 83.9%
 Medium
@@ -526,6 +562,9 @@ Medium
 2134. Minimum Swaps to Group All 1's Together II
 65.6%
 Medium
+2133. Check if Every Row and Column Contains All Numbers
+52.3%
+Easy
 2131. Longest Palindrome by Concatenating Two Letter Words
 48.1%
 Medium
@@ -534,6 +573,9 @@ Medium
 Medium
 2125. Number of Laser Beams in a Bank
 86.0%
+Medium
+2109. Adding Spaces to a String
+71.8%
 Medium
 2108. Find First Palindromic String in the Array
 81.5%
@@ -625,6 +667,9 @@ Medium
 1980. Find Unique Binary String
 74.3%
 Medium
+1975. Maximum Matrix Sum
+66.1%
+Medium
 1973. Count Nodes Equal to Sum of Descendants
 76.2%
 Medium
@@ -708,6 +753,9 @@ Easy
 Easy
 1894. Find the Student that Will Replace the Chalk
 53.2%
+Medium
+1891. Cutting Ribbons
+51.2%
 Medium
 1887. Reduction Operations to Make the Array Elements Equal
 73.5%
@@ -802,6 +850,9 @@ Easy
 1762. Buildings With an Ocean View
 79.0%
 Medium
+1760. Minimum Limit of Balls in a Bag
+68.0%
+Medium
 1759. Count Number of Homogenous Substrings
 49.0%
 Medium
@@ -826,6 +877,9 @@ Medium
 1740. Find Distance in a Binary Tree
 73.0%
 Medium
+1732. Find the Highest Altitude
+83.7%
+Easy
 1730. Shortest Path to Get Food
 54.4%
 Medium
@@ -904,6 +958,9 @@ Medium
 1657. Determine if Two Strings Are Close
 54.1%
 Medium
+1656. Design an Ordered Stream
+84.5%
+Easy
 1653. Minimum Deletions to Make String Balanced
 65.9%
 Medium
@@ -957,6 +1014,9 @@ Medium
 Hard
 1609. Even Odd Tree
 55.2%
+Medium
+1604. Alert Using Same Key-Card Three or More Times in a One Hour Period
+46.0%
 Medium
 1603. Design Parking System
 88.2%
@@ -1111,6 +1171,9 @@ Medium
 1480. Running Sum of 1d Array
 86.7%
 Easy
+1475. Final Prices With a Special Discount in a Shop
+83.1%
+Easy
 1472. Design Browser History
 77.7%
 Medium
@@ -1255,6 +1318,9 @@ Medium
 1347. Minimum Number of Steps to Make Two Strings Anagram
 78.1%
 Medium
+1346. Check If N and Its Double Exist
+40.9%
+Easy
 1344. Angle Between Hands of a Clock
 63.4%
 Medium
@@ -1969,6 +2035,9 @@ Hard
 814. Binary Tree Pruning
 72.3%
 Medium
+811. Subdomain Visit Count
+76.6%
+Medium
 804. Unique Morse Code Words
 82.7%
 Easy
@@ -2023,12 +2092,18 @@ Medium
 774. Minimize Max Distance to Gas Station
 51.9%
 Hard
+773. Sliding Puzzle
+72.9%
+Hard
 772. Basic Calculator III
 49.4%
 Hard
 771. Jewels and Stones
 88.3%
 Easy
+769. Max Chunks To Make Sorted
+63.8%
+Medium
 767. Reorganize String
 54.3%
 Medium
