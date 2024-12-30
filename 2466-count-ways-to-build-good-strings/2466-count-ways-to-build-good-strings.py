@@ -1,12 +1,14 @@
 class Solution:
-    @cache
     def countGoodStrings(self, low: int, high: int, zero: int, one: int) -> int:
-        if high < min(zero, one): return 0        
-        ans = 0
-        if high >= zero:
-            if low <= zero: ans += 1
-            ans += self.countGoodStrings(low - zero, high - zero, zero, one)
-        if high >= one:
-            if low <= one: ans += 1
-            ans += self.countGoodStrings(low - one, high - one, zero, one)
-        return ans % (10**9 + 7)
+        return (self.helper(high, zero, one) - self.helper(low - 1, zero, one)) % (10**9 + 7)
+
+    def helper(self, limit, zero, one):
+        #dp[i]: number of strings that have length i
+        dp = [0]*(limit + 1)
+        dp[0] = 1
+        for i in range(limit + 1):
+            if i + zero <= limit:
+                dp[i + zero] += dp[i]
+            if i + one <= limit:
+                dp[i + one] += dp[i]
+        return sum(dp)
