@@ -379,6 +379,9 @@ Easy
 2385. Amount of Time for Binary Tree to Be Infected
 62.9%
 Medium
+2381. Shifting Letters II
+53.4%
+Medium
 2369. Check if There is a Valid Partition For The Array
 51.9%
 Medium
@@ -871,6 +874,9 @@ Easy
 1750. Minimum Length of String After Deleting Similar Ends
 55.9%
 Medium
+1746. Maximum Subarray Sum After One Operation
+65.6%
+Medium
 1743. Restore the Array From Adjacent Pairs
 74.7%
 Medium
@@ -1275,6 +1281,9 @@ Medium
 Easy
 1413. Minimum Value to Get Positive Step by Step Sum
 65.0%
+Easy
+1408. String Matching in an Array
+66.0%
 Easy
 1404. Number of Steps to Reduce a Number in Binary Representation to One
 61.4%
@@ -1692,6 +1701,9 @@ Easy
 Medium
 1015. Smallest Integer Divisible by K
 46.6%
+Medium
+1014. Best Sightseeing Pair
+62.5%
 Medium
 1011. Capacity To Ship Packages Within D Days
 70.9%
