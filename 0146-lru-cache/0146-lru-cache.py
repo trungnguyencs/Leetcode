@@ -20,7 +20,6 @@ class LRUCache:
             node.setVal(val)
             self.list.remove(node)
             self.list.addFront(node)
-            self.dic[key] = node
         else:
             #if cache is full, evict the least recently used
             if self.length == self.capacity:
