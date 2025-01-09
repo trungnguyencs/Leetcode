@@ -1,9 +1,10 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        
-        @cache
-        def dp(i):
-            if i == len(s): return True
-            return any([dp(i + len(word)) for word in wordDict if i + len(word) <= len(s) and s[i:i+len(word)] == word])
-        
-        return dp(0)
+        wordDict = set(wordDict)
+        dp = [False]*(len(s) + 1)
+        dp[0] = True
+        for i in range(len(s)):
+            for j in range(i, len(s)):
+                if s[i:j+1] in wordDict and dp[i]:
+                    dp[j+1] = True
+        return dp[-1]
