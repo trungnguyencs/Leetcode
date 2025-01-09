@@ -1,3 +1,5 @@
+# Trung's "prefect" solution for interview
+
 class LRUCache:
 
     def __init__(self, capacity: int):
@@ -10,24 +12,24 @@ class LRUCache:
         if key not in self.dic:
             return -1
         node = self.dic[key]
+        # make it most recently used
         self.list.remove(node)
         self.list.addFront(node)
         return node.val
 
     def put(self, key: int, val: int) -> None:
-        if key in self.dic:
+        if key in self.dic: # if key exists, update its value and make it most recently used
             node = self.dic[key]
             node.setVal(val)
             self.list.remove(node)
             self.list.addFront(node)
         else:
-            #if cache is full, evict the least recently used
-            if self.length == self.capacity:
+            if self.length == self.capacity: #if cache is full, evict the least recently used (last node in linked list)
                 lastNode = self.list.getLastNode()
                 self.list.remove(lastNode)
                 del self.dic[lastNode.key]
                 self.length -= 1
-            newNode = ListNode(key, val)
+            newNode = ListNode(key, val) #add new node, and it is most recently used
             self.list.addFront(newNode)
             self.dic[key] = newNode
             self.length += 1
