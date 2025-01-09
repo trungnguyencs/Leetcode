@@ -17,13 +17,14 @@ class LRUCache:
     def put(self, key: int, val: int) -> None:
         if key in self.dic:
             node = self.dic[key]
-            node.val = val
+            node.setVal(val)
             self.list.remove(node)
             self.list.addFront(node)
+            self.dic[key] = node
         else:
             #if cache is full, evict the least recently used
             if self.length == self.capacity:
-                lastNode = self.list.tail.prev
+                lastNode = self.list.getLastNode()
                 self.list.remove(lastNode)
                 del self.dic[lastNode.key]
                 self.length -= 1
@@ -49,6 +50,8 @@ class DoublyLinkedList:
         node.prev, node.next = prev, next
         prev.next, next.prev = node, node
 
+    def getLastNode(self):
+        return self.tail.prev
 
 class ListNode:
     def __init__(self, key=0, val=0, prev=None, next=None):
@@ -57,6 +60,8 @@ class ListNode:
         self.prev = prev
         self.next = next
 
+    def setVal(self, val):
+        self.val = val
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
