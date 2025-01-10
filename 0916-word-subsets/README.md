@@ -1,9 +1,9 @@
-<h2><a href="https://leetcode.com/problems/word-subsets/">916. Word Subsets</a></h2><h3>Medium</h3><hr><div><p>You are given two string arrays <code>words1</code> and <code>words2</code>.</p>
+<h2><a href="https://leetcode.com/problems/word-subsets/?envType=daily-question&envId=2025-01-10">916. Word Subsets</a></h2><h3>Medium</h3><hr><p>You are given two string arrays <code>words1</code> and <code>words2</code>.</p>
 
 <p>A string <code>b</code> is a <strong>subset</strong> of string <code>a</code> if every letter in <code>b</code> occurs in <code>a</code> including multiplicity.</p>
 
 <ul>
-	<li>For example, <code>"wrr"</code> is a subset of <code>"warrior"</code> but is not a subset of <code>"world"</code>.</li>
+	<li>For example, <code>&quot;wrr&quot;</code> is a subset of <code>&quot;warrior&quot;</code> but is not a subset of <code>&quot;world&quot;</code>.</li>
 </ul>
 
 <p>A string <code>a</code> from <code>words1</code> is <strong>universal</strong> if for every string <code>b</code> in <code>words2</code>, <code>b</code> is a subset of <code>a</code>.</p>
@@ -11,16 +11,18 @@
 <p>Return an array of all the <strong>universal</strong> strings in <code>words1</code>. You may return the answer in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["e","o"]
-<strong>Output:</strong> ["facebook","google","leetcode"]
+<pre>
+<strong>Input:</strong> words1 = [&quot;amazon&quot;,&quot;apple&quot;,&quot;facebook&quot;,&quot;google&quot;,&quot;leetcode&quot;], words2 = [&quot;e&quot;,&quot;o&quot;]
+<strong>Output:</strong> [&quot;facebook&quot;,&quot;google&quot;,&quot;leetcode&quot;]
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> words1 = ["amazon","apple","facebook","google","leetcode"], words2 = ["l","e"]
-<strong>Output:</strong> ["apple","google","leetcode"]
+<pre>
+<strong>Input:</strong> words1 = [&quot;amazon&quot;,&quot;apple&quot;,&quot;facebook&quot;,&quot;google&quot;,&quot;leetcode&quot;], words2 = [&quot;l&quot;,&quot;e&quot;]
+<strong>Output:</strong> [&quot;apple&quot;,&quot;google&quot;,&quot;leetcode&quot;]
 </pre>
 
 <p>&nbsp;</p>
@@ -32,4 +34,3 @@
 	<li><code>words1[i]</code> and <code>words2[i]</code> consist only of lowercase English letters.</li>
 	<li>All the strings of <code>words1</code> are <strong>unique</strong>.</li>
 </ul>
-</div>
