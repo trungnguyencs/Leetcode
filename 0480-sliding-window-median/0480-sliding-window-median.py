@@ -19,7 +19,7 @@ class Solution:
     #     return ans
 
     #Solution 2: Maintain a sorted sliding window (using SortedList)
-    #Runtime: O(nlogk)
+    #Runtime: still O(kn) because add and remove will be O(logk) but findMedian will still be O(k)
     from sortedcontainers import SortedList
     def medianSlidingWindow(self, nums: List[int], k: int) -> List[float]:
         window = SortedList()
