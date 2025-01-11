@@ -31,6 +31,9 @@ Easy
 3043. Find the Length of the Longest Common Prefix
 56.2%
 Medium
+3042. Count Prefix and Suffix Pairs I
+77.8%
+Easy
 3016. Minimum Number of Pushes to Type Word II
 80.4%
 Medium
@@ -552,6 +555,9 @@ Medium
 Easy
 2182. Construct String With Repeat Limit
 71.0%
+Medium
+2168. Unique Substrings With Equal Digit Frequency
+64.0%
 Medium
 2149. Rearrange Array Elements by Sign
 84.1%
@@ -1291,6 +1297,9 @@ Medium
 1402. Reducing Dishes
 76.2%
 Hard
+1400. Construct K Palindrome Strings
+62.1%
+Medium
 1396. Design Underground System
 74.8%
 Medium
