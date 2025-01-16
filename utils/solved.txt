@@ -7,6 +7,9 @@ Medium
 3243. Shortest Distance After Road Addition Queries I
 62.5%
 Medium
+3223. Minimum Length of String After Operations
+75.3%
+Medium
 3217. Delete Nodes From Linked List Present in Array
 68.7%
 Medium
@@ -138,6 +141,9 @@ Medium
 Easy
 2664. The Knight’s Tour
 73.3%
+Medium
+2657. Find the Prefix Common Array of Two Arrays
+87.7%
 Medium
 2642. Design Graph With Shortest Path Calculator
 70.6%
@@ -348,6 +354,9 @@ Medium
 Easy
 2433. Find The Original Array of Prefix Xor
 88.0%
+Medium
+2425. Bitwise XOR of All Pairings
+66.9%
 Medium
 2419. Longest Subarray With Maximum Bitwise AND
 61.9%
