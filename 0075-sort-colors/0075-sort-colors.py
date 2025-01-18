@@ -14,7 +14,6 @@ class Solution:
                 #nhu vay neu nums[mid] == 2 thi ko duoc move mid
                 nums[mid], nums[right] = nums[right], nums[mid]
                 right -= 1
-        return nums
         """
         #Loi giai dung:
         left, mid, right = 0, 0, len(nums) - 1
@@ -28,4 +27,3 @@ class Solution:
             else:
                 nums[mid], nums[right] = nums[right], nums[mid]
                 right -= 1
-        return nums
