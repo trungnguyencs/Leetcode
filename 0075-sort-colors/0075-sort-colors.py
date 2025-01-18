@@ -27,3 +27,4 @@ class Solution:
             else:
                 nums[mid], nums[right] = nums[right], nums[mid]
                 right -= 1
+                #cho nay ko duoc mid += 1
