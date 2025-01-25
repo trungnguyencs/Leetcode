@@ -79,6 +79,9 @@ Medium
 2955. Number of Same-End Substrings
 61.7%
 Medium
+2948. Make Lexicographically Smallest Array by Swapping Elements
+53.2%
+Medium
 2924. Find Champion II
 70.3%
 Medium
@@ -91,6 +94,9 @@ Medium
 2864. Maximum Odd Binary Number
 83.0%
 Easy
+2852. Sum of Remoteness of All Cells
+70.9%
+Medium
 2849. Determine if a Cell Is Reachable at a Given Time
 35.7%
 Medium
@@ -136,11 +142,17 @@ Easy
 2684. Maximum Number of Moves in a Grid
 59.1%
 Medium
+2683. Neighboring Bitwise XOR
+80.4%
+Medium
 2678. Number of Senior Citizens
 81.5%
 Easy
 2664. The Knight’s Tour
 73.3%
+Medium
+2661. First Completely Painted Row or Column
+64.5%
 Medium
 2657. Find the Prefix Common Array of Two Arrays
 87.7%
@@ -865,6 +877,9 @@ Medium
 1768. Merge Strings Alternately
 81.3%
 Easy
+1765. Map of Highest Peak
+75.1%
+Medium
 1762. Buildings With an Ocean View
 80.3%
 Medium
@@ -1449,6 +1464,9 @@ Medium
 Hard
 1268. Search Suggestions System
 65.1%
+Medium
+1267. Count Servers that Communicate
+73.3%
 Medium
 1266. Minimum Time Visiting All Points
 82.4%
@@ -2796,6 +2814,9 @@ Medium
 Easy
 366. Find Leaves of Binary Tree
 80.9%
+Medium
+365. Water and Jug Problem
+42.3%
 Medium
 364. Nested List Weight Sum II
 64.5%
