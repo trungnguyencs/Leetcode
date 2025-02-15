@@ -13,17 +13,32 @@ Medium
 3217. Delete Nodes From Linked List Present in Array
 68.7%
 Medium
+3174. Clear Digits
+82.7%
+Easy
 3163. String Compression III
 68.1%
+Medium
+3160. Find the Number of Distinct Colors Among the Balls
+54.2%
 Medium
 3152. Special Array II
 45.7%
 Medium
+3151. Special Array I
+82.2%
+Easy
 3110. Score of a String
 92.4%
 Easy
+3105. Longest Strictly Increasing or Strictly Decreasing Subarray
+65.4%
+Easy
 3075. Maximize Happiness of Selected Children
 54.9%
+Medium
+3066. Minimum Operations to Exceed Threshold Value II
+45.7%
 Medium
 3063. Linked List Frequency
 85.8%
@@ -136,6 +151,9 @@ Medium
 2706. Buy Two Chocolates
 68.8%
 Easy
+2698. Find the Punishment Number of an Integer
+71.5%
+Medium
 2696. Minimum String Length After Removing Substrings
 77.5%
 Easy
@@ -153,6 +171,9 @@ Easy
 Medium
 2661. First Completely Painted Row or Column
 64.5%
+Medium
+2658. Maximum Number of Fish in a Grid
+70.7%
 Medium
 2657. Find the Prefix Common Array of Two Arrays
 87.7%
@@ -175,6 +196,9 @@ Medium
 2609. Find the Longest Balanced Substring of a Binary String
 46.1%
 Easy
+2599. Make the Prefix Sum Non-negative
+51.5%
+Medium
 2598. Smallest Missing Non-negative Integer After Operations
 39.5%
 Medium
@@ -412,6 +436,9 @@ Medium
 2366. Minimum Replacements to Sort the Array
 53.4%
 Hard
+2364. Count Number of Bad Pairs
+54.4%
+Medium
 2359. Find Closest Node to Given Two Nodes
 45.5%
 Medium
@@ -427,8 +454,14 @@ Medium
 2352. Equal Row and Column Pairs
 70.3%
 Medium
+2349. Design a Number Container System
+58.2%
+Medium
 2348. Number of Zero-Filled Subarrays
 66.7%
+Medium
+2342. Max Sum of a Pair With Equal Sum of Digits
+66.0%
 Medium
 2336. Smallest Number in Infinite Set
 71.5%
@@ -778,6 +811,9 @@ Medium
 1903. Largest Odd Number in String
 64.1%
 Easy
+1910. Remove All Occurrences of a Substring
+78.1%
+Medium
 1897. Redistribute Characters to Make All Strings Equal
 67.0%
 Easy
@@ -811,6 +847,9 @@ Medium
 1854. Maximum Population Year
 61.8%
 Easy
+1852. Distinct Numbers in Each Subarray
+77.1%
+Medium
 1846. Maximum Element After Decreasing and Rearranging
 65.8%
 Medium
@@ -853,6 +892,9 @@ Medium
 1804. Implement Trie II (Prefix Tree)
 63.0%
 Medium
+1800. Maximum Ascending Subarray Sum
+66.6%
+Easy
 1791. Find Center of Star Graph
 86.6%
 Easy
@@ -892,6 +934,9 @@ Medium
 1758. Minimum Changes To Make Alternating Binary String
 63.7%
 Easy
+1756. Design Most Recently Used Queue
+76.3%
+Medium
 1754. Largest Merge Of Two Strings
 49.9%
 Medium
@@ -921,6 +966,9 @@ Easy
 Medium
 1727. Largest Submatrix With Rearrangements
 75.3%
+Medium
+1726. Tuple with Same Product
+70.2%
 Medium
 1721. Swapping Nodes in a Linked List
 68.1%
@@ -1354,6 +1402,9 @@ Hard
 1356. Sort Integers by The Number of 1 Bits
 78.5%
 Easy
+1352. Product of the Last K Numbers
+62.6%
+Medium
 1351. Count Negative Numbers in a Sorted Matrix
 77.5%
 Easy
