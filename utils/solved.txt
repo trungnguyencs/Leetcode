@@ -430,6 +430,9 @@ Medium
 2381. Shifting Letters II
 53.4%
 Medium
+2375. Construct Smallest Number From DI String
+85.9%
+Medium
 2369. Check if There is a Valid Partition For The Array
 51.9%
 Medium
@@ -973,6 +976,9 @@ Medium
 1721. Swapping Nodes in a Linked List
 68.1%
 Medium
+1718. Construct the Lexicographically Largest Valid Sequence
+73.6%
+Medium
 1717. Maximum Score From Removing Substrings
 62.8%
 Medium
@@ -1357,6 +1363,9 @@ Medium
 1422. Maximum Score After Splitting a String
 62.2%
 Easy
+1415. The k-th Lexicographical String of All Happy Strings of Length n
+85.4%
+Medium
 1413. Minimum Value to Get Positive Step by Step Sum
 65.0%
 Easy
@@ -1522,6 +1531,9 @@ Medium
 1266. Minimum Time Visiting All Points
 82.4%
 Easy
+1261. Find Elements in a Contaminated Binary Tree
+84.8%
+Medium
 1260. Shift 2D Grid
 67.5%
 Easy
@@ -1708,6 +1720,9 @@ Medium
 1086. High Five
 74.4%
 Easy
+1079. Letter Tile Possibilities
+83.6%
+Medium
 1072. Flip Columns For Maximum Number of Equal Rows
 78.6%
 Medium
@@ -1777,6 +1792,9 @@ Hard
 1029. Two City Scheduling
 67.3%
 Medium
+1028. Recover a Tree From Preorder Traversal
+83.2%
+Hard
 1026. Maximum Difference Between Node and Ancestor
 78.1%
 Medium
@@ -2004,6 +2022,9 @@ Easy
 Hard
 890. Find and Replace Pattern
 76.8%
+Medium
+889. Construct Binary Tree from Preorder and Postorder Traversal
+77.8%
 Medium
 887. Super Egg Drop
 28.3%
