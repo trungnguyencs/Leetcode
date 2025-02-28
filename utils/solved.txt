@@ -355,6 +355,9 @@ Medium
 2469. Convert the Temperature
 89.9%
 Easy
+2467. Most Profitable Path in a Tree
+68.2%
+Medium
 2466. Count Ways To Build Good Strings
 54.3%
 Medium
@@ -952,6 +955,9 @@ Easy
 1750. Minimum Length of String After Deleting Similar Ends
 55.9%
 Medium
+1749. Maximum Absolute Sum of Any Subarray
+71.5%
+Medium
 1746. Maximum Subarray Sum After One Operation
 65.6%
 Medium
@@ -1201,6 +1207,9 @@ Medium
 1528. Shuffle String
 85.0%
 Easy
+1524. Number of Sub-arrays With Odd Sum
+56.1%
+Medium
 1523. Count Odd Numbers in an Interval Range
 50.2%
 Easy
@@ -1708,6 +1717,9 @@ Easy
 1094. Car Pooling
 55.9%
 Medium
+1092. Shortest Common Supersequence
+61.5%
+Hard
 1091. Shortest Path in Binary Matrix
 48.7%
 Medium
@@ -2049,6 +2061,9 @@ Medium
 Easy
 875. Koko Eating Bananas
 48.7%
+Medium
+873. Length of Longest Fibonacci Subsequence
+57.6%
 Medium
 872. Leaf-Similar Trees
 70.0%
