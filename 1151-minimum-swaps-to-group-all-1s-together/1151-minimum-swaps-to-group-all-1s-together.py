@@ -1,11 +1,13 @@
 class Solution:
-    def minSwaps(self, data: List[int]) -> int:
-        oneCount = data.count(1)
-        # find the window of size oneCount with the most numbers of 1s
-        c = windowWithMostOnes = 0
-        for i, num in enumerate(data):
-            c += (num == 1)
-            if i >= oneCount:
-                c -= (data[i - oneCount] == 1)
-            windowWithMostOnes = max(windowWithMostOnes, c)
-        return oneCount - windowWithMostOnes
+    def minSwaps(self, nums: List[int]) -> int:
+        w = nums.count(1)
+        zeroCount = 0
+        minZeroCount = float('inf')
+        for i in range(len(nums)):
+            if nums[i] == 0:
+                zeroCount += 1
+            if i >= w and nums[i-w] == 0:
+                zeroCount -= 1
+            if i >= w - 1:
+                minZeroCount = min(minZeroCount, zeroCount)
+        return minZeroCount
