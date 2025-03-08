@@ -85,6 +85,9 @@ Medium
 2966. Divide Array Into Arrays With Max Difference
 71.8%
 Medium
+2965. Find Missing and Repeated Values
+84.0%
+Easy
 2962. Count Subarrays Where Max Element Appears at Least K Times
 58.7%
 Medium
@@ -238,6 +241,12 @@ Medium
 2582. Pass the Pillow
 56.8%
 Easy
+2579. Count Total Number of Colored Cells
+66.3%
+Medium
+2570. Merge Two 2D Arrays by Summing Values
+82.2%
+Easy
 2566. Maximum Difference by Remapping a Digit
 60.1%
 Easy
@@ -370,6 +379,9 @@ Medium
 2461. Maximum Sum of Distinct Subarrays With Length K
 42.9%
 Medium
+2460. Apply Operations to an Array
+75.0%
+Easy
 2457. Minimum Addition to Make Integer Beautiful
 37.9%
 Medium
@@ -433,6 +445,9 @@ Medium
 2381. Shifting Letters II
 53.4%
 Medium
+2379. Minimum Recolors to Get K Consecutive Black Blocks
+60.4%
+Easy
 2375. Construct Smallest Number From DI String
 85.9%
 Medium
@@ -618,6 +633,9 @@ Easy
 Medium
 2168. Unique Substrings With Equal Digit Frequency
 64.0%
+Medium
+2161. Partition Array According to Given Pivot
+90.0%
 Medium
 2149. Rearrange Array Elements by Sign
 84.1%
@@ -907,6 +925,9 @@ Easy
 1790. Check if One String Swap Can Make Strings Equal
 46.0%
 Easy
+1780. Check if Number is a Sum of Powers of Three
+79.2%
+Medium
 1779. Find Nearest Point That Has the Same X or Y Coordinate
 69.1%
 Easy
