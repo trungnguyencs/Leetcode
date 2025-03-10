@@ -1,18 +1,18 @@
 class Solution:
     def subarraysWithKDistinct(self, nums: List[int], k: int) -> int:
-        # approach 1:
-        # #subarrays with K different integers = #subarrays with at most K different integers - #subarrays with at most K-1 different integers
+        #K different integers = #at most K different integers - #at most K-1 different integers
         return self.atMostKDistinct(nums, k) - self.atMostKDistinct(nums, k - 1)
-        
+
     def atMostKDistinct(self, nums, k):
-        l = count = 0
         counter = Counter()
-        for r, num in enumerate(nums):
-            counter[num] += 1
+        l = ans = 0
+        for r, ch in enumerate(nums):
+            counter[ch] += 1
             while len(counter) > k:
-                counter[nums[l]] -= 1
-                if counter[nums[l]] == 0:
-                    del counter[nums[l]]
+                prevChar = nums[l]
+                counter[prevChar] -= 1
+                if counter[prevChar] == 0:
+                    del counter[prevChar]
                 l += 1
-            count += r - l + 1
-        return count
+            ans += r - l + 1
+        return ans
