@@ -7,8 +7,8 @@
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
         if not root: return []
-        ans = []
         q = deque([root])
+        ans = []
         while q:
             for _ in range(len(q)):
                 cur = q.popleft()
