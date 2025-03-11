@@ -4,6 +4,6 @@ class Solution:
         for i in range(26):
             ch = chr(ord('a') + i)
             l, r = s.find(ch), s.rfind(ch)
-            if l != -1:
+            if l != r:
                 ans += len(set(s[l+1:r]))
         return ans
