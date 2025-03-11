@@ -16,4 +16,4 @@ class Solution:
                 q.append((cur.left, offset - 1))
             if cur.right:
                 q.append((cur.right, offset + 1))
-        return [dic[offset] for offset in sorted(dic.keys())]
+        return [dic[k] for k in sorted(list(dic.keys()))]
