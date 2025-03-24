@@ -4,6 +4,6 @@ class Solution:
         for num in nums:
             if len(heap) < k:
                 heappush(heap, num)
-            elif num > heap[0]:
+            elif heap[0] < num:
                 heapreplace(heap, num)
         return heap[0]
