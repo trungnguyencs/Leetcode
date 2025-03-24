@@ -34,6 +34,9 @@ Medium
 3174. Clear Digits
 82.7%
 Easy
+3169. Count Days Without Meetings
+38.6%
+Medium
 3163. String Compression III
 68.1%
 Medium
@@ -801,6 +804,9 @@ Medium
 Medium
 1980. Find Unique Binary String
 79.4%
+Medium
+1976. Number of Ways to Arrive at Destination
+37.6%
 Medium
 1975. Maximum Matrix Sum
 66.0%
