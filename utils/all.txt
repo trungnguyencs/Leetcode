@@ -1,3 +1,18 @@
+3496. Maximize Score After Pair Deletions
+71.1%
+Medium
+3495. Minimum Operations to Make Array Elements Zero
+27.8%
+Hard
+3494. Find the Minimum Amount of Time to Brew Potions
+28.9%
+Medium
+3493. Properties Graph
+46.2%
+Medium
+3492. Maximum Containers on a Ship
+74.6%
+Easy
 3491. Phone Number Prefix
 78.1%
 Easy

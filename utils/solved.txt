@@ -1,3 +1,6 @@
+3394. Check if Grid can be Cut into Sections
+61.5%
+Medium
 3371. Identify the Largest Outlier in an Array
 34.0%
 Medium
