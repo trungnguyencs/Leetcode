@@ -1,3 +1,6 @@
+3396. Minimum Number of Operations to Make Elements in Array Distinct
+58.8%
+Easy
 3394. Check if Grid can be Cut into Sections
 61.5%
 Medium
@@ -937,6 +940,9 @@ Medium
 1870. Minimum Speed to Arrive on Time
 47.1%
 Medium
+1863. Sum of All Subset XOR Totals
+90.0%
+Easy
 1861. Rotating the Box
 79.2%
 Medium
