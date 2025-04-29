@@ -1,14 +1,13 @@
 class Solution:
     def countSubarrays(self, nums: List[int], k: int) -> int:
-        # longest sliding window with at most k-1 freq of max
         M = max(nums)
-        l = count = ans = 0
+        l = countM = ans = 0
         for r, num in enumerate(nums):
             if num == M:
-                count += 1
-            while count == k:
+                countM += 1
+            while countM == k:
                 if nums[l] == M:
-                    count -= 1
+                    countM -= 1
                 l += 1
-            ans += l
+            ans += l #any index from 0 to l - 1 would form a valid subarray
         return ans
