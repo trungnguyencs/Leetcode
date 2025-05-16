@@ -3,7 +3,7 @@ class Solution:
         dp = [[w] for w in words]
         for i in range(1, len(dp)):
             for j in range(i):
-                if self.hasHammingDistanceOne(words[i], words[j]) and groups[i] != groups[j]:
+                if groups[i] != groups[j] and self.hasHammingDistanceOne(words[i], words[j]):
                     dp[i] = max(dp[i], dp[j] + [words[i]], key=len)
         return max(dp, key=len)
 
