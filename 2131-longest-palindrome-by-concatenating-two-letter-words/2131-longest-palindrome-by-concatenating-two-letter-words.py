@@ -1,18 +1,18 @@
 class Solution:
     def longestPalindrome(self, words: List[str]) -> int:
+        oddSeen = False
         counter = Counter(words)
-        maxPalindrome = 0
-        hasOdd = False
-        for word, count in counter.items():
-            ch1, ch2 = word[0], word[1]
-            if ch1 == ch2:
-                if count % 2 == 1 and not hasOdd:
-                    maxPalindrome += count*2
-                    hasOdd = True
+        ans = 0
+        for w, freq in counter.items():
+            a, b = w[0], w[1]
+            if a == b:
+                if freq % 2 == 0:
+                    ans += freq
+                elif oddSeen:
+                    ans += freq - 1
                 else:
-                    maxPalindrome += count//2*4
-                counter[word] = 0
-            elif ch2 + ch1 in counter:
-                maxPalindrome += min(count, counter[ch2 + ch1])*4
-                counter[word] = counter[ch2 + ch1] = 0
-        return maxPalindrome
+                    ans += freq
+                    oddSeen = True
+            else:
+                ans += min(freq, counter[b + a])
+        return ans * 2
