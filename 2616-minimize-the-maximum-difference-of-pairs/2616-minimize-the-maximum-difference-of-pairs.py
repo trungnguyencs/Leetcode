@@ -9,7 +9,7 @@ class Solution:
             else:
                 l = m + 1
         return l
-    
+
     def canFindKPairs(self, d, nums, k):
         i, count = 1, 0
         while i < len(nums):
