@@ -1,19 +1,23 @@
 # Definition for a binary tree node.
-# class TreeNode:
+# class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+class Solution(object):
+    def verticalOrder(self, root):
+        """
+        :type root: Optional[TreeNode]
+        :rtype: List[List[int]]
+        """
         if not root: return []
-        dic = defaultdict(list)
+        offset = defaultdict(list)
         q = deque([(root, 0)])
         while q:
-            cur, offset = q.popleft()
-            dic[offset].append(cur.val)
+            cur, d = q.popleft()
+            offset[d].append(cur.val)
             if cur.left:
-                q.append((cur.left, offset - 1))
+                q.append((cur.left, d - 1))
             if cur.right:
-                q.append((cur.right, offset + 1))
-        return [dic[k] for k in sorted(list(dic.keys()))]
+                q.append((cur.right, d + 1))
+        return [offset[d] for d in sorted(offset.keys())]
