@@ -1,6 +1,11 @@
-class Solution:
-    def generate(self, numRows: int) -> List[List[int]]:
+class Solution(object):
+    def generate(self, numRows):
+        """
+        :type numRows: int
+        :rtype: List[List[int]]
+        """
         ans = [[1]]
-        for i in range(1, numRows):
-            ans.append([a + b for a, b in zip([0] + ans[-1], ans[-1] + [0])])
-        return ans
+        for _ in range(numRows - 1):
+            last = ans[-1]
+            ans.append([a + b for a, b in zip(last + [0], [0] + last)])
+        return ans      
