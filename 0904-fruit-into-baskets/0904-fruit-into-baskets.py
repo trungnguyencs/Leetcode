@@ -1,13 +1,14 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        dic = defaultdict(int)
-        maxLen = l = 0
+        #same as 159. Longest Substring with At Most Two Distinct Characters
+        counter = Counter()
+        l = maxWindow = 0
         for r, num in enumerate(fruits):
-            dic[num] += 1
-            
-            while len(dic) > 2:
-                dic[fruits[l]] -= 1
-                if dic[fruits[l]] == 0: del dic[fruits[l]]
+            counter[num] += 1
+            while len(counter) > 2:
+                counter[fruits[l]] -= 1
+                if counter[fruits[l]] == 0:
+                    del counter[fruits[l]]
                 l += 1
-            maxLen = max(maxLen, r - l + 1)
-        return maxLen
+            maxWindow = max(maxWindow, r - l + 1)
+        return maxWindow
