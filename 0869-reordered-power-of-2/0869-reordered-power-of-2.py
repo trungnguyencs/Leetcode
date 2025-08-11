@@ -1,4 +1,8 @@
 class Solution:
     def reorderedPowerOf2(self, n: int) -> bool:
-        counter = Counter(str(n))
-        return any(counter == Counter(str(1 << i)) for i in range(31)) 
+        powersOfTwo = [2**x for x in range(31)]
+        counterN = Counter(str(n))
+        for powerOfTwo in powersOfTwo:
+            if Counter(str(powerOfTwo)) == counterN:
+                return True
+        return False
