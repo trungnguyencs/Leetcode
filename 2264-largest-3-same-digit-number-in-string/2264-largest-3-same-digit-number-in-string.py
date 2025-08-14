@@ -1,14 +1,7 @@
 class Solution:
     def largestGoodInteger(self, num: str) -> str:
         ans = ""
-        cur = num[0]
-        count = 0
-        for ch in num:
-            if ch == cur:
-                count += 1
-                if count == 3 and (ans == "" or ord(ch) > ord(ans[0])):
-                    ans = ch*3
-            else:
-                cur = ch
-                count = 1
+        for i in range(len(num) - 2):
+            if num[i] == num[i+1] == num[i+2]:
+                ans = max(ans, num[i:i+3])
         return ans
