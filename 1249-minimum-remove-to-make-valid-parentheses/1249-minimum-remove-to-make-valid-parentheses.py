@@ -1,7 +1,7 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
-        ans = ['']*len(s)
         stack = []
+        ans = ['' for _ in range(len(s))]
         for i, ch in enumerate(s):
             if ch not in '()':
                 ans[i] = ch
