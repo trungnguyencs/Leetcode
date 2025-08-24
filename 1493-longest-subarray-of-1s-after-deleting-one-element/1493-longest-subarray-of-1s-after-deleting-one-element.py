@@ -10,4 +10,4 @@ class Solution:
                         zeroCount -= 1
                     l += 1
             longest = max(longest, r - l + 1)
-        return longest - 1
+        return longest - 1       
