@@ -3,18 +3,15 @@ from sortedcontainers import SortedList
 class FoodRatings:
 
     def __init__(self, foods: List[str], cuisines: List[str], ratings: List[int]):
-        self.ratings = {}
-        self.categories = {}
+        self.dic = {}
         self.sortedRatings = defaultdict(SortedList)
         for food, category, rating in zip(foods, cuisines, ratings):
-            self.ratings[food] = rating
-            self.categories[food] = category
+            self.dic[food] = (rating, category)
             self.sortedRatings[category].add((-rating, food))
 
     def changeRating(self, food: str, newRating: int) -> None:
-        oldRating = self.ratings[food]
-        category = self.categories[food]
-        self.ratings[food] = newRating
+        oldRating, category = self.dic[food]
+        self.dic[food] = (newRating, category)
         self.sortedRatings[category].remove((-oldRating, food))
         self.sortedRatings[category].add((-newRating, food))
 
