@@ -1,6 +1,32 @@
 class Spreadsheet:
 
     def __init__(self, rows: int):
+        self.dic = {}
+
+    def setCell(self, cell: str, value: int) -> None:
+        self.dic[cell] = value
+
+    def resetCell(self, cell: str) -> None:
+        self.dic[cell] = 0
+
+    def getValue(self, formula: str) -> int:
+        s1, s2 = formula[1:].split('+')
+        return self._getValHelper(s1) + self._getValHelper(s2)
+
+    def _getValHelper(self, s):
+        if s.isnumeric():
+            return int(s)
+        elif s in self.dic:
+            return self.dic[s]
+        return 0
+
+
+"""
+# Initital solution using 2D grid, which takes more spaces:
+
+class Spreadsheet:
+
+    def __init__(self, rows: int):
         self.grid = [[0]*26 for _ in range(rows)]
 
     def setCell(self, cell: str, value: int) -> None:
@@ -29,6 +55,8 @@ class Spreadsheet:
         r = int(s[1:]) - 1 #index starts at 1
         c = ord(s[0]) - ord('A')
         return r, c
+"""
+
 
 
 # Your Spreadsheet object will be instantiated and called as such:
