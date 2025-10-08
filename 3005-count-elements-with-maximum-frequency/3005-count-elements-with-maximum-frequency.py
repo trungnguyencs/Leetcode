@@ -5,8 +5,8 @@ class Solution:
         for num in nums:
             counter[num] += 1
             if counter[num] == maxFreq:
-                ans += 1
+                ans += maxFreq
             elif counter[num] > maxFreq:
-                maxFreq = max(maxFreq, counter[num])
-                ans = 1
-        return ans * maxFreq
+                maxFreq = counter[num]
+                ans = maxFreq
+        return ans
