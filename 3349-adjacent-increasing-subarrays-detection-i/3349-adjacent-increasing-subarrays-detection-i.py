@@ -1,10 +1,14 @@
 class Solution:
     def hasIncreasingSubarrays(self, nums: List[int], k: int) -> bool:
-        for i in range(len(nums) - 2 * k + 1):
-            if self.isStrictlyIncreasing(nums, i, k) and self.isStrictlyIncreasing(nums, i + k, k):
+        #split nums into adjacent monotonic increasing arrays
+        prevStreak = 0
+        streak = 1
+        for i in range(1, len(nums)):
+            if nums[i] > nums[i-1]:
+                streak += 1
+            else:
+                prevStreak = streak
+                streak = 1
+            if streak >= 2 * k or (prevStreak >= k and streak >= k):
                 return True
         return False
-
-    def isStrictlyIncreasing(self, nums, i, k):
-        if k == 1: return True
-        return all(nums[j] < nums[j+1] for j in range(i, i + k - 1))
