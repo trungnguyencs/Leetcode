@@ -1,13 +1,13 @@
 class SparseVector:
     def __init__(self, nums: List[int]):
-        self.nonZeroes = {i: num for i, num in enumerate(nums) if num != 0}
+        self.dic = {i: num for i, num in enumerate(nums) if num != 0}
 
     # Return the dotProduct of two sparse vectors
     def dotProduct(self, vec: 'SparseVector') -> int:
         ans = 0
-        for i, val in self.nonZeroes.items(): #further optimization: loop on the vec with fewer non-zeroes
-            if i in vec.nonZeroes:
-                ans += val * vec.nonZeroes[i]
+        for i, num in self.dic.items():
+            if i in vec.dic:
+                ans += num * vec.dic[i]
         return ans
 
 # Your SparseVector object will be instantiated and called as such:
