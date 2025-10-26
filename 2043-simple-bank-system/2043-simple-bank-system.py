@@ -1,27 +1,24 @@
 class Bank:
 
-    #This question could be framed as a multithreading problem. For that, see this solution:
-    #https://leetcode.com/problems/simple-bank-system/solutions/4824513/python-with-locks-rlock/
-
     def __init__(self, balance: List[int]):
-        self.balance = balance
+        self.balances = {i + 1: b for i, b in enumerate(balance)}
 
     def transfer(self, account1: int, account2: int, money: int) -> bool:
-        if not 1 <= account1 <= len(self.balance) or not 1 <= account2 <= len(self.balance) or self.balance[account1 - 1] < money: return False
-        self.balance[account1 - 1] -= money
-        self.balance[account2 - 1] += money
+        if account1 not in self.balances or account2 not in self.balances: return False
+        if self.balances[account1] < money: return False
+        self.balances[account1] -= money
+        self.balances[account2] += money
         return True
 
     def deposit(self, account: int, money: int) -> bool:
-        if not 1 <= account <= len(self.balance): return False
-        self.balance[account - 1] += money
+        if account not in self.balances: return False
+        self.balances[account] += money
         return True
 
     def withdraw(self, account: int, money: int) -> bool:
-        if not 1 <= account <= len(self.balance) or self.balance[account - 1] < money: return False
-        self.balance[account - 1] -= money
+        if account not in self.balances or self.balances[account] < money: return False
+        self.balances[account] -= money
         return True
-
 
 # Your Bank object will be instantiated and called as such:
 # obj = Bank(balance)
