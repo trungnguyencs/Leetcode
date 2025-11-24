@@ -3,6 +3,6 @@ class Solution:
         cur = 0
         ans = []
         for num in nums:
-            cur = (cur << 1) | num
+            cur = (cur << 1) + num
             ans.append(cur % 5 == 0)
         return ans
