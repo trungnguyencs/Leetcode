@@ -1,6 +1,6 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
-        counter = Counter(nums)
-        for num, freq in counter.items():
-            if freq > 1:
-                return num
+        for i in range(len(nums) - 2):
+            if nums[i] == nums[i+1] or nums[i] == nums[i+2]:
+                return nums[i]
+        return nums[-1] #edge case: [1, 2, 3, 1]
