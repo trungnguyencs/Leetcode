@@ -1,7 +1,8 @@
 class Solution:
     def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:
-        return sum(self.minTimeTravel(points[i], points[i+1]) for i in range(len(points) - 1))
-        
-    def minTimeTravel(self, ptA, ptB):
-        dx, dy = abs(ptA[0] - ptB[0]), abs(ptA[1] - ptB[1])
-        return max(dx, dy)
+        time = 0
+        for i in range(len(points) - 1):
+            dx = abs(points[i+1][0] - points[i][0]) 
+            dy = abs(points[i+1][1] - points[i][1])
+            time += max(dx, dy)
+        return time
