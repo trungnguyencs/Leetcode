@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/design-hit-counter/">362. Design Hit Counter</a></h2><h3>Medium</h3><hr><div><p>Design a hit counter which counts the number of hits received in the past <code>5</code> minutes (i.e., the past <code>300</code> seconds).</p>
+<h2><a href="https://leetcode.com/problems/design-hit-counter/?envType=weekly-question&envId=2026-02-01">362. Design Hit Counter</a></h2><h3>Medium</h3><hr><p>Design a hit counter which counts the number of hits received in the past <code>5</code> minutes (i.e., the past <code>300</code> seconds).</p>
 
 <p>Your system should accept a <code>timestamp</code> parameter (<strong>in seconds</strong> granularity), and you may assume that calls are being made to the system in chronological order (i.e., <code>timestamp</code> is monotonically increasing). Several hits may arrive roughly at the same time.</p>
 
@@ -11,10 +11,11 @@
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input</strong>
-["HitCounter", "hit", "hit", "hit", "getHits", "hit", "getHits", "getHits"]
+<pre>
+<strong>Input</strong>
+[&quot;HitCounter&quot;, &quot;hit&quot;, &quot;hit&quot;, &quot;hit&quot;, &quot;getHits&quot;, &quot;hit&quot;, &quot;getHits&quot;, &quot;getHits&quot;]
 [[], [1], [2], [3], [4], [300], [300], [301]]
 <strong>Output</strong>
 [null, null, null, null, 3, null, 4, 3]
@@ -41,4 +42,3 @@ hitCounter.getHits(301); // get hits at timestamp 301, return 3.
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> What if the number of hits per second could be huge? Does your design scale?</p>
-</div>
