@@ -7,15 +7,14 @@
 class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
         self.ans = 0
-        self.preorder(root, 0)
+        self.dfs(root, 0)
         return self.ans
-        
-    def preorder(self, root, val):
-        val = val*2 + root.val
+
+    def dfs(self, root, val):
+        val = (val << 1) + root.val
         if not root.left and not root.right:
             self.ans += val
-            return
         if root.left:
-            self.preorder(root.left, val)
+            self.dfs(root.left, val)
         if root.right:
-            self.preorder(root.right, val)
+            self.dfs(root.right, val)
