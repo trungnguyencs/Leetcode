@@ -1,8 +1,9 @@
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
-        return sorted(arr, key=lambda x: [self.countOnes(x), x])
-        
-    def countOnes(self, num):
+        arr.sort(key=lambda x: [self.countBits(x), x])
+        return arr
+
+    def countBits(self, num):
         count = 0
         while num:
             count += (num & 1)
