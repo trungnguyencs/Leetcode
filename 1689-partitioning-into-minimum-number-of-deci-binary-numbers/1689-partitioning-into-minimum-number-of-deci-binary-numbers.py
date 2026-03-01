@@ -1,3 +1,3 @@
 class Solution:
-    def minPartitions(self, s: str) -> int:
-        return max(int(ch) for ch in s)
+    def minPartitions(self, n: str) -> int:
+        return max(int(c) for c in n)
