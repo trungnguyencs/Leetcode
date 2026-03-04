@@ -1344,3 +1344,14 @@ Leetcode profile: https://leetcode.com/gauau/
 |[3375. Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/)|Easy|||
 |[3394. Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/)|Medium||last month|[3394-check-if-grid-can-be-cut-into-sections.py](https://github.com/trungnguyencs/Leetcode/blob/main/3394-check-if-grid-can-be-cut-into-sections/3394-check-if-grid-can-be-cut-into-sections.py/)|
 |[3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/)|Easy||3 weeks ago|[3396-minimum-number-of-operations-to-make-elements-in-array-distinct.py](https://github.com/trungnguyencs/Leetcode/blob/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/3396-minimum-number-of-operations-to-make-elements-in-array-distinct.py/)|
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+<!---LeetCode Topics End-->
