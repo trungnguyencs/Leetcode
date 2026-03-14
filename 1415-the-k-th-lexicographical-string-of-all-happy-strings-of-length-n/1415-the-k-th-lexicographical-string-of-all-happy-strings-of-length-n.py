@@ -1,18 +1,18 @@
 class Solution:
     def getHappyString(self, n: int, k: int) -> str:
         self.k = k
-        self.ans = ''
-        self.backtrack([], n)
-        return self.ans
+        return self.backtrack([''] * n, 0)
 
-    def backtrack(self, arr, n):
-        if len(arr) == n:
+    def backtrack(self, arr, i):
+        if i == len(arr):
             self.k -= 1
             if self.k == 0:
-                self.ans = ''.join(arr)
-            return
+                return ''.join(arr)
+            return ''
         for ch in 'abc':
-            if len(arr) > 0 and arr[-1] == ch:
+            if i > 0 and ch == arr[i-1]:
                 continue
-            if self.k > 0:
-                self.backtrack(arr + [ch], n)
+            arr[i] = ch
+            res = self.backtrack(arr, i + 1)
+            if res: return res
+        return ''
