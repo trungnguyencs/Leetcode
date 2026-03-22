@@ -1350,12 +1350,14 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trungnguyencs/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/trungnguyencs/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trungnguyencs/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/trungnguyencs/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
