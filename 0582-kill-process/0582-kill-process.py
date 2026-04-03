@@ -1,12 +1,17 @@
 class Solution:
     def killProcess(self, pid: List[int], ppid: List[int], kill: int) -> List[int]:
-        G = defaultdict(list)
-        for node, parent in zip(pid, ppid):
-            G[parent].append(node)
-        ans = [kill]
+        G = self.buildGraph(pid, ppid)
+        ans = []
         q = deque([kill])
         while q:
             cur = q.popleft()
-            q.extend(G[cur])
-            ans.extend(G[cur])
+            ans.append(cur)
+            for child in G[cur]:
+                q.append(child)
         return ans
+
+    def buildGraph(self, pid, ppid):
+        G = defaultdict(list)
+        for child, parent in zip(pid, ppid):
+            G[parent].append(child)
+        return G
