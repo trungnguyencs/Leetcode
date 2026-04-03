@@ -1349,6 +1349,7 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trungnguyencs/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -1369,6 +1370,7 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -1383,4 +1385,16 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/trungnguyencs/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 <!---LeetCode Topics End-->
