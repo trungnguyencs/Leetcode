@@ -1355,6 +1355,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/trungnguyencs/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/trungnguyencs/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/trungnguyencs/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1375,6 +1376,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/trungnguyencs/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/trungnguyencs/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
