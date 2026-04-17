@@ -1407,4 +1407,12 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/trungnguyencs/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/trungnguyencs/Leetcode/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/trungnguyencs/Leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
