@@ -1415,6 +1415,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/trungnguyencs/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/trungnguyencs/Leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1426,5 +1427,6 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/trungnguyencs/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
