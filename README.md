@@ -1350,6 +1350,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
+| [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/trungnguyencs/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trungnguyencs/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -1422,4 +1423,8 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/trungnguyencs/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
