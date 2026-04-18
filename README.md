@@ -1422,6 +1422,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0050-powx-n](https://github.com/trungnguyencs/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/trungnguyencs/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/trungnguyencs/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/trungnguyencs/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
