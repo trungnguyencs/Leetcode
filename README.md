@@ -1407,11 +1407,13 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 ## Breadth-First Search
@@ -1477,9 +1479,11 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
