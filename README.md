@@ -1408,6 +1408,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/trungnguyencs/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1417,6 +1418,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/trungnguyencs/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -1486,6 +1488,7 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/trungnguyencs/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/trungnguyencs/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -1493,6 +1496,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/trungnguyencs/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
