@@ -1349,6 +1349,7 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/trungnguyencs/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trungnguyencs/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0163-missing-ranges](https://github.com/trungnguyencs/Leetcode/tree/main/0163-missing-ranges/) | Easy |
 | [0281-zigzag-iterator](https://github.com/trungnguyencs/Leetcode/tree/main/0281-zigzag-iterator/) | Medium |
@@ -1382,6 +1383,7 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/trungnguyencs/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/trungnguyencs/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
