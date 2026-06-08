@@ -1353,6 +1353,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trungnguyencs/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0163-missing-ranges](https://github.com/trungnguyencs/Leetcode/tree/main/0163-missing-ranges/) | Easy |
 | [0281-zigzag-iterator](https://github.com/trungnguyencs/Leetcode/tree/main/0281-zigzag-iterator/) | Medium |
+| [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -1455,10 +1456,12 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0094-binary-tree-inorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/trungnguyencs/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/trungnguyencs/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/trungnguyencs/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -1506,4 +1509,12 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0230-kth-smallest-element-in-a-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/trungnguyencs/Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/trungnguyencs/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
