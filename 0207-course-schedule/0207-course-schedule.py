@@ -1,21 +1,24 @@
 class Solution:
-    def canFinish(self, n: int, prerequisites: List[List[int]]) -> bool:
-        G, ind = self.buildGraph(prerequisites, n)
-        q = deque([i for i in range(n) if ind[i] == 0])
-        courseOrder = []
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        G, ind = self.buildGraph(prerequisites)
+        q = deque()
+        for c in range(numCourses):
+            if ind[c] == 0:
+                q.append(c)
+        finished = 0
         while q:
-            child = q.popleft()
-            courseOrder.append(child)
-            for parent in G[child]:
-                ind[parent] -= 1
-                if ind[parent] == 0:
-                    q.append(parent)
-        return len(courseOrder) == n
-            
-    def buildGraph(self, prerequisites, n):
-        G = defaultdict(list)
-        ind = [0]*n
-        for parent, child in prerequisites:
-            ind[parent] += 1
-            G[child].append(parent)
+            cur = q.popleft()
+            finished += 1
+            for p in G[cur]:
+                ind[p] -= 1
+                if ind[p] == 0:
+                    q.append(p)
+        return finished == numCourses
+
+    def buildGraph(self, prerequisites):
+        ind = defaultdict(int)
+        G = defaultdict(set)
+        for p, c in prerequisites:
+            G[c].add(p)
+            ind[p] += 1
         return G, ind
