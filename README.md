@@ -1377,6 +1377,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0020-valid-parentheses](https://github.com/trungnguyencs/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/trungnguyencs/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/trungnguyencs/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/trungnguyencs/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/trungnguyencs/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -1387,6 +1388,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0001-two-sum](https://github.com/trungnguyencs/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/trungnguyencs/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
+| [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/trungnguyencs/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/trungnguyencs/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -1471,6 +1473,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0232-implement-queue-using-stacks](https://github.com/trungnguyencs/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0281-zigzag-iterator](https://github.com/trungnguyencs/Leetcode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/trungnguyencs/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1527,4 +1530,8 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/trungnguyencs/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
 <!---LeetCode Topics End-->
