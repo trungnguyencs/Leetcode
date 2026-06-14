@@ -1365,6 +1365,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/trungnguyencs/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/trungnguyencs/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/trungnguyencs/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/trungnguyencs/Leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1493,6 +1494,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/trungnguyencs/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/trungnguyencs/Leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
