@@ -1356,6 +1356,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/trungnguyencs/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trungnguyencs/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -1409,6 +1410,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/trungnguyencs/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/trungnguyencs/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/trungnguyencs/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/trungnguyencs/Leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -1468,6 +1470,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0069-sqrtx](https://github.com/trungnguyencs/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1493,6 +1496,7 @@ Leetcode profile: https://leetcode.com/gauau/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/trungnguyencs/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/trungnguyencs/Leetcode/tree/main/3914-minimum-operations-to-make-array-non-decreasing/) | Medium |
 ## Iterator
@@ -1536,4 +1540,8 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
 <!---LeetCode Topics End-->
