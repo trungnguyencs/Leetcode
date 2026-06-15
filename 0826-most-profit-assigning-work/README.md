@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/most-profit-assigning-work/">826. Most Profit Assigning Work</a></h2><h3>Medium</h3><hr><div><p>You have <code>n</code> jobs and <code>m</code> workers. You are given three arrays: <code>difficulty</code>, <code>profit</code>, and <code>worker</code> where:</p>
+<h2><a href="https://leetcode.com/problems/most-profit-assigning-work">826. Most Profit Assigning Work</a></h2><h3>Medium</h3><hr><p>You have <code>n</code> jobs and <code>m</code> workers. You are given three arrays: <code>difficulty</code>, <code>profit</code>, and <code>worker</code> where:</p>
 
 <ul>
 	<li><code>difficulty[i]</code> and <code>profit[i]</code> are the difficulty and the profit of the <code>i<sup>th</sup></code> job, and</li>
@@ -16,14 +16,16 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> difficulty = [2,4,6,8,10], profit = [10,20,30,40,50], worker = [4,5,6,7]
+<pre>
+<strong>Input:</strong> difficulty = [2,4,6,8,10], profit = [10,20,30,40,50], worker = [4,5,6,7]
 <strong>Output:</strong> 100
 <strong>Explanation:</strong> Workers are assigned jobs of difficulty [4,4,6,6] and they get a profit of [20,20,30,30] separately.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> difficulty = [85,47,57], profit = [24,66,99], worker = [40,25,25]
+<pre>
+<strong>Input:</strong> difficulty = [85,47,57], profit = [24,66,99], worker = [40,25,25]
 <strong>Output:</strong> 0
 </pre>
 
@@ -37,4 +39,3 @@
 	<li><code>1 &lt;= n, m &lt;= 10<sup>4</sup></code></li>
 	<li><code>1 &lt;= difficulty[i], profit[i], worker[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
-</div>
