@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/first-unique-number/?envType=weekly-question&envId=2025-05-22">1429. First Unique Number</a></h2><h3>Medium</h3><hr><p>You have a queue of integers, you need to retrieve the first unique integer in the queue.</p>
+<h2><a href="https://leetcode.com/problems/first-unique-number">1429. First Unique Number</a></h2><h3>Medium</h3><hr><p>You have a queue of integers, you need to retrieve the first unique integer in the queue.</p>
 
 <p>Implement the <code>FirstUnique</code>&nbsp;class:</p>
 
