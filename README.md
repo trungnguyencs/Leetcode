@@ -1357,6 +1357,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [1429-first-unique-number](https://github.com/trungnguyencs/Leetcode/tree/main/1429-first-unique-number/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/trungnguyencs/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/trungnguyencs/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -1391,6 +1392,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0141-linked-list-cycle](https://github.com/trungnguyencs/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
+| [1429-first-unique-number](https://github.com/trungnguyencs/Leetcode/tree/main/1429-first-unique-number/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/trungnguyencs/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/trungnguyencs/Leetcode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -1478,16 +1480,19 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0281-zigzag-iterator](https://github.com/trungnguyencs/Leetcode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/trungnguyencs/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
+| [1429-first-unique-number](https://github.com/trungnguyencs/Leetcode/tree/main/1429-first-unique-number/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/trungnguyencs/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0281-zigzag-iterator](https://github.com/trungnguyencs/Leetcode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/trungnguyencs/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1429-first-unique-number](https://github.com/trungnguyencs/Leetcode/tree/main/1429-first-unique-number/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/trungnguyencs/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1429-first-unique-number](https://github.com/trungnguyencs/Leetcode/tree/main/1429-first-unique-number/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
