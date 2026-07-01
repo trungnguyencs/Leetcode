@@ -1,35 +1,33 @@
 class Solution:
-    def suggestedProducts(self, words: List[str], searchWord: str) -> List[List[str]]:
+    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
+        products.sort()
         trie = Trie()
-        for word in sorted(words):
-            trie.add(word)
-        return trie.suggest(searchWord)
-        
+        for p in products:
+            trie.add(p)
+        ans = []
+        cur = trie.root
+        for ch in searchWord:
+            if ch not in cur.children: break
+            cur = cur.children[ch]
+            ans.append(cur.minThree)
+        return ans + [[] for _ in range(len(searchWord) - len(ans))]
+
 class Trie:
     def __init__(self):
         self.root = Node()
-        
+
     def add(self, word):
-        node = self.root
+        cur = self.root
         for ch in word:
-            if ch not in node.children:
-                node.children[ch] = Node()
-            node = node.children[ch]
-            if len(node.topThree) < 3:
-                node.topThree.append(word)
-                
-    def suggest(self, word):
-        ans = [[]]*len(word)
-        node = self.root
-        for i, ch in enumerate(word):
-            if ch in node.children:
-                node = node.children[ch]
-                ans[i] = node.topThree
-            else:
-                break
-        return ans
-            
+            if ch not in cur.children:
+                cur.children[ch] = Node()
+            cur = cur.children[ch]
+            if len(cur.minThree) < 3:
+                cur.minThree.append(word)
+        cur.isWord = True
+
 class Node:
     def __init__(self):
         self.children = {}
-        self.topThree = []
+        self.isWord = False
+        self.minThree = []
