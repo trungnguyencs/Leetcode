@@ -1357,6 +1357,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0582-kill-process](https://github.com/trungnguyencs/Leetcode/tree/main/0582-kill-process/) | Medium |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [1268-search-suggestions-system](https://github.com/trungnguyencs/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1429-first-unique-number](https://github.com/trungnguyencs/Leetcode/tree/main/1429-first-unique-number/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/trungnguyencs/Leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/trungnguyencs/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -1381,6 +1382,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0344-reverse-string](https://github.com/trungnguyencs/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/trungnguyencs/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
+| [1268-search-suggestions-system](https://github.com/trungnguyencs/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/trungnguyencs/Leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/trungnguyencs/Leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/trungnguyencs/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -1473,6 +1475,7 @@ Leetcode profile: https://leetcode.com/gauau/
 | [0456-132-pattern](https://github.com/trungnguyencs/Leetcode/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/trungnguyencs/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [1268-search-suggestions-system](https://github.com/trungnguyencs/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1545,8 +1548,14 @@ Leetcode profile: https://leetcode.com/gauau/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1166-design-file-system](https://github.com/trungnguyencs/Leetcode/tree/main/1166-design-file-system/) | Medium |
+| [1268-search-suggestions-system](https://github.com/trungnguyencs/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0826-most-profit-assigning-work](https://github.com/trungnguyencs/Leetcode/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [1268-search-suggestions-system](https://github.com/trungnguyencs/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1268-search-suggestions-system](https://github.com/trungnguyencs/Leetcode/tree/main/1268-search-suggestions-system/) | Medium |
 <!---LeetCode Topics End-->
